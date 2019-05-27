@@ -1,0 +1,14 @@
+akflbcd;0
+akflbcd;0
+?;3
+don't;2
+doesn't;2
+won't;2
+wouldn't;2
+haven't;2
+didn't;2
+not;2
+isn't;2
+hasn't;2
+weren't;2
+shouldn't;2

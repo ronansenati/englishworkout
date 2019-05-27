@@ -1,0 +1,2803 @@
+2019/05/27 02:57:56
+Inserted 1 Engl ID - 1 - I'd gone there with you.
+Inserted 2 Port ID - 2 - Eu tinha ido lá com você.
+Inserted 1 Engl ID - 3 - I'd studied Spanish.
+Inserted 2 Port ID - 4 - Eu tinha estudado espanhol.
+Inserted 1 Engl ID - 5 - I'd bought a new car.
+Inserted 2 Port ID - 6 - Eu tinha comprado um carro novo.
+Inserted 1 Engl ID - 7 - I'd talk to her.
+Inserted 2 Port ID - 8 - Eu falaria com ela.
+Inserted 1 Engl ID - 9 - I'd talked to her.
+Inserted 2 Port ID - 10 - Eu tinha falado com ela.= I had talked to her.
+Inserted 1 Engl ID - 11 - I'd write a book.
+Inserted 2 Port ID - 12 - Eu escreveria um livro.= I would write a book.
+Inserted 1 Engl ID - 13 - I'd written a book.
+Inserted 2 Port ID - 14 - Eu tinha escrito um livro. = I had written a book.
+Inserted 1 Engl ID - 15 - One of the most powerfull effects of marketing is to gain influence in the minds of potential customers.
+Inserted 2 Port ID - 16 - Um dos mais poderosos efeitos do marketing é conquistar influência na mente de potenciais clientes.
+Inserted 1 Engl ID - 17 - The human being is productive by nature.
+Inserted 2 Port ID - 18 - O ser humano é produitvo por natureza.
+Inserted 1 Engl ID - 19 - Work to learn: Money is consequence.
+Inserted 2 Port ID - 20 - Trabalhe para aprender: dinheiro é consequência.
+Inserted 1 Engl ID - 21 - Incomplete tasks are broken deals with yourselfs.
+Inserted 2 Port ID - 22 - Tarefas incompletas são acordos quebrados consigo mesmo.
+Inserted 1 Engl ID - 23 - Success depends on a conscious effort to change your own destiny.
+Inserted 2 Port ID - 24 - O sucesso depende de um esforço consciente para mudar o próprio destino.
+Inserted 1 Engl ID - 25 - When investing, do not try to go against nature.
+Inserted 2 Port ID - 26 - Ao investir, não tente ir contra a natureza.
+Inserted 1 Engl ID - 27 - The real change happens when you pay yourself every month.
+Inserted 2 Port ID - 28 - A verdadeira mudança acontece quando você se paga todo mês.
+Inserted 1 Engl ID - 29 - The two most important days in your life are the day you are born an the day you find out why.
+Inserted 2 Port ID - 30 - Os dias mais importantes na sua vida são o dia em que você nasce, e o dia em que você descobre o porquê.
+Inserted 1 Engl ID - 31 - Twenty years from now, you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbos, catch the trade winds in your sails
+Inserted 2 Port ID - 32 - Daqui a 20 anos, você se arrependerá mais pelo que não fez do que pelo que fez, por isso, tire as amarras, se afaste do seu porto seguro, pegue o rumo certo.
+Inserted 1 Engl ID - 33 - Explore, dream, discover.
+Inserted 2 Port ID - 34 - Explore, sonhe, descubra.
+Inserted 1 Engl ID - 35 - I'm convinced that about half of what separates the successful entrepreneurs from the non-successful one is pure perseverance.
+Inserted 2 Port ID - 36 - Estou convencido de que cerca da metade do que separa os empreendedores de sucesso dos não bem-sucedidos é pura perseverança.
+Inserted 1 Engl ID - 37 - Do not be embarrassed by your failures, learn from them and start again.
+Inserted 2 Port ID - 38 - Não se sinta envergonhado por seus fracassos, aprenda com eles e comece de novo.
+Inserted 1 Engl ID - 39 - It does not matter who slowly you as long as you do not stop.
+Inserted 2 Port ID - 40 - Não importa o quão devagar você vá, desde que você não pare.
+Inserted 1 Engl ID - 41 - It's hard to beat a person who never gives up.
+Inserted 2 Port ID - 42 - É difícil bater uma pessoa que nunca desiste.
+Inserted 1 Engl ID - 43 - Fail often so you can succeed sooner.
+Inserted 2 Port ID - 44 - Falhe logo para que você possa ter sucesso mais cedo.
+Inserted 1 Engl ID - 45 - Timing, perseverance, and ten years of trying will eventually make you look like an overnight success.
+Inserted 2 Port ID - 46 - Tempo, perseverança e 10 anos de trabalho talvez te façam parecer um sucesso da noite para o dia.
+Inserted 1 Engl ID - 47 - You may be disappointed if you fail, but you are doomed if you don't try.
+Inserted 2 Port ID - 48 - Você pode ficar desapontado se falhar, mas estará condenado se não tentar.
+Inserted 1 Engl ID - 49 - When you cease to dream you cease to live.
+Inserted 2 Port ID - 50 - Quando você não deixa de sonhar, você deixa de viver.
+Inserted 1 Engl ID - 51 - Your most unhappy customers are you greates source of learning.
+Inserted 2 Port ID - 52 - Seus clientes mais insatisfeitos são sua maior fonte de aprendizado.
+Inserted 1 Engl ID - 53 - Do not let college interfere with your studies.
+Inserted 2 Port ID - 54 - Não deixe a faculdade atrapalhar seus estudos.
+Inserted 1 Engl ID - 55 - I do not have a problem if you aim loud and err, i have a problem if you aim low and hit.
+Inserted 2 Port ID - 56 - Eu não tenho um problema se você mirar alto e errar, eu tenho um problema se você mirar baixo e acertar.
+Inserted 1 Engl ID - 57 - If you think that you can or you think that you can't, you're right.
+Inserted 2 Port ID - 58 - Se você achar que consegue ou você achar que não consegue, você está certo.
+Inserted 1 Engl ID - 59 - The more you work, more luck will you have.
+Inserted 2 Port ID - 60 - Quanto mais você trabalhar, mais sorte terá.
+Inserted 1 Engl ID - 61 - Hiring is the most important thing you do.
+Inserted 2 Port ID - 62 - Contratar é a coisa mais importante que você faz.
+Inserted 1 Engl ID - 63 - Our greatest asset it the ability of enthusiasm who is around us.
+Inserted 2 Port ID - 64 - O nosso maior ativo é a capaciddade de entusiasmar quem está à nossa volta.
+Inserted 1 Engl ID - 65 - I'd rather be paid for my results.
+Inserted 2 Port ID - 66 - Eu prefiro ser remnureado pelos meus resultados.
+Inserted 1 Engl ID - 67 - Is not what happened, it's what happens next.
+Inserted 2 Port ID - 68 - Não se trata do que aconteceu. Trata-se do que acontece em seguida.
+Inserted 1 Engl ID - 69 - It's not about ideas, it's about making ideas happen.
+Inserted 2 Port ID - 70 - Não se trata de ideias, trata-se de fazer ideias acontecerem.
+Inserted 1 Engl ID - 71 - If you want to do it, do it now. If you don't, you're going to regret it.
+Inserted 2 Port ID - 72 - Se você quer fazer algo, faça agora. Se não fizer, você se arrependerá.
+Inserted 1 Engl ID - 73 - I've missed more than 9.000 shots in my career. 
+Inserted 2 Port ID - 74 - Eu perdi mais de 9000 arremessos na minha carreira.
+Inserted 1 Engl ID - 75 - I've lost almost 300 games, 26 times i've been trusted to take the game's winning shot and missed. 
+Inserted 2 Port ID - 76 - Perdi aproximadamente 300 jogos, 26 vezes eu acreditei ter dado o arremesso vencedor do jogo e o perdi. 
+Inserted 1 Engl ID - 77 - I've failed over and over again in my live and that's why I succeed.
+Inserted 2 Port ID - 78 - Eu falhei repetidamente na minha vida, e é por isso que eu obtive sucesso.
+Inserted 1 Engl ID - 79 - There's nothing wrong with staying small. 
+Inserted 2 Port ID - 80 - Não há nada errado em manter-se pequeno. 
+Inserted 1 Engl ID - 81 - You can do big things with a small team.
+Inserted 2 Port ID - 82 - Você pode fazer grandes coisas com um time pequeno.
+Inserted 1 Engl ID - 83 - Implementation is hard. 
+Inserted 2 Port ID - 84 - Fazer acontecer é difícil.
+Inserted 1 Engl ID - 85 - Ideas are easy.
+Inserted 2 Port ID - 86 - Ideias são fáceis. 
+Inserted 1 Engl ID - 87 - If you just work on stutff that you like and you're passionate about, you don't have to have a master plan with how thing will play out.
+Inserted 2 Port ID - 88 - Se você trabalha com o que gosta e é apaixonado por isso, você não precisa se preocupar como as coisas vão acontecer.
+Inserted 1 Engl ID - 89 - The best time to plant a tree was 20 years ago. 
+Inserted 2 Port ID - 90 - O melhor momento para plantar uma árvore era 20 anos atrás. 
+Inserted 1 Engl ID - 91 - The second best time is now.
+Inserted 2 Port ID - 92 - O segundo melhor é agora.
+Inserted 1 Engl ID - 93 - The secret of successful hiring is this: look for the people who want change the world.
+Inserted 2 Port ID - 94 - O segredo para uma contratação de sucesso é esse: procure por pessoas que queiram mudar o mundo.
+Inserted 1 Engl ID - 95 - You're not a risk taker, you should get the hell out of business.
+Inserted 2 Port ID - 96 - Se você não corre riscos, você deve dar o fora dos negócios.
+Inserted 1 Engl ID - 97 - Watch, listen and learn. You can't know it all yourself. 
+Inserted 2 Port ID - 98 - Observe, escute e aprenda. Você não consegue saber tudo sozinho. 
+Inserted 1 Engl ID - 99 - Anyone who thinks they do is destined for mediocrity.
+Inserted 2 Port ID - 100 - Qualquer um que pense que consegue está destinado a mediocridade.
+Inserted 1 Engl ID - 101 - All progress takes place outside the comfort zone.
+Inserted 2 Port ID - 102 - Todo progresso acontece fora da zona de conforto.
+Inserted 1 Engl ID - 103 - The only place where sucess comes before work is in the dictionary.
+Inserted 2 Port ID - 104 - O único lugar em que o sucesso vem antes do trabalho é no dicionário.
+Inserted 1 Engl ID - 105 - Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+Inserted 2 Port ID - 106 - Sempre que você se encontrar do lado da maioria, é hora de parar e refletir.
+Inserted 1 Engl ID - 107 - You may have to fight a battle more than once to win it.
+Inserted 2 Port ID - 108 - Você deve lutar mais de uma batalha para se tornar um vencedor.
+Inserted 1 Engl ID - 109 - Logic will get you from A to B. Imagination will take you everywhere.
+Inserted 2 Port ID - 110 - A lógica pode levar de um ponto A a um ponto B. A imaginação pode te levar a qualquer lugar.
+Inserted 1 Engl ID - 111 - Dream as if you will live forever. Live as if you will die today.
+Inserted 2 Port ID - 112 - Sonhe como se você fosse viver para sempre. Viva como se você fosse morrer hoje.
+Inserted 1 Engl ID - 113 - Your time is limited, so don't waste it living someone else's life.
+Inserted 2 Port ID - 114 - Seu tempo é limitado. Por isso, não o desperdice vivendo a vida de outra pessoa.
+Inserted 1 Engl ID - 115 - We forge the chains we wear in life.
+Inserted 2 Port ID - 116 - ‘Somos nós que forjamos as correntes que usamos em nossas vidas.
+Inserted 1 Engl ID - 117 - You never regret being kind.
+Inserted 2 Port ID - 118 - Você nunca se arrependerá de ser gentil.
+Inserted 1 Engl ID - 119 - One important key to success is self-confidence. An important key to self-confidence is preparation.
+Inserted 2 Port ID - 120 - Uma importante chave para o sucesso é a auto-confiança. Uma importante chave para auto-confiança, é a preparação.
+Inserted 1 Engl ID - 121 - Nothing is less productive than to make more efficient what should not be done at all.
+Inserted 2 Port ID - 122 - Nada é menos produtivo do que tornar eficiente algo que nem deveria ser feito.
+Inserted 1 Engl ID - 123 - To succeed is to fail repeatedly, but without losing enthusiasm.
+Inserted 2 Port ID - 124 - Ter sucesso é falhar repetidamente, mas sem perder o entusiasmo.
+Inserted 1 Engl ID - 125 - I atribute my success to this – I never gave or took any excuse.
+Inserted 2 Port ID - 126 - Eu atribuo o meu sucesso a isso: eu nunca dei ou tomei qualquer desculpa.
+Inserted 1 Engl ID - 127 - You can never cross the ocean until you have the courage to lose sight of the coast.
+Inserted 2 Port ID - 128 - Você nunca poderá atravessar o oceano até que você tenha coragem de perder de vista a costa.
+Inserted 1 Engl ID - 129 - There is only one way to avoid criticism: do nothing, say nothing, and be nothing.
+Inserted 2 Port ID - 130 - Há apenas uma maneira de evitar críticas: não faça nada, não diga nada, não seja nada.
+Inserted 1 Engl ID - 131 - Life begins at the end of your comfort zone.
+Inserted 2 Port ID - 132 - A vida começa no fim da sua zona de conforto.
+Inserted 1 Engl ID - 133 - Speak less. Listen more.
+Inserted 2 Port ID - 134 - Fale menos. Escute mais.
+Inserted 1 Engl ID - 135 - Let your heart be as wide as the world.
+Inserted 2 Port ID - 136 - Deixe seu coração ser tão amplo quanto o mundo.
+Inserted 1 Engl ID - 137 - Kill the ego of hunger, feed the soul.
+Inserted 2 Port ID - 138 - Mate o ego de fome, alimente a alma.
+Inserted 1 Engl ID - 139 - You'll have the view of the top of the mountain that you climb.
+Inserted 2 Port ID - 140 - Você terá a vista da montanha que subir.
+Inserted 1 Engl ID - 141 - When you don't take any risks, you risk everything.
+Inserted 2 Port ID - 142 - Quando você não arrisca nada, você arrisca tudo.
+Inserted 1 Engl ID - 143 - Are necessary too many years of work to succeed overnight.
+Inserted 2 Port ID - 144 - São necessários muitos anos de trabalho para fazer sucesso do dia para a noite.
+Inserted 1 Engl ID - 145 - You should sit in meditation for twenty inutes everyday – unless you're too busy
+Inserted 2 Port ID - 146 -  then you should sit for an hour.
+Inserted 1 Engl ID - 147 - To read good books is like talking with the best minds that have ever existed.
+Inserted 2 Port ID - 148 - Ler bons livros é como poder conversar com as maiores mentes que já existiram.
+Inserted 1 Engl ID - 149 - You will be the same person in five years as you are today, except for the people you meet and the books you read.
+Inserted 2 Port ID - 150 - Daqui a cinco anos você será a mesma pessoa que é hoje, exceto pelas pessoas que conhecer e pelos livros que ler.
+Inserted 1 Engl ID - 151 - Be the change you want to see in the world.
+Inserted 2 Port ID - 152 - Seja a mudança que você quer ver no mundo.
+Inserted 1 Engl ID - 153 - If you set goals ridiculously high and it's a failure, you will fail above everyone else's success.
+Inserted 2 Port ID - 154 - Se você traçar metas ridiculamente altas e falhar, seu fracasso será acima do sucesso de todos.
+Inserted 1 Engl ID - 155 - A sucessful man is one who can lay a firm foundation with the bricks others have thrown at him.
+Inserted 2 Port ID - 156 - Um homem de sucesso é aquele que cria um alicerce com os tijolos que jogaram nele.
+Inserted 1 Engl ID - 157 - Succes is the sum of small efforts – repeated day in and day out.
+Inserted 2 Port ID - 158 - O sucesso é a soma de pequenos esforços – repetidos dia após dia.
+Inserted 1 Engl ID - 159 - Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+Inserted 2 Port ID - 160 - Tenha a coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar. O resto é secundário.
+Inserted 1 Engl ID - 161 - You do not learn to walk by following rules. You learn by doing and falling over.
+Inserted 2 Port ID - 162 - Você não aprende a andar seguindo regras. Você aprende fazendo e caindo.
+Inserted 1 Engl ID - 163 - Fail seven times, stand up eight.
+Inserted 2 Port ID - 164 - Falhe sete vezes. Levante-se oito.
+Inserted 1 Engl ID - 165 - Nothing can stop the man with the right mental atitude from achieving his goal nothing on earth can help the man with the wrong mental atitude.
+Inserted 2 Port ID - 166 - Nada pode parar um homem com a atitude mental correta de alcançar seu objetivo E nada na terra pode ajudar o homem que tem a atitude mental errada.
+Inserted 1 Engl ID - 167 - Sucessful people have fear, sucessful people have doubts, and sucessful people have worries.
+Inserted 2 Port ID - 168 - Pessoas bem-sucedidas tem medo, pessoas bem-sucedidas têm dúvidas, e pessoas bem-sucedidas tem preocupações.
+Inserted 1 Engl ID - 169 - They just don't let these feelings stop them.
+Inserted 2 Port ID - 170 - Elas só não deixam esses sentimentos dominarem sua vida.
+Inserted 1 Engl ID - 171 - Be content to act, and leave the talking to others.
+Inserted 2 Port ID - 172 - Fique contente em agir. Deixa a fala para os outros.
+Inserted 1 Engl ID - 173 - Don't be afraid to give up the good to go for the great.
+Inserted 2 Port ID - 174 - Não tenha medo de desistir do bom para perseguir o ótimo.
+Inserted 1 Engl ID - 175 - Dreaming big and dreaming small gives the same work.
+Inserted 2 Port ID - 176 - Sonhar grande e sonhar pequeno dá o mesmo trabalho.
+Inserted 1 Engl ID - 177 - Starting a company is like throwing yourself off the cliff and assembling an airplane on the way down.
+Inserted 2 Port ID - 178 - Empreender é como se atirar do penhasco e construir um avião na queda.
+Inserted 1 Engl ID - 179 - The bottom of the pit can be a good foundation for building an empire.
+Inserted 2 Port ID - 180 - O fundo do poço pode ser um bom alicerce para se construir um império.
+Inserted 1 Engl ID - 181 - Run after your own dreams, otherwise you will be hired to perfom someone else's.
+Inserted 2 Port ID - 182 - Corra atrás dos seus próprios sonhos. Do contrário, você será contratado para realizar os de alguém.
+Inserted 1 Engl ID - 183 - Discipline, sooner or later, overpasses the talent.
+Inserted 2 Port ID - 184 - A disciplina, cedo ou tarde,supera o talento.
+Inserted 1 Engl ID - 185 - Your wealth will grow as you growing.
+Inserted 2 Port ID - 186 - A sua riqueza crescerá à medida que você crescer.
+Inserted 1 Engl ID - 187 - Lucky is what happens when preparation finds the opportunity.
+Inserted 2 Port ID - 188 - Sorte é o que acontece quando a preparação se encontra com a oportunidade.
+Inserted 1 Engl ID - 189 - Create something that a hundred people love.
+Inserted 2 Port ID - 190 - Crie algo que cem pessoas amem.
+Inserted 1 Engl ID - 191 - The only way to win is learning quicker than anyone.
+Inserted 2 Port ID - 192 - O único jeito de ganhar é aprender mais rápido que qualquer um.
+Inserted 1 Engl ID - 193 - In your life, you will live to achieve your own goals and dreams, or will be used as one to achieve that of others.
+Inserted 2 Port ID - 194 - Em sua vida, você viverá para alcançar seus próprios objetivos e sonhos, ou será usado como um recurso para alcançar os dos outros.
+Inserted 1 Engl ID - 195 - Remember that not getting what you want is sometimes a wonderful stroke of luck.
+Inserted 2 Port ID - 196 - Lembre-se que não conseguir o que você quer é algumas vezes um lance de sorte.
+Inserted 1 Engl ID - 197 - People often say that motivation doesn't last. Well, neither does bathing – that's why we recommend it daily.
+Inserted 2 Port ID - 198 - As pessoas costumam dizer que a motivação não dura. Bem, nem o banho – é por isso que recomendamos ele diariamente.
+Inserted 1 Engl ID - 199 - Either run the day or the day runs you.
+Inserted 2 Port ID - 200 - Ou você corre do dia, ou durante o dia você corre.
+Inserted 1 Engl ID - 201 - You miss 100% of the shots you don't take.
+Inserted 2 Port ID - 202 - Você perde 100% dos tiros que não dá.
+Inserted 1 Engl ID - 203 - Two roads diverged at a bifurcation, and i took the less traveled. An that made all the difference.
+Inserted 2 Port ID - 204 - Duas estradas divergiam em uma bifurcação, e eu peguei a menos percorrida. E isso fez toda diferença.
+Inserted 1 Engl ID - 205 - Live is about making impact, not income.
+Inserted 2 Port ID - 206 - A vida é sobre criar impacto, não uma renda.
+Inserted 1 Engl ID - 207 - If you can dream, you can achieve.
+Inserted 2 Port ID - 208 - Se você pode sonhar, você pode conseguir.
+Inserted 1 Engl ID - 209 - The only way to do great work is to love what you do.
+Inserted 2 Port ID - 210 - A única maneira de fazer um excelente trabalho é amar o que você faz.
+Inserted 1 Engl ID - 211 - Change your thoughts and you change your world.
+Inserted 2 Port ID - 212 - Mude seus pensamentos e você muda seu mundo.
+Inserted 1 Engl ID - 213 - And in the end, it's not the years in your life that count. It's the life in your years.
+Inserted 2 Port ID - 214 - E no final, não são os anos de sua vida que contam. É a vida em seus anos.
+Inserted 1 Engl ID - 215 - When everything seems to be going against you, remeber that the airplane takes off against the wind, not with it.
+Inserted 2 Port ID - 216 - Quando tudo parece estar indo contra você, lembre-se que o avião decola contra o vento, não a favor dele.
+Inserted 1 Engl ID - 217 - The man who removes a mountain begins by carrying away small stones.
+Inserted 2 Port ID - 218 - O Homem que remove montanhas sempre começa retirando pequenas pedras do caminho.
+Inserted 1 Engl ID - 219 - You can get what you want or you can just get old.
+Inserted 2 Port ID - 220 - Você pode conseguir tudo o que quer ou simplesmente ficar velho.
+Inserted 1 Engl ID - 221 - Could you set the table, please?
+Inserted 2 Port ID - 222 - Você poderia arrumar a mesa, por favor?
+Inserted 1 Engl ID - 223 - I'm hungry.
+Inserted 2 Port ID - 224 - Estou com fome.
+Inserted 1 Engl ID - 225 - What day is it today?
+Inserted 2 Port ID - 226 - Que dia é hoje?
+Inserted 1 Engl ID - 227 - I'm feeling sick today.
+Inserted 2 Port ID - 228 - Eu estou me sentindo doente hoje.
+Inserted 1 Engl ID - 229 - I'm running a little late.
+Inserted 2 Port ID - 230 - Eu estou um pouco atrasado.
+Inserted 1 Engl ID - 231 - What's for breakfast today?
+Inserted 2 Port ID - 232 - O que tem para o café da manhã hoje?
+Inserted 1 Engl ID - 233 - I didn't sleep very well, I had a bad dream.
+Inserted 2 Port ID - 234 - Eu não dormi muito bem, eu tive um pesadelo.
+Inserted 1 Engl ID - 235 - How was school today?
+Inserted 2 Port ID - 236 - Como foi a escola hoje?
+Inserted 1 Engl ID - 237 - I don't know how to use it.
+Inserted 2 Port ID - 238 - Eu não sei como usar isto.
+Inserted 1 Engl ID - 239 - Do you want to order something to eat?
+Inserted 2 Port ID - 240 - Você quer pedir alguma coisa para comer?
+Inserted 1 Engl ID - 241 - Are you awake?
+Inserted 2 Port ID - 242 - Você está acordado?
+Inserted 1 Engl ID - 243 - Do you want some water?
+Inserted 2 Port ID - 244 - Você quer um pouco de água?
+Inserted 1 Engl ID - 245 - I ate already.
+Inserted 2 Port ID - 246 - Eu já comi
+Inserted 1 Engl ID - 247 - Would you like to come over and play some videogame?
+Inserted 2 Port ID - 248 - Você quer vir aqui e jogar um pouco de videogame?
+Inserted 1 Engl ID - 249 - I have to go to the supermarket.
+Inserted 2 Port ID - 250 - Eu tenho que ir ao supermercado.
+Inserted 1 Engl ID - 251 - Do you want to watch a movie?
+Inserted 2 Port ID - 252 - Você quer ver um filme?
+Inserted 1 Engl ID - 253 - Can you switch the light on?
+Inserted 2 Port ID - 254 - Você pode ligar a luz?
+Inserted 1 Engl ID - 255 - It's too hot today!
+Inserted 2 Port ID - 256 - Está muito quente hoje!
+Inserted 1 Engl ID - 257 - What would you like to do this evening?
+Inserted 2 Port ID - 258 - O que você gostaria de fazer esta noite?
+Inserted 1 Engl ID - 259 - I don't understand.
+Inserted 2 Port ID - 260 - Eu não entendo.
+Inserted 1 Engl ID - 261 - Good night. Sweet dreams.
+Inserted 2 Port ID - 262 - Boa noite. Bons sonhos.
+Inserted 1 Engl ID - 263 - How was your day?
+Inserted 2 Port ID - 264 - Como foi seu dia?
+Inserted 1 Engl ID - 265 - Be careful.
+Inserted 2 Port ID - 266 - Cuidado
+Inserted 1 Engl ID - 267 - I'll be in my room.
+Inserted 2 Port ID - 268 - Eu estarei no meu quarto.
+Inserted 1 Engl ID - 269 - Is there anything good on TV?
+Inserted 2 Port ID - 270 - Tem alguma coisa boa na TV?
+Inserted 1 Engl ID - 271 - Are you up to anything this evening?
+Inserted 2 Port ID - 272 - Vai fazer alguma coisa esta noite?
+Inserted 1 Engl ID - 273 - Let's eat out tonight!
+Inserted 2 Port ID - 274 - Vamos comer for a hoje à noite!
+Inserted 1 Engl ID - 275 - What would you like for dinner?
+Inserted 2 Port ID - 276 - O que você gostaria para o jantar?
+Inserted 1 Engl ID - 277 - I'm taking a shower and going to bed.
+Inserted 2 Port ID - 278 - Eu vou tomar um banho e ir para a cama.
+Inserted 1 Engl ID - 279 - I have to wake up at 7.
+Inserted 2 Port ID - 280 - Eu tenho que acordar às 7 horas.
+Inserted 1 Engl ID - 281 - I'm too tired.
+Inserted 2 Port ID - 282 - Estou muito cansado(a).
+Inserted 1 Engl ID - 283 - I'm going to bed.
+Inserted 2 Port ID - 284 - Eu vou para a cama.
+Inserted 1 Engl ID - 285 - Let me think about it.
+Inserted 2 Port ID - 286 - Deixa-me pensar sobre isso.
+Inserted 1 Engl ID - 287 - Where is the nearest ATM?
+Inserted 2 Port ID - 288 - Onde fica o caixa eletrônico mais próximo?
+Inserted 1 Engl ID - 289 - I'd like to cash this check.
+Inserted 2 Port ID - 290 - Quero trocar este cheque.
+Inserted 1 Engl ID - 291 - I'd like to make a withdrawal.
+Inserted 2 Port ID - 292 - Quero fazer um saque.
+Inserted 1 Engl ID - 293 - I'd like to make a deposit.
+Inserted 2 Port ID - 294 - Quero fazer um depósito.
+Inserted 1 Engl ID - 295 - I'd like to transfer some money.
+Inserted 2 Port ID - 296 - Quero fazer uma transferência.
+Inserted 1 Engl ID - 297 - I'd like to open a savings account.
+Inserted 2 Port ID - 298 - Quero abrir uma poupança.
+Inserted 1 Engl ID - 299 - I'd like to open a current account.
+Inserted 2 Port ID - 300 - Quero abrir uma conta corrente.
+Inserted 1 Engl ID - 301 - I'd like to open a business account.
+Inserted 2 Port ID - 302 - Quero abrir um conta empresarial.
+Inserted 1 Engl ID - 303 - I'd like to apply for a loan.
+Inserted 2 Port ID - 304 - Quero fazer um empréstimo.
+Inserted 1 Engl ID - 305 - I'd like to cancel a check.
+Inserted 2 Port ID - 306 - Quero sustar um cheque.
+Inserted 1 Engl ID - 307 - I need to cancel one of my accounts.
+Inserted 2 Port ID - 308 - Preciso cancelar uma de minhas contas.
+Inserted 1 Engl ID - 309 - Can I access my account through the web?
+Inserted 2 Port ID - 310 - Posso acessar minha conta pela internet?
+Inserted 1 Engl ID - 311 - My account's overdrawn.
+Inserted 2 Port ID - 312 - Minha conta está com saldo negativo. | Minha conta está no vermelho.
+Inserted 1 Engl ID - 313 - How many days will it take for the check to clear?
+Inserted 2 Port ID - 314 - Quantos dias vai levar para o cheque cair na conta?
+Inserted 1 Engl ID - 315 - What are the fees?
+Inserted 2 Port ID - 316 - Quais são as taxas adicionais?
+Inserted 1 Engl ID - 317 - Can I have your bankcard, please?
+Inserted 2 Port ID - 318 - O seu cartão, por favor?
+Inserted 1 Engl ID - 319 - Can I have your ID, please?
+Inserted 2 Port ID - 320 - Sua identidade, por favor?
+Inserted 1 Engl ID - 321 - How would you like the money?
+Inserted 2 Port ID - 322 - Como o/a senhor/a vai querer o dinheiro?
+Inserted 1 Engl ID - 323 - Good morning.
+Inserted 2 Port ID - 324 - Bom dia.
+Inserted 1 Engl ID - 325 - What a nice day.
+Inserted 2 Port ID - 326 - Que dia bonito.
+Inserted 1 Engl ID - 327 - What time is it?
+Inserted 2 Port ID - 328 - Que horas são?
+Inserted 1 Engl ID - 329 - Are you awake?
+Inserted 2 Port ID - 330 - Você está acordado?
+Inserted 1 Engl ID - 331 - What day is it today?
+Inserted 2 Port ID - 332 - Que dia é hoje?
+Inserted 1 Engl ID - 333 - I'm feeling sick today.
+Inserted 2 Port ID - 334 - Eu estou me sentindo doente hoje.
+Inserted 1 Engl ID - 335 - I'm running a little late.
+Inserted 2 Port ID - 336 - Eu estou um pouco atrasado.
+Inserted 1 Engl ID - 337 - What's for breakfast today?
+Inserted 2 Port ID - 338 - O que tem para o café da manhã hoje?
+Inserted 1 Engl ID - 339 - I didn't sleep very well, I had a bad dream.
+Inserted 2 Port ID - 340 - Eu não dormi muito bem, eu tive um pesadelo.
+Inserted 1 Engl ID - 341 - How was school today?
+Inserted 2 Port ID - 342 - Como foi a escola hoje?
+Inserted 1 Engl ID - 343 - I took an exam and did well.
+Inserted 2 Port ID - 344 - Eu fiz uma prova e me saí bem.
+Inserted 1 Engl ID - 345 - Could you set the table, please?
+Inserted 2 Port ID - 346 - Você poderia arrumar a mesa, por favor?
+Inserted 1 Engl ID - 347 - I'm hungry.
+Inserted 2 Port ID - 348 - Estou com fome.
+Inserted 1 Engl ID - 349 - Is lunch ready?
+Inserted 2 Port ID - 350 - O almoço está pronto?
+Inserted 1 Engl ID - 351 - Do you want some water?
+Inserted 2 Port ID - 352 - Você quer um pouco de água?
+Inserted 1 Engl ID - 353 - Could you help me wash the dishes?
+Inserted 2 Port ID - 354 - Você poderia me ajudar a lavar a louça?
+Inserted 1 Engl ID - 355 - It's too hot today!
+Inserted 2 Port ID - 356 - Está muito quente hoje!
+Inserted 1 Engl ID - 357 - Would you like to come over and play some videogame?
+Inserted 2 Port ID - 358 - Você quer vir aqui e jogar um pouco de videogame?
+Inserted 1 Engl ID - 359 - I have to go to the supermarket.
+Inserted 2 Port ID - 360 - Eu tenho que ir ao supermercado.
+Inserted 1 Engl ID - 361 - Do you want to watch a movie?
+Inserted 2 Port ID - 362 - Você quer ver um filme?
+Inserted 1 Engl ID - 363 - Can you switch the light on?
+Inserted 2 Port ID - 364 - Você pode ligar a luz?
+Inserted 1 Engl ID - 365 - What would you like to do this evening?
+Inserted 2 Port ID - 366 - O que você gostaria de fazer esta noite?
+Inserted 1 Engl ID - 367 - Have you fed the dog?
+Inserted 2 Port ID - 368 - Você alimentou o cachorro?
+Inserted 1 Engl ID - 369 - How was your day?
+Inserted 2 Port ID - 370 - Como foi seu dia?
+Inserted 1 Engl ID - 371 - I'll be in my room.
+Inserted 2 Port ID - 372 - Eu estarei no meu quarto.
+Inserted 1 Engl ID - 373 - Is there anything good on TV?
+Inserted 2 Port ID - 374 - Tem alguma coisa boa na TV?
+Inserted 1 Engl ID - 375 - Are you up to anything this evening? 
+Inserted 2 Port ID - 376 - Vai fazer alguma coisa esta noite?
+Inserted 1 Engl ID - 377 - Do you want to order something to eat?
+Inserted 2 Port ID - 378 - Você quer pedir alguma coisa para comer?
+Inserted 1 Engl ID - 379 - Let's eat out tonight!
+Inserted 2 Port ID - 380 - Vamos comer for a hoje à noite!
+Inserted 1 Engl ID - 381 - What would you like for dinner?
+Inserted 2 Port ID - 382 - O que você gostaria para o jantar?
+Inserted 1 Engl ID - 383 - I'm taking a shower and going to bed.
+Inserted 2 Port ID - 384 - Eu vou tomar um banho e ir para a cama.
+Inserted 1 Engl ID - 385 - I have to wake up at 7.
+Inserted 2 Port ID - 386 - Eu tenho que acordar às 7 horas.
+Inserted 1 Engl ID - 387 - I'm too tired.
+Inserted 2 Port ID - 388 - Estou muito cansado(a).
+Inserted 1 Engl ID - 389 - I'm going to bed.
+Inserted 2 Port ID - 390 - Eu vou para a cama.
+Inserted 1 Engl ID - 391 - Good night. Sweet dreams.
+Inserted 2 Port ID - 392 - Boa noite. Bons sonhos.
+Inserted 1 Engl ID - 393 - I shall be late tomorrow.
+Inserted 2 Port ID - 394 - Eu vou me atrasar amanhã.
+Inserted 1 Engl ID - 395 - A negativa do verbo é shall not, com a contração shan't.F12
+Inserted 1 Engl ID - 396 - I will be late tomorrow.
+Inserted 2 Port ID - 397 - Eu vou me atrasar amanhã.
+Inserted 1 Engl ID - 398 - I will spend my whole weekend watching TV.
+Inserted 2 Port ID - 399 - Eu vou passar o final de semana todo assistindo TV.
+Inserted 1 Engl ID - 400 - I won't see her this week.
+Inserted 2 Port ID - 401 - Eu não a verei essa semana.
+Inserted 1 Engl ID - 402 - I will not go to Paris.
+Inserted 2 Port ID - 403 - Eu não vou para Paris.
+Inserted 1 Engl ID - 404 - There is a man there.
+Inserted 2 Port ID - 405 - Há um homem lá.
+Inserted 1 Engl ID - 406 - There are a thousand men here.
+Inserted 2 Port ID - 407 - Há mil homens aqui.
+Inserted 1 Engl ID - 408 - There was a fly in my soup yesterday.
+Inserted 2 Port ID - 409 - Tinha uma mosca na minha sopa ontem.
+Inserted 1 Engl ID - 410 - There has not been any house there.
+Inserted 2 Port ID - 411 - Não tinha nenhuma casa lá.
+Inserted 1 Engl ID - 412 - Will there be anothers opportunities?
+Inserted 2 Port ID - 413 - Haverá outras oportunidades?
+Inserted 1 Engl ID - 414 - There is nothing here.
+Inserted 2 Port ID - 415 - Não há nada aqui.
+Inserted 1 Engl ID - 416 - Was there something good yesterday? 
+Inserted 2 Port ID - 417 - Tinha algo bom ontem?
+Inserted 1 Engl ID - 418 - There has not been anybody on the street.
+Inserted 2 Port ID - 419 - Não tinha ninguém na rua.
+Inserted 1 Engl ID - 420 - There have been three black cars.
+Inserted 2 Port ID - 421 - Tinham 3 carros pretos.
+Inserted 1 Engl ID - 422 - Is there any market around here?
+Inserted 2 Port ID - 423 - Há algum mercado perto daqui?
+Inserted 1 Engl ID - 424 - There wouldn't be a reason.
+Inserted 2 Port ID - 425 - Não haveria uma razão.
+Inserted 1 Engl ID - 426 - I don't know if there are reasons.
+Inserted 2 Port ID - 427 - Eu não sei se há motivos.
+Inserted 1 Engl ID - 428 - What is there under the chair?
+Inserted 2 Port ID - 429 - O que há embaixo da cadeira?
+Inserted 1 Engl ID - 430 - Would there be food?
+Inserted 2 Port ID - 431 - Haveria comida?
+Inserted 1 Engl ID - 432 - I guess there is food.
+Inserted 2 Port ID - 433 - Eu acho que tem comida.
+Inserted 1 Engl ID - 434 - There are pictures of mine in my mother's house.
+Inserted 2 Port ID - 435 - Há fotos minhas na casa da minha mãe.
+Inserted 1 Engl ID - 436 - There isn't parking where I have parked my car.
+Inserted 2 Port ID - 437 - Não há estacionamento onde eu estacionei o carro.
+Inserted 1 Engl ID - 438 - There have been bugs here.
+Inserted 2 Port ID - 439 - Tinham insetos aqui.
+Inserted 1 Engl ID - 440 - There would be somebody.
+Inserted 2 Port ID - 441 - Teria alguém.
+Inserted 1 Engl ID - 442 - Will there be water for everybody?
+Inserted 2 Port ID - 443 - Haverá água para todo mundo?
+Inserted 1 Engl ID - 444 - Yes there will be.
+Inserted 2 Port ID - 445 - Sim, haverá.
+Inserted 1 Engl ID - 446 - No, there won't be.
+Inserted 2 Port ID - 447 - Não, não haverá.
+Inserted 1 Engl ID - 448 - There were not cats yesterday.
+Inserted 2 Port ID - 449 - Não havia gatos ontem.
+Inserted 1 Engl ID - 450 - Were there many people last weekend?
+Inserted 2 Port ID - 451 - Haviam muitas pessoas no final de semana passado?
+Inserted 1 Engl ID - 452 - Is there hope?
+Inserted 2 Port ID - 453 - Há esperança?
+Inserted 1 Engl ID - 454 - There was a cop here two minutes ago.
+Inserted 2 Port ID - 455 - Havia um policial aqui a dois minutos.
+Inserted 1 Engl ID - 456 - What is it? 
+Inserted 2 Port ID - 457 - O que é isso?
+Inserted 1 Engl ID - 458 - Red or yellow. Which does she prefer?
+Inserted 2 Port ID - 459 - Vermelho ou amarelo. Qual ela prefere?
+Inserted 1 Engl ID - 460 - Where will you go to?
+Inserted 2 Port ID - 461 - Para onde você irá?
+Inserted 1 Engl ID - 462 - Where are you from?
+Inserted 2 Port ID - 463 - De onde você é?
+Inserted 1 Engl ID - 464 - Where is he from?
+Inserted 2 Port ID - 465 - De onde ele é?
+Inserted 1 Engl ID - 466 - When did you come?
+Inserted 2 Port ID - 467 - Quando você veio?
+Inserted 1 Engl ID - 468 - Who do you work with?
+Inserted 2 Port ID - 469 - Com quem você trabalha?
+Inserted 1 Engl ID - 470 - What are you speaking about?
+Inserted 2 Port ID - 471 - Sobre o que você está falando?
+Inserted 1 Engl ID - 472 - Why are you so quiet?
+Inserted 2 Port ID - 473 - Por que você está tão quieto?
+Inserted 1 Engl ID - 474 - Why have you done these things to me?
+Inserted 2 Port ID - 475 - Por que você fez essas coisas comigo?
+Inserted 1 Engl ID - 476 - How would you answer that question?
+Inserted 2 Port ID - 477 - Como você responderia essa pergunta?
+Inserted 1 Engl ID - 478 - How are you?
+Inserted 2 Port ID - 479 - Como você está?
+Inserted 1 Engl ID - 480 - What are you like?
+Inserted 2 Port ID - 481 - Como você é?
+Inserted 1 Engl ID - 482 - How is your family?
+Inserted 2 Port ID - 483 - Como está a sua família?
+Inserted 1 Engl ID - 484 - How many people is there in the world?
+Inserted 2 Port ID - 485 - Quantas pessoas há no mundo?
+Inserted 1 Engl ID - 486 - How much do you know about Brazil?
+Inserted 2 Port ID - 487 - Quanto você conhece do Brasil?
+Inserted 1 Engl ID - 488 - How much money have you spent?
+Inserted 2 Port ID - 489 - Quando dinheiro você gastou?
+Inserted 1 Engl ID - 490 - Whose dog is that?
+Inserted 2 Port ID - 491 - De quem é aquele cachorro?
+Inserted 1 Engl ID - 492 - Why doesn't she come with us?
+Inserted 2 Port ID - 493 - Por que ela não vem conosco?
+Inserted 1 Engl ID - 494 - Because she can't.
+Inserted 2 Port ID - 495 - Porque ela não pode.
+Inserted 1 Engl ID - 496 - How many times has Brazil won the world cup?
+Inserted 2 Port ID - 497 - Quantas vezes o Brasil venceu a copa do mundo?
+Inserted 1 Engl ID - 498 - Where is my wallet?
+Inserted 2 Port ID - 499 - Onde está minha carteira?
+Inserted 1 Engl ID - 500 - Until when will you stay here?
+Inserted 2 Port ID - 501 - Até quando você ficará aqui?
+Inserted 1 Engl ID - 502 - Until when are you gonna stay here?
+Inserted 2 Port ID - 503 - Até quando você ficará aqui? Versão 2
+Inserted 1 Engl ID - 504 - Since when do you have a son?
+Inserted 2 Port ID - 505 - Desde quando você tem um filho?
+Inserted 1 Engl ID - 506 - Who are you writing for?
+Inserted 2 Port ID - 507 - Para quem você está escrevendo?
+Inserted 1 Engl ID - 508 - Who will you go with tomorrow?
+Inserted 2 Port ID - 509 - Com quem você irá amanhã?
+Inserted 1 Engl ID - 510 - Who were you speaking about yesterday? 
+Inserted 2 Port ID - 511 - Sobre quem você estava falando ontem?
+Inserted 1 Engl ID - 512 - How heavy is he ?
+Inserted 2 Port ID - 513 - Quanto ele pesa?
+Inserted 1 Engl ID - 514 - How happy is your mother?
+Inserted 2 Port ID - 515 - Quão feliz sua mãe está?
+Inserted 1 Engl ID - 516 - Who is she?
+Inserted 2 Port ID - 517 - Quem é ela?
+Inserted 1 Engl ID - 518 - How hot is there?
+Inserted 2 Port ID - 519 - Quão quente tá lá?
+Inserted 1 Engl ID - 520 - How much food do you eat?
+Inserted 2 Port ID - 521 - Quanta comida você come?
+Inserted 1 Engl ID - 522 - How many countries will you visit?
+Inserted 2 Port ID - 523 - Quantos países você visitará?
+Inserted 1 Engl ID - 524 - How much is it?
+Inserted 2 Port ID - 525 - Quanto é?
+Inserted 1 Engl ID - 526 - How do you do?
+Inserted 2 Port ID - 527 - Como você faz?
+Inserted 1 Engl ID - 528 - How do I meet you?
+Inserted 2 Port ID - 529 - Como eu encontro você?
+Inserted 1 Engl ID - 530 - When has it started?
+Inserted 2 Port ID - 531 - Quando isso começou?
+Inserted 1 Engl ID - 532 - Where are my earrings?
+Inserted 2 Port ID - 533 - Onde estão meus brincos?
+Inserted 1 Engl ID - 534 - I have a friend whose your parents are traveling around the world.
+Inserted 2 Port ID - 535 - Eu tenho um amigo cujo os pais estão viajando pelo mundo.
+Inserted 1 Engl ID - 536 - What do you think about my family?
+Inserted 2 Port ID - 537 - O que você pensa sobre minha família?
+Inserted 1 Engl ID - 538 - What do you think about television?
+Inserted 2 Port ID - 539 - O que você pensa sobre televisão?
+Inserted 1 Engl ID - 540 - When has it begun?
+Inserted 2 Port ID - 541 - Quando isso iniciou?
+Inserted 1 Engl ID - 542 - I began to work last year.
+Inserted 2 Port ID - 543 - Eu comecei a trabalhar ano passado.
+Inserted 1 Engl ID - 544 - She will begin to write   a new book.
+Inserted 2 Port ID - 545 - Ela começará a escrever um novo livro.
+Inserted 1 Engl ID - 546 - Is the movie starting?
+Inserted 2 Port ID - 547 - O filme está começando?
+Inserted 1 Engl ID - 548 - The movie has already started.
+Inserted 2 Port ID - 549 - O filme já começou.
+Inserted 1 Engl ID - 550 - He starts to work at 7.
+Inserted 2 Port ID - 551 - Ele começa a trabalhar a sete.
+Inserted 1 Engl ID - 552 - The old me played soccer.
+Inserted 2 Port ID - 553 - Antigamente eu jogava futebol.
+Inserted 1 Engl ID - 554 - The players have played to win.
+Inserted 2 Port ID - 555 - Os jogadores jogaram para vencer.
+Inserted 1 Engl ID - 556 - What instrument do you play? 
+Inserted 2 Port ID - 557 - Que instrumento você toca?
+Inserted 1 Engl ID - 558 - Does she play?
+Inserted 2 Port ID - 559 - Ela brinca?
+Inserted 1 Engl ID - 560 - I will continue the course tomorrow.
+Inserted 2 Port ID - 561 - Eu continuarei o curso amanhã.
+Inserted 1 Engl ID - 562 - We shall continue the good job.
+Inserted 2 Port ID - 563 - Nós devemos continuar o bom trabalho.
+Inserted 1 Engl ID - 564 - I must giving up of my dreams.
+Inserted 2 Port ID - 565 - Eu devo parar de desistir dos meus sonhos.
+Inserted 1 Engl ID - 566 - When did you stop to smoking?
+Inserted 2 Port ID - 567 - Quando você parou de fumar?
+Inserted 1 Engl ID - 568 - She doesn't stop to crying.
+Inserted 2 Port ID - 569 - Ela não para de chorar.
+Inserted 1 Engl ID - 570 - She keeps the car on the street, I have seen.
+Inserted 2 Port ID - 571 - Ela mantém o carro na rua, eu vi.
+Inserted 1 Engl ID - 572 - I kept this in secret since I knew it.
+Inserted 2 Port ID - 573 - Eu mantive isso em segredo desde que soube.
+Inserted 1 Engl ID - 574 - You have kept the window's house openned.
+Inserted 2 Port ID - 575 - Você mantinha a janela de sua casa aberta.
+Inserted 1 Engl ID - 576 - How does the story end?
+Inserted 2 Port ID - 577 - Como a história termina?
+Inserted 1 Engl ID - 578 - She always ends her dates.
+Inserted 2 Port ID - 579 - Ela sempre termina seus namoros.
+Inserted 1 Engl ID - 580 - She has left from here.
+Inserted 2 Port ID - 581 - Ela partiu daqui.
+Inserted 1 Engl ID - 582 - He leaves at five PM.
+Inserted 2 Port ID - 583 - Ele sai as 5 p.m.
+Inserted 1 Engl ID - 584 - Does he leave the house at noon? 
+Inserted 2 Port ID - 585 - Ele sai de casa ao meio dia?
+Inserted 1 Engl ID - 586 - I haven't left her behind.
+Inserted 2 Port ID - 587 - Eu não deixei ela para trás.
+Inserted 1 Engl ID - 588 - I leave the job and  go to the college.
+Inserted 2 Port ID - 589 - Eu saio do trabalho e vou para faculdade.
+Inserted 1 Engl ID - 590 - They have left with their friends.
+Inserted 2 Port ID - 591 - Eles partiram com os amigos deles.
+Inserted 1 Engl ID - 592 - What did leave at the office yesterday?
+Inserted 2 Port ID - 593 - O que ele deixou no escritório ontem?
+Inserted 1 Engl ID - 594 - We have left our country.
+Inserted 2 Port ID - 595 - Nós deixamos nosso país.
+Inserted 1 Engl ID - 596 - I will never leave you.
+Inserted 2 Port ID - 597 - Eu nunca deixarei você.
+Inserted 1 Engl ID - 598 - She leaves her daughter with her mother.
+Inserted 2 Port ID - 599 - Ela deixa a filha com a mãe dela.
+Inserted 1 Engl ID - 600 - Do you let me go too? 
+Inserted 2 Port ID - 601 - Você deixa eu ir também? 
+Inserted 1 Engl ID - 602 - I don't let you.
+Inserted 2 Port ID - 603 - Eu não deixo você.
+Inserted 1 Engl ID - 604 - She lets me go.
+Inserted 2 Port ID - 605 - Ela me deixa ir.
+Inserted 1 Engl ID - 606 - I don't let you date him. 
+Inserted 2 Port ID - 607 - Eu não deixo você namorar ele.
+Inserted 1 Engl ID - 608 - She has lets her sister go to the party.
+Inserted 2 Port ID - 609 - Ela deixou a irmã dela ir a festa.
+Inserted 1 Engl ID - 610 - I let my dog sleep inside the house.
+Inserted 2 Port ID - 611 - Eu deixo meu cachorro dormir dentro de casa.
+Inserted 1 Engl ID - 612 - We would not let her go.
+Inserted 2 Port ID - 613 - Nós não deixariamos ela ir.
+Inserted 1 Engl ID - 614 - Do you let her open the window at night?
+Inserted 2 Port ID - 615 - Vocês deixam ela abrir a janela a noite?
+Inserted 1 Engl ID - 616 - Tomorrow I will you let come.
+Inserted 2 Port ID - 617 - Amanhã eu deixarei você vir.
+Inserted 1 Engl ID - 618 - Have you gone straight? 
+Inserted 2 Port ID - 619 - Você foi reto?
+Inserted 1 Engl ID - 620 - I went yesterday through the door.
+Inserted 2 Port ID - 621 - Eu fui ontem através da porta.
+Inserted 1 Engl ID - 622 - I will go tomorrow.
+Inserted 2 Port ID - 623 - Eu irei amanhã.
+Inserted 1 Engl ID - 624 - I went yesterday to Campinas.
+Inserted 2 Port ID - 625 - Eu fui ontem a Campinas.
+Inserted 1 Engl ID - 626 - He has gone to the restaurant.
+Inserted 2 Port ID - 627 - Ele foi ao restaurante.
+Inserted 1 Engl ID - 628 - I will go by foot.
+Inserted 2 Port ID - 629 - Eu irei a pé.
+Inserted 1 Engl ID - 630 - Did you go to the wedding last weekend?
+Inserted 2 Port ID - 631 - Você foi ao casamento final de semana passado?
+Inserted 1 Engl ID - 632 - Where do you go on vacations?
+Inserted 2 Port ID - 633 - Onde você vai nas férias?
+Inserted 1 Engl ID - 634 - Come here?
+Inserted 2 Port ID - 635 - Vem aqui?
+Inserted 1 Engl ID - 636 - Has not she come?
+Inserted 2 Port ID - 637 - Ela não veio?
+Inserted 1 Engl ID - 638 - Will you come to the class?
+Inserted 2 Port ID - 639 - Você virá para aula?
+Inserted 1 Engl ID - 640 - Is she coming?
+Inserted 2 Port ID - 641 - Ela está vindo?
+Inserted 1 Engl ID - 642 - She is not coming back.
+Inserted 2 Port ID - 643 - Ela não está voltando.
+Inserted 1 Engl ID - 644 - Do you come by motorcycle? 
+Inserted 2 Port ID - 645 - Você vem de moto?
+Inserted 1 Engl ID - 646 - She came by foot yesterday.
+Inserted 2 Port ID - 647 - Ela veio a pé ontem.
+Inserted 1 Engl ID - 648 - He came reading yesterday.
+Inserted 2 Port ID - 649 - Ele veio lendo ontem.
+Inserted 1 Engl ID - 650 - He comes from the moon.
+Inserted 2 Port ID - 651 - Ele vem da lua.
+Inserted 1 Engl ID - 652 - She comes from a good family.
+Inserted 2 Port ID - 653 - Ela vem de uma boa família.
+Inserted 1 Engl ID - 654 - Have you traveled to London?
+Inserted 2 Port ID - 655 - Você viajou para Londres?
+Inserted 1 Engl ID - 656 - Have you ever traveled to London?
+Inserted 2 Port ID - 657 - Você já viajou para Londres?
+Inserted 1 Engl ID - 658 - I want to travel this year.
+Inserted 2 Port ID - 659 - Eu quero viajar este ano.
+Inserted 1 Engl ID - 660 - She has never traveled on her life.
+Inserted 2 Port ID - 661 - Ela nunca viajou na vida dela.
+Inserted 1 Engl ID - 662 - They will travel tomorrow in the morning.
+Inserted 2 Port ID - 663 - Eles viajaram amanhã de manhã.
+Inserted 1 Engl ID - 664 - I would like to travel to  Japan.
+Inserted 2 Port ID - 665 - Eu gostaria de viajar para o Japão.
+Inserted 1 Engl ID - 666 - How do you prefer to travel: by plane or by train?
+Inserted 2 Port ID - 667 - Como você prefere viajar de avião ou trem?
+Inserted 1 Engl ID - 668 - I traveled one hundred kilometers by bike last year.
+Inserted 2 Port ID - 669 - Eu viajei 100 km de bicicleta ano passado.
+Inserted 1 Engl ID - 670 - He doesn't like to travel.
+Inserted 2 Port ID - 671 - Ele não gosta de viajar.
+Inserted 1 Engl ID - 672 - I arrived early yesterday.
+Inserted 2 Port ID - 673 - Eu cheguei mais cedo ontem.
+Inserted 1 Engl ID - 674 - She didn't arrive in home yet.
+Inserted 2 Port ID - 675 - Ela não chegou em casa ainda.
+Inserted 1 Engl ID - 676 - What time will you arrive tomorrow?
+Inserted 2 Port ID - 677 - Que horas você chegará amanhã?
+Inserted 1 Engl ID - 678 - I would like you arrive soon.
+Inserted 2 Port ID - 679 - Eu gostaria que você chegasse cedo.
+Inserted 1 Engl ID - 680 - How will you arrive home?
+Inserted 2 Port ID - 681 - Como você vai chegar em casa?
+Inserted 1 Engl ID - 682 - He arrives at midday every day.
+Inserted 2 Port ID - 683 - Ele chega ao meio dia todos os dias.
+Inserted 1 Engl ID - 684 - You have never arrived late in your life.
+Inserted 2 Port ID - 685 - Você nunca chegou atrasado na vida.
+Inserted 1 Engl ID - 686 - What time does she arrive at school? 
+Inserted 2 Port ID - 687 - Que horas ela chega na escola?
+Inserted 1 Engl ID - 688 - I always arrive around seven.
+Inserted 2 Port ID - 689 - Eu sempre chego por volta das sete.
+Inserted 1 Engl ID - 690 - He doesn't like to arrive late. 
+Inserted 2 Port ID - 691 - Ele não gosta de chegar tarde.
+Inserted 1 Engl ID - 692 - Do you drive truck?
+Inserted 2 Port ID - 693 - Você dirige caminhão? 
+Inserted 1 Engl ID - 694 - I don't drive at night.
+Inserted 2 Port ID - 695 - Eu não dirijo a noite.
+Inserted 1 Engl ID - 696 - She drove to college yesterday.
+Inserted 2 Port ID - 697 - Ela dirigiu para a faculdade ontem.
+Inserted 1 Engl ID - 698 - He drives very well.
+Inserted 2 Port ID - 699 - Ele dirige muito bem.
+Inserted 1 Engl ID - 700 - Does she drive frequently?
+Inserted 2 Port ID - 701 - Ela dirige frequentemente?
+Inserted 1 Engl ID - 702 - When do you prefer to drive, in the morning or at night?
+Inserted 2 Port ID - 703 - Quando você preferi dirigir, de manhã ou a noite?
+Inserted 1 Engl ID - 704 - I would like to drive through Europe.
+Inserted 2 Port ID - 705 - Eu gostaria de dirigir pela Europa.
+Inserted 1 Engl ID - 706 - He doesn't drive because he is afraid.
+Inserted 2 Port ID - 707 - Ele não dirige, porque ele é medroso.
+Inserted 1 Engl ID - 708 - You will drive all the year with this car.
+Inserted 2 Port ID - 709 - Você dirigirá o ano inteiro com esse carro.
+Inserted 1 Engl ID - 710 - I rarely ride by bike.
+Inserted 2 Port ID - 711 - Eu raramente ando de bicicleta.
+Inserted 1 Engl ID - 712 - She doesn't ride a horse.
+Inserted 2 Port ID - 713 - Ela não anda de cavalo.
+Inserted 1 Engl ID - 714 - Will you ride a motorcycle on the weekend? 
+Inserted 2 Port ID - 715 - Você andará de moto no fim de semana? 
+Inserted 1 Engl ID - 716 - I have already ridden by horse.
+Inserted 2 Port ID - 717 - Eu já andei de cavalo.
+Inserted 1 Engl ID - 718 - He loved to ride a bike on his vacations.
+Inserted 2 Port ID - 719 - Ele amou andar de bicicleta nas férias.
+Inserted 1 Engl ID - 720 - Would you like to ride a horse around the farm?
+Inserted 2 Port ID - 721 - Você gostaria de andar de cavalo pela fazenda?
+Inserted 1 Engl ID - 722 - She wishes to ride a motorcycle.
+Inserted 2 Port ID - 723 - Ela deseja andar de moto.
+Inserted 1 Engl ID - 724 - I ride by bike because it is relaxing.
+Inserted 2 Port ID - 725 - Eu ando de bicicleta por que é relaxante.
+Inserted 1 Engl ID - 726 - Do you try to ride a horse when you go to the countryside?
+Inserted 2 Port ID - 727 - Você tenta andar a cavalo quando vai ao campo?
+Inserted 1 Engl ID - 728 - He rode by bike on his childhood.
+Inserted 2 Port ID - 729 - Ele andou de bicicleta na infância.
+Inserted 1 Engl ID - 730 - She walks at the zoo every Saturday.
+Inserted 2 Port ID - 731 - Ela caminha no zoológico todo sábado.
+Inserted 1 Engl ID - 732 - Does she like to walk at the park with you?
+Inserted 2 Port ID - 733 - Ela gosta de caminhar no parque com você? 
+Inserted 1 Engl ID - 734 - I prefer to walk at night on well-lighted streets .
+Inserted 2 Port ID - 735 - Eu prefero caminhar a noite em ruas bem iluminadas.
+Inserted 1 Engl ID - 736 - How many miles have you walked for?
+Inserted 2 Port ID - 737 - Por quantas milhas você andou?
+Inserted 1 Engl ID - 738 - She doesn't like to walk in the morning.
+Inserted 2 Port ID - 739 - Ela não gosta de andar de manhã.
+Inserted 1 Engl ID - 740 - Why does she never walk with us?
+Inserted 2 Port ID - 741 - Por que ela nunca caminha conosto?
+Inserted 1 Engl ID - 742 - My father walks everyday since I was a child.
+Inserted 2 Port ID - 743 - Meu pai caminha todos os dias desde que eu era criança.
+Inserted 1 Engl ID - 744 - Did you walk yesterday?
+Inserted 2 Port ID - 745 - Você caminhou ontem?
+Inserted 1 Engl ID - 746 - I can't run without tennis.
+Inserted 2 Port ID - 747 - Eu não posso correr sem tênis.
+Inserted 1 Engl ID - 748 - She runs with her mother.
+Inserted 2 Port ID - 749 - Ela corre com a mãe dela.
+Inserted 1 Engl ID - 750 - What time do you usually run?
+Inserted 2 Port ID - 751 - Quem horas você geralmente corre?
+Inserted 1 Engl ID - 752 - I ran for five miles to meet you.
+Inserted 2 Port ID - 753 - Eu corri por cinco milhas para encontrar vocês.
+Inserted 1 Engl ID - 754 - How often do they run?
+Inserted 2 Port ID - 755 - Com que frequência eles correm?
+Inserted 1 Engl ID - 756 - She has never needed to run for her life. 
+Inserted 2 Port ID - 757 - Ela nunca precisou correr por sua vida.
+Inserted 1 Engl ID - 758 - Could I run with you?
+Inserted 2 Port ID - 759 - Eu poderia correr com você?
+Inserted 1 Engl ID - 760 - She used to run after breakfast.
+Inserted 2 Port ID - 761 - Ela costumava correr depois do cafê da manhã.
+Inserted 1 Engl ID - 762 - I was thinking in I run the marathon.
+Inserted 2 Port ID - 763 - Eu estava pensando em correr a maratona.
+Inserted 1 Engl ID - 764 - Would we run together to lose weight?
+Inserted 2 Port ID - 765 - Nós correríamos juntos para perder peso?
+Inserted 1 Engl ID - 766 - I don't park on the street.
+Inserted 2 Port ID - 767 - Eu não estaciono na rua.
+Inserted 1 Engl ID - 768 - She has parked at the mall's parking.
+Inserted 2 Port ID - 769 - Ela estacionou no estacionamento do shopping.
+Inserted 1 Engl ID - 770 - How much is paring here?
+Inserted 2 Port ID - 771 - Quanto custa estacionar aqui?
+Inserted 1 Engl ID - 772 - She likes to skate at the park.
+Inserted 2 Port ID - 773 - Ela gosta de patinar no parque.
+Inserted 1 Engl ID - 774 - I skated when I was a child.
+Inserted 2 Port ID - 775 - Eu patinava quando criança.
+Inserted 1 Engl ID - 776 - Do you skate professionally?
+Inserted 2 Port ID - 777 - Você patina profissionalmente?
+Inserted 1 Engl ID - 778 - I waited a thousand years.
+Inserted 2 Port ID - 779 - Eu esperei mil anos.
+Inserted 1 Engl ID - 780 - I have waited my son to arriving.
+Inserted 2 Port ID - 781 - Eu esperei meu filho chegar.
+Inserted 1 Engl ID - 782 - She waits my father for three hours.
+Inserted 2 Port ID - 783 - Ela espera meu pai por 3 horas.
+Inserted 1 Engl ID - 784 - She has waited to cool.
+Inserted 2 Port ID - 785 - Ela esperou esfriar.
+Inserted 1 Engl ID - 786 - Could you wait for me? 
+Inserted 2 Port ID - 787 - Você poderia me esperar?
+Inserted 1 Engl ID - 788 - He waited for his love for two years.
+Inserted 2 Port ID - 789 - Ele esperou pelo seu amor por dois anos.
+Inserted 1 Engl ID - 790 - How long will I need to wait? 
+Inserted 2 Port ID - 791 - Quanto tempo eu precisarei esperar?
+Inserted 1 Engl ID - 792 - I have chosen to wait.
+Inserted 2 Port ID - 793 - Eu escolhi esperar.
+Inserted 1 Engl ID - 794 - I hope to win the lottery.
+Inserted 2 Port ID - 795 - Eu espero ganhar na loteria.
+Inserted 1 Engl ID - 796 - He hopes having a beautiful wife.
+Inserted 2 Port ID - 797 - Ele espera ter uma linda esposa.
+Inserted 1 Engl ID - 798 - I hope so.
+Inserted 2 Port ID - 799 - Eu espero que sim.
+Inserted 1 Engl ID - 800 - I don't hope so.
+Inserted 2 Port ID - 801 - Eu espero que não.
+Inserted 1 Engl ID - 802 - I will hope.
+Inserted 2 Port ID - 803 - Eu esperarei com esperança.
+Inserted 1 Engl ID - 804 - I'm going to hope.
+Inserted 2 Port ID - 805 - Eu esperarei com esperança.
+Inserted 1 Engl ID - 806 - I hope you forgive me.
+Inserted 2 Port ID - 807 - Eu espero que você me perdoe.
+Inserted 1 Engl ID - 808 - She hopes to get a scholarship.
+Inserted 2 Port ID - 809 - Ela espera conseguir uma bolsa de estudos.
+Inserted 1 Engl ID - 810 - Do you hope Brazil get better?
+Inserted 2 Port ID - 811 - Você espera que o Brasil melhore?
+Inserted 1 Engl ID - 812 - He hoped to be loved for her until the end.
+Inserted 2 Port ID - 813 - Ele esperou ser amado por ela até o fim.
+Inserted 1 Engl ID - 814 - I expect to go to Salvador./ I can't wait to go to Salvador.
+Inserted 2 Port ID - 815 - Eu mal posso esperar para ir a Salvador.
+Inserted 1 Engl ID - 816 - I have expect gnawing my nails.
+Inserted 2 Port ID - 817 - Eu esperei roendo a unha.
+Inserted 1 Engl ID - 818 - I expect that doesn't rain.
+Inserted 2 Port ID - 819 - Eu espero que não chova.
+Inserted 1 Engl ID - 820 - How tall do you expect to be? 
+Inserted 2 Port ID - 821 - Quão alto você espera ser?
+Inserted 1 Engl ID - 822 - I am expecting a baby.
+Inserted 2 Port ID - 823 - Eu estou esperando um bebê.
+Inserted 1 Engl ID - 824 - Do you expect to finish the book this year? 
+Inserted 2 Port ID - 825 - Você espera terminar o livro esse ano?
+Inserted 1 Engl ID - 826 - He expects his vacations.
+Inserted 2 Port ID - 827 - Ele espera a suas férias.
+Inserted 1 Engl ID - 828 - I expect to read many books until the end of the semester
+Inserted 2 Port ID - 829 - Eu espero ler muitos livros até o fim do semestre.
+Inserted 1 Engl ID - 830 - Let me help you./ Let me aid you.
+Inserted 2 Port ID - 831 - Deixa-me ajudar você.
+Inserted 1 Engl ID - 832 - Would you help me? /Would you aid me? 
+Inserted 2 Port ID - 833 - Você me ajudaria?
+Inserted 1 Engl ID - 834 - She will aid me tomorrow.
+Inserted 2 Port ID - 835 - Ela me ajudará amanhã.
+Inserted 1 Engl ID - 836 - Does he aid your family?
+Inserted 2 Port ID - 837 - Ele ajuda a sua família?
+Inserted 1 Engl ID - 838 - The straight-A student has helped me./The straight-A student has aided me
+Inserted 2 Port ID - 839 - A CDF me ajudou.
+Inserted 1 Engl ID - 840 - I would help my friend.
+Inserted 2 Port ID - 841 - Eu socorreria a minha amiga.
+Inserted 1 Engl ID - 842 - I have helped.
+Inserted 2 Port ID - 843 - Eu socorri.
+Inserted 1 Engl ID - 844 - Who have you helped?
+Inserted 2 Port ID - 845 - Quem você socorreu?
+Inserted 1 Engl ID - 846 - My physician has had to help me.
+Inserted 2 Port ID - 847 - Meu médico teve que me socorrer.
+Inserted 1 Engl ID - 848 - I attended in 2000 year that course.
+Inserted 2 Port ID - 849 - Eu cursei no ano 2000 aquele curso.
+Inserted 1 Engl ID - 850 - I have attended that course, do you remember? 
+Inserted 2 Port ID - 851 - Eu cursei aquele curso, você lembra?
+Inserted 1 Engl ID - 852 - Are you attending?
+Inserted 2 Port ID - 853 - Você está cursando?
+Inserted 1 Engl ID - 854 - How often do you study history?
+Inserted 2 Port ID - 855 - Com que frequência você estuda história?
+Inserted 1 Engl ID - 856 - Did she study for the test? 
+Inserted 2 Port ID - 857 - Ela estudou para a prova?
+Inserted 1 Engl ID - 858 - Study more.
+Inserted 2 Port ID - 859 - Estude mais.
+Inserted 1 Engl ID - 860 - She doesn't teach my brother.
+Inserted 2 Port ID - 861 - Ela não ensina meu irmão.
+Inserted 1 Engl ID - 862 - But I hope she will teach.
+Inserted 2 Port ID - 863 - Mas eu espero que ela ensinará.
+Inserted 1 Engl ID - 864 - The teacher teaches.
+Inserted 2 Port ID - 865 - O ensinador o ensina.
+Inserted 1 Engl ID - 866 - She doesn't learn.
+Inserted 2 Port ID - 867 - Ela não aprende.
+Inserted 1 Engl ID - 868 - He has taught everything I have learnt.
+Inserted 2 Port ID - 869 - Ele ensinou tudo que eu aprendi.
+Inserted 1 Engl ID - 870 - Learn to control your anger. 
+Inserted 2 Port ID - 871 - Aprenda a controlar a sua raiva.
+Inserted 1 Engl ID - 872 - He has focused./ He has paid attention.
+Inserted 2 Port ID - 873 - Ele prestou atenção.
+Inserted 1 Engl ID - 874 - Are you pay attention?/ Are you focusing? 
+Inserted 2 Port ID - 875 - Você está prestando atenção?
+Inserted 1 Engl ID - 876 - I didn't focus yesterday.
+Inserted 2 Port ID - 877 - Eu não prestei atenção ontem.
+Inserted 1 Engl ID - 878 - She focuses. 
+Inserted 2 Port ID - 879 - Ela presta atenção!
+Inserted 1 Engl ID - 880 - Read your Bible daily.
+Inserted 2 Port ID - 881 - Leia a bíblia diariamente.
+Inserted 1 Engl ID - 882 - You need to read Edmund Burke.
+Inserted 2 Port ID - 883 - Você precisa ler Edmund Burke.
+Inserted 1 Engl ID - 884 - Does she already know to read? 
+Inserted 2 Port ID - 885 - Ela já sabe ler?
+Inserted 1 Engl ID - 886 - I read earlier.
+Inserted 2 Port ID - 887 - Eu li mais cedo.
+Inserted 1 Engl ID - 888 - I am gonna read later.
+Inserted 2 Port ID - 889 - Eu lerei mais tarde.
+Inserted 1 Engl ID - 890 - Have you read that? 
+Inserted 2 Port ID - 891 - Você leu aquilo?
+Inserted 1 Engl ID - 892 - Do you know reading and writing?
+Inserted 2 Port ID - 893 - Você sabe ler e escrever?
+Inserted 1 Engl ID - 894 - Would she write to me? 
+Inserted 2 Port ID - 895 - Ela escreveria para mim?
+Inserted 1 Engl ID - 896 - What do you write so much?
+Inserted 2 Port ID - 897 - O que você escreve tanto?
+Inserted 1 Engl ID - 898 - Let's make hamburgers this evening.
+Inserted 2 Port ID - 899 - Vamos fazer hamburgers está noite.
+Inserted 1 Engl ID - 900 - He has made five goals.
+Inserted 2 Port ID - 901 - Ele fez 5 gols.
+Inserted 1 Engl ID - 902 - I have made a little party.
+Inserted 2 Port ID - 903 - Eu fiz uma festinha.
+Inserted 1 Engl ID - 904 - Would you like to make a cup of tea? 
+Inserted 2 Port ID - 905 - Você gostaria de fazer uma xícara de chá?
+Inserted 1 Engl ID - 906 - We made a two-years deal.
+Inserted 2 Port ID - 907 - Nós fizemos um acordo de dois anos.
+Inserted 1 Engl ID - 908 - I won't make an exception for you.
+Inserted 2 Port ID - 909 - Eu não farei uma exceção para você.
+Inserted 1 Engl ID - 910 - We need to have faith. 
+Inserted 2 Port ID - 911 - Nós precisamos ter fé.
+Inserted 1 Engl ID - 912 - Does she need me? 
+Inserted 2 Port ID - 913 - Ela precisa de mim?
+Inserted 1 Engl ID - 914 - Would I need you? 
+Inserted 2 Port ID - 915 - Eu precisaria de você?
+Inserted 1 Engl ID - 916 - I need the car yesterday.
+Inserted 2 Port ID - 917 - Eu precisei do carro ontem.
+Inserted 1 Engl ID - 918 - You don't need to screaming.
+Inserted 2 Port ID - 919 - Você não precisa gritar.
+Inserted 1 Engl ID - 920 - You need to smile more.
+Inserted 2 Port ID - 921 - Você precisa sorrir mais.
+Inserted 1 Engl ID - 922 - We need to have a talk.
+Inserted 2 Port ID - 923 - Nós precisamos ter uma conversa.
+Inserted 1 Engl ID - 924 - What do you need to do?
+Inserted 2 Port ID - 925 - O que você precisa fazer?
+Inserted 1 Engl ID - 926 - I won't need to wake up early.
+Inserted 2 Port ID - 927 - Eu não precisarei acordar cedo.
+Inserted 1 Engl ID - 928 - He needs to play with his son.
+Inserted 2 Port ID - 929 - Ele precisa brincar com o filho dele.
+Inserted 1 Engl ID - 930 - She doesn't try talking to me.
+Inserted 2 Port ID - 931 - Ela não tenta falar comigo.
+Inserted 1 Engl ID - 932 - Have you tried to make? 
+Inserted 2 Port ID - 933 - Você tentou fazer?
+Inserted 1 Engl ID - 934 - She tries talking to me.
+Inserted 2 Port ID - 935 - Ela tenta conversar comigo.
+Inserted 1 Engl ID - 936 - Has she tried to send me the e-mail?
+Inserted 2 Port ID - 937 - Ela tentou me enviar um e-mail?
+Inserted 1 Engl ID - 938 - I try to be happy.
+Inserted 2 Port ID - 939 - Eu tento ser feliz.
+Inserted 1 Engl ID - 940 - I would like to try again.
+Inserted 2 Port ID - 941 - Eu gostaria de tentar de novo.
+Inserted 1 Engl ID - 942 - Hes didn't try to walk last Saturday. 
+Inserted 2 Port ID - 943 - Ele não tentou caminhar no último sábado.
+Inserted 1 Engl ID - 944 - He has tried to scare the children.
+Inserted 2 Port ID - 945 - Ele tentou assustar as crianças.
+Inserted 1 Engl ID - 946 - I tried to stop smoking last year.
+Inserted 2 Port ID - 947 - Eu tentei parar de fumar ano passado.
+Inserted 1 Engl ID - 948 - I have wanted milk.
+Inserted 2 Port ID - 949 - Eu quis leite.
+Inserted 1 Engl ID - 950 - Does she want water?
+Inserted 2 Port ID - 951 - Ela quer água?
+Inserted 1 Engl ID - 952 - All I want is arriving home.
+Inserted 2 Port ID - 953 - Tudo que eu quero é chegar em casa.
+Inserted 1 Engl ID - 954 - She hasn't been adorable like I have wanted.
+Inserted 2 Port ID - 955 - Ela não foi adorável como eu queria.
+Inserted 1 Engl ID - 956 - Have you wanted to be famous? 
+Inserted 2 Port ID - 957 - Você quis ser famoso?
+Inserted 1 Engl ID - 958 - I never wanted to hurt her.
+Inserted 2 Port ID - 959 - Eu nunca quis magoar ela.
+Inserted 1 Engl ID - 960 - They want to watch that movie.
+Inserted 2 Port ID - 961 - Eles querem assistir aquele filme.
+Inserted 1 Engl ID - 962 - What do you want to eat on Christmas?
+Inserted 2 Port ID - 963 - O que você quer comer no natal?
+Inserted 1 Engl ID - 964 - I don't work.
+Inserted 2 Port ID - 965 - Eu não trabalho.
+Inserted 1 Engl ID - 966 - I wouldn't work as professor.
+Inserted 2 Port ID - 967 - Eu não trabalharia como professor.
+Inserted 1 Engl ID - 968 - I didn't work last year.
+Inserted 2 Port ID - 969 - Eu não trabalhei ano passado.
+Inserted 1 Engl ID - 970 - She hasn't worked with my father.
+Inserted 2 Port ID - 971 - Ela não trabalhava com o meu pai.
+Inserted 1 Engl ID - 972 - But she works.
+Inserted 2 Port ID - 973 - Mas ela trabalha.
+Inserted 1 Engl ID - 974 - The company has bought steel.
+Inserted 2 Port ID - 975 - A empresa comprou aço.
+Inserted 1 Engl ID - 976 - Have you bought the refrigerator? 
+Inserted 2 Port ID - 977 - Você comprou a geladeira?
+Inserted 1 Engl ID - 978 - She would go out to buy a gift.
+Inserted 2 Port ID - 979 - Ela sairia para comprar um presente.
+Inserted 1 Engl ID - 980 - He wants to buy evetything.
+Inserted 2 Port ID - 981 - Ele quer comprar tudo.
+Inserted 1 Engl ID - 982 - I have sold three washing machines.
+Inserted 2 Port ID - 983 - Eu vendi 3 máquinas de lavar.
+Inserted 1 Engl ID - 984 - The selfish guy sells fish.
+Inserted 2 Port ID - 985 - O cara egoísta vendi peixe.
+Inserted 1 Engl ID - 986 - You haven't paid the bill.
+Inserted 2 Port ID - 987 - Você não pagou a conta.
+Inserted 1 Engl ID - 988 - You will pay for that.
+Inserted 2 Port ID - 989 - Você pagará por isso.
+Inserted 1 Engl ID - 990 - Would you pay for this price?
+Inserted 2 Port ID - 991 - Você pagaria por esse preço?
+Inserted 1 Engl ID - 992 - If you pay, I will thank  
+Inserted 2 Port ID - 993 - Se você pagar eu agradecerei.
+Inserted 1 Engl ID - 994 - Have I paid? 
+Inserted 2 Port ID - 995 - Eu paguei? 
+Inserted 1 Engl ID - 996 - He will deal
+Inserted 2 Port ID - 997 - Ele negociará.
+Inserted 1 Engl ID - 998 - Does he deal for peace? 
+Inserted 2 Port ID - 999 - Ele negocia pela paz? 
+Inserted 1 Engl ID - 1000 - They have dealt to me.
+Inserted 2 Port ID - 1001 - Eles negociaram comigo.
+Inserted 1 Engl ID - 1002 - Do you spend a lot? 
+Inserted 2 Port ID - 1003 - Você gasta muito?
+Inserted 1 Engl ID - 1004 - She spends nonstop.
+Inserted 2 Port ID - 1005 - Ela gasta sem parar.
+Inserted 1 Engl ID - 1006 - I don't spend time with this.
+Inserted 2 Port ID - 1007 - Eu não gasto tempo com isso.
+Inserted 1 Engl ID - 1008 - Are you owing money?
+Inserted 2 Port ID - 1009 - Você está devendo dinheiro?
+Inserted 1 Engl ID - 1010 - You owe me.
+Inserted 2 Port ID - 1011 - Você me deve.
+Inserted 1 Engl ID - 1012 - How much have you owed? 
+Inserted 2 Port ID - 1013 - Quanto você devia?
+Inserted 1 Engl ID - 1014 - He hasn't stopped billing my husband.
+Inserted 2 Port ID - 1015 - Ele não parou de cobrar meu marido.
+Inserted 1 Engl ID - 1016 - Have you billed the customer? 
+Inserted 2 Port ID - 1017 - Você cobrou o cliente? 
+Inserted 1 Engl ID - 1018 - She bills hardly my father.
+Inserted 2 Port ID - 1019 - Ela cobra duramente o meu pai.
+Inserted 1 Engl ID - 1020 - I love you forever.
+Inserted 2 Port ID - 1021 - Eu amo você para sempre.
+Inserted 1 Engl ID - 1022 - I loved her for all my life.
+Inserted 2 Port ID - 1023 - Eu amei ela por toda a vida.
+Inserted 1 Engl ID - 1024 - I have loved that song.
+Inserted 2 Port ID - 1025 - Eu amava aquela música.
+Inserted 1 Engl ID - 1026 - She wouldn't love this hit. 
+Inserted 2 Port ID - 1027 - Ela não amaria esse sucesso musical.
+Inserted 1 Engl ID - 1028 - We love walking in the afternoon.
+Inserted 2 Port ID - 1029 - Nós amamos caminhar a tarde.
+Inserted 1 Engl ID - 1030 - Has he loved the movie? 
+Inserted 2 Port ID - 1031 - Ele amou o filme?
+Inserted 1 Engl ID - 1032 - Does he love the United States?
+Inserted 2 Port ID - 1033 - Ele ama os estados unidos?
+Inserted 1 Engl ID - 1034 - We love the freedom.
+Inserted 2 Port ID - 1035 - Nós amamos a liberdade.
+Inserted 1 Engl ID - 1036 - The easterns  have loved the westerns.
+Inserted 2 Port ID - 1037 - Os orientais amaram os ocidentais.
+Inserted 1 Engl ID - 1038 - I love calling to you.
+Inserted 2 Port ID - 1039 - Eu amo ligar para você.
+Inserted 1 Engl ID - 1040 - I don't like vegetables.
+Inserted 2 Port ID - 1041 - Eu não gosto de vegetais.
+Inserted 1 Engl ID - 1042 - She didn't like greenery when she was ten. 
+Inserted 2 Port ID - 1043 - Ela não gostava de verduras aos 10 anos.
+Inserted 1 Engl ID - 1044 - But now she likes.
+Inserted 2 Port ID - 1045 - Mas agora ela gosta.
+Inserted 1 Engl ID - 1046 - She likes because she has tried.
+Inserted 2 Port ID - 1047 - Ela gosta porque ela experimentou.
+Inserted 1 Engl ID - 1048 - They don't like eastern culture.
+Inserted 2 Port ID - 1049 - Eles não gostam da cultura oriental.
+Inserted 1 Engl ID - 1050 - They like themselves.
+Inserted 2 Port ID - 1051 - Elas gostam delas.
+Inserted 1 Engl ID - 1052 - He hates the United Kingdom.
+Inserted 2 Port ID - 1053 - Ele odeia o Reino Unido.
+Inserted 1 Engl ID - 1054 - He hates mexican food.
+Inserted 2 Port ID - 1055 - Ele odeia comiga mexicana.
+Inserted 1 Engl ID - 1056 - She has hated not having wisdon.
+Inserted 2 Port ID - 1057 - Ela odiava não ter sabedoria.
+Inserted 1 Engl ID - 1058 - I hate when you delay. 
+Inserted 2 Port ID - 1059 - Eu odeio quando você se atrasa.
+Inserted 1 Engl ID - 1060 - I will rejoice when you win.
+Inserted 2 Port ID - 1061 - Eu me alegrarei quando você vencer.
+Inserted 1 Engl ID - 1062 - Would you rejoice with my visit?
+Inserted 2 Port ID - 1063 - Você se alegraria com a minha visita?
+Inserted 1 Engl ID - 1064 - She has rejoiced me. 
+Inserted 2 Port ID - 1065 - Ela me alegrou.
+Inserted 1 Engl ID - 1066 - There is a man there.
+Inserted 2 Port ID - 1067 - Há um homem lá.
+Inserted 1 Engl ID - 1068 - There are thousand men here. 
+Inserted 2 Port ID - 1069 - Há mil homens aqui.
+Inserted 1 Engl ID - 1070 - There was a fly in my soup yesterday.
+Inserted 2 Port ID - 1071 - Tinha uma mosca na minha sopa ontem.
+Inserted 1 Engl ID - 1072 - There has not been any house there.
+Inserted 2 Port ID - 1073 - Não tinha nenhuma casa lá.
+Inserted 1 Engl ID - 1074 - There is nothing here.
+Inserted 2 Port ID - 1075 - Não tem nada aqui.
+Inserted 1 Engl ID - 1076 - Was there something good yesterday?
+Inserted 2 Port ID - 1077 - Havia algo bom ontem? 
+Inserted 1 Engl ID - 1078 - There has not been no one on the street. 
+Inserted 2 Port ID - 1079 - Não tinha ninguém na rua.
+Inserted 1 Engl ID - 1080 - There have been three black cars.
+Inserted 2 Port ID - 1081 - Tinham 3 carros pretos.
+Inserted 1 Engl ID - 1082 - Would there be food? 
+Inserted 2 Port ID - 1083 - Haveria comida?
+Inserted 1 Engl ID - 1084 - I guess there is food. 
+Inserted 2 Port ID - 1085 - Eu acho que tem comida.
+Inserted 1 Engl ID - 1086 - There is not parking where I have parked my car.
+Inserted 2 Port ID - 1087 - Não há estacionamento onde eu estacionei o carro.
+Inserted 1 Engl ID - 1088 - There has been a roach.
+Inserted 2 Port ID - 1089 - Tinha uma barata.
+Inserted 1 Engl ID - 1090 - There would be somebody.
+Inserted 2 Port ID - 1091 - Teria alguém.
+Inserted 1 Engl ID - 1092 - Will there be water for everybody? 
+Inserted 2 Port ID - 1093 - Haverá água para todo mundo? 
+Inserted 1 Engl ID - 1094 - Yes, there will be.
+Inserted 2 Port ID - 1095 - Sim, haverá.
+Inserted 1 Engl ID - 1096 - I shall go there.
+Inserted 2 Port ID - 1097 - Eu devo ir lá.
+Inserted 1 Engl ID - 1098 - I shall travel to South Korea.
+Inserted 2 Port ID - 1099 - Eu devo viajar para a Coréia do Sul.
+Inserted 1 Engl ID - 1100 - She shall be arrested.
+Inserted 2 Port ID - 1101 - Ela deve ser presa.
+Inserted 1 Engl ID - 1102 - She shall work this Saturday.
+Inserted 2 Port ID - 1103 - Ela deve trabalhar esse sábado.
+Inserted 1 Engl ID - 1104 - Shall we go?
+Inserted 2 Port ID - 1105 - Nós devemos ir?
+Inserted 1 Engl ID - 1106 - You shall go away.
+Inserted 2 Port ID - 1107 - Você deve ir embora.
+Inserted 1 Engl ID - 1108 - I shan't not know. (shall not)
+Inserted 2 Port ID - 1109 - Eu não devo saber.
+Inserted 1 Engl ID - 1110 - He shall bear this problem.
+Inserted 2 Port ID - 1111 - Ele deve suportar esse problema.
+Inserted 1 Engl ID - 1112 - You shall improve your grades.
+Inserted 2 Port ID - 1113 - Vocês devem melhorar suas notas.
+Inserted 1 Engl ID - 1114 - They shall begin to study soon.
+Inserted 2 Port ID - 1115 - Ele devem começar a estudar logo.
+Inserted 1 Engl ID - 1116 - I should go.
+Inserted 2 Port ID - 1117 - Eu deveria ir.
+Inserted 1 Engl ID - 1118 - She should be there.
+Inserted 2 Port ID - 1119 - Ela deveria estar lá.
+Inserted 1 Engl ID - 1120 - You should thank me.
+Inserted 2 Port ID - 1121 - Você deveria me agradecer.
+Inserted 1 Engl ID - 1122 - She should learn another language.
+Inserted 2 Port ID - 1123 - Ela deveria aprender outra lingua.
+Inserted 1 Engl ID - 1124 - I should write a book.
+Inserted 2 Port ID - 1125 - Eu deveria escrever um livro.
+Inserted 1 Engl ID - 1126 - It shouldn't stink like this.
+Inserted 2 Port ID - 1127 - Isso não deveria feder assim.
+Inserted 1 Engl ID - 1128 - Shouldn't he pay the bills yesterday? 
+Inserted 2 Port ID - 1129 - Ele não deveria pagar as contas ontem?
+Inserted 1 Engl ID - 1130 - I should sleep early.
+Inserted 2 Port ID - 1131 - Eu deveria dormir cedo.
+Inserted 1 Engl ID - 1132 - He can come here.
+Inserted 2 Port ID - 1133 - Ele pode vir aqui.
+Inserted 1 Engl ID - 1134 - I can't run.
+Inserted 2 Port ID - 1135 - Eu não posso correr.
+Inserted 1 Engl ID - 1136 - Can you aid me soon?
+Inserted 2 Port ID - 1137 - Você pode me ajudar daqui a pouco?
+Inserted 1 Engl ID - 1138 - Can you help us ? 
+Inserted 2 Port ID - 1139 - Você pode nós socorrer?
+Inserted 1 Engl ID - 1140 - Can you cook today? 
+Inserted 2 Port ID - 1141 - Você pode cozinhar hoje?
+Inserted 1 Engl ID - 1142 - What can happen to me? 
+Inserted 2 Port ID - 1143 - O que pode acontecer comigo?
+Inserted 1 Engl ID - 1144 - Who can win the game? 
+Inserted 2 Port ID - 1145 - Quem pode vencer o jogo? 
+Inserted 1 Engl ID - 1146 - I can tomorrow.
+Inserted 2 Port ID - 1147 - Eu conseguirei amanhã.
+Inserted 1 Engl ID - 1148 - She can.
+Inserted 2 Port ID - 1149 - Ela consegue.
+Inserted 1 Engl ID - 1150 - I can drive.
+Inserted 2 Port ID - 1151 - Eu posso dirigir.
+Inserted 1 Engl ID - 1152 - He can't drive.
+Inserted 2 Port ID - 1153 - Ele não pode dirigir.
+Inserted 1 Engl ID - 1154 - I could see fear in your eyes.
+Inserted 2 Port ID - 1155 - Eu podia ver medo em seus olhos.
+Inserted 1 Engl ID - 1156 - Could you give me the sugar? 
+Inserted 2 Port ID - 1157 - Você poderia me dar o açucar?
+Inserted 1 Engl ID - 1158 - He could be more polite.
+Inserted 2 Port ID - 1159 - Ele poderia ser mais educado.
+Inserted 1 Engl ID - 1160 - Could she come here tomorrow? 
+Inserted 2 Port ID - 1161 - Ela poderia vir aqui amanhã?
+Inserted 1 Engl ID - 1162 - I couldn't do anything.
+Inserted 2 Port ID - 1163 - Eu não poderia fazer nada.
+Inserted 1 Engl ID - 1164 - When could you buy newspapers to me? 
+Inserted 2 Port ID - 1165 - Quando você poderia comprar jornais para mim?
+Inserted 1 Engl ID - 1166 - What time could you go? 
+Inserted 2 Port ID - 1167 - Que horas você poderia ir?
+Inserted 1 Engl ID - 1168 - They couldn't fail this time.
+Inserted 2 Port ID - 1169 - Eles não poderia falhar dessa vez.
+Inserted 1 Engl ID - 1170 - Could you bring a glass of water for him, please?
+Inserted 2 Port ID - 1171 - Você poderia trazer um copo d'agua para ele, por favor?
+Inserted 1 Engl ID - 1172 - We couldn't travel last year.
+Inserted 2 Port ID - 1173 - Nós não podemos viajar ano passado.
+Inserted 1 Engl ID - 1174 - I heard the song yesterday.
+Inserted 2 Port ID - 1175 - Eu ouvi a música ontem.
+Inserted 1 Engl ID - 1176 - She hears here.
+Inserted 2 Port ID - 1177 - Ela ouve aqui.
+Inserted 1 Engl ID - 1178 - She doesn't hear here.
+Inserted 2 Port ID - 1179 - Ela não ouve aqui.
+Inserted 1 Engl ID - 1180 - She hasn't heard.
+Inserted 2 Port ID - 1181 - Ela não ouvia.
+Inserted 1 Engl ID - 1182 - I heard you hurted her heart yesterday.
+Inserted 2 Port ID - 1183 - Eu ouvi que você machucou o coração dela ontem.
+Inserted 1 Engl ID - 1184 - I haven't listened nothing.
+Inserted 2 Port ID - 1185 - Eu não escutei nada.
+Inserted 1 Engl ID - 1186 - When I see I don't listen.
+Inserted 2 Port ID - 1187 - Quando eu vejo eu não escuto.
+Inserted 1 Engl ID - 1188 - He can't listen you.
+Inserted 2 Port ID - 1189 - Ele não pode escutar você.
+Inserted 1 Engl ID - 1190 - Have you felt it? 
+Inserted 2 Port ID - 1191 - Você sentiu isso?
+Inserted 1 Engl ID - 1192 - Actually, I feel good.
+Inserted 2 Port ID - 1193 - Na verdade, eu me sinto bem.
+Inserted 1 Engl ID - 1194 - I have felt love.
+Inserted 2 Port ID - 1195 - Eu senti amor.
+Inserted 1 Engl ID - 1196 - She doesn't feel.
+Inserted 2 Port ID - 1197 - Ela não sente.
+Inserted 1 Engl ID - 1198 - I have been feeling.
+Inserted 2 Port ID - 1199 - Eu estava sentindo.
+Inserted 1 Engl ID - 1200 - Do you eat with spoon? 
+Inserted 2 Port ID - 1201 - Vocês comem com colher?
+Inserted 1 Engl ID - 1202 - She eats with fork and knife.
+Inserted 2 Port ID - 1203 - Ela come com garfo e faca.
+Inserted 1 Engl ID - 1204 - Does your brother eat salad? 
+Inserted 2 Port ID - 1205 - Seu irmão come salada?
+Inserted 1 Engl ID - 1206 - What do you eat? 
+Inserted 2 Port ID - 1207 - O que você come?
+Inserted 1 Engl ID - 1208 - What have you eaten? 
+Inserted 2 Port ID - 1209 - O que você comeu?
+Inserted 1 Engl ID - 1210 - He doesn't drink.
+Inserted 2 Port ID - 1211 - Ele não bebe.
+Inserted 1 Engl ID - 1212 - She drinks.
+Inserted 2 Port ID - 1213 - Ela bebe.
+Inserted 1 Engl ID - 1214 - Does she drink?  
+Inserted 2 Port ID - 1215 - Ela bebe?
+Inserted 1 Engl ID - 1216 - She hasn't drunk, I have drunk.
+Inserted 2 Port ID - 1217 - Ela não bebeu, eu bebi.
+Inserted 1 Engl ID - 1218 - I didn't drink yesterday.
+Inserted 2 Port ID - 1219 - Eu não bebi ontem.
+Inserted 1 Engl ID - 1220 - I drank yesterday.
+Inserted 2 Port ID - 1221 - Eu bebi ontem.
+Inserted 1 Engl ID - 1222 - I saw one of your friends last night.
+Inserted 2 Port ID - 1223 - Eu vi um dos seus amigos noite passada.
+Inserted 1 Engl ID - 1224 - She sees her daughter just at the night.
+Inserted 2 Port ID - 1225 - Ela vê sua filha somente a noite.
+Inserted 1 Engl ID - 1226 - Did you see the psychobabble yesterday? 
+Inserted 2 Port ID - 1227 - Você viu a besteira ontem?
+Inserted 1 Engl ID - 1228 - She saw the psychobabble yesterday.
+Inserted 2 Port ID - 1229 - Ela viu a besteira ontem.
+Inserted 1 Engl ID - 1230 - I will see my father.
+Inserted 2 Port ID - 1231 - Eu verei meu pai.
+Inserted 1 Engl ID - 1232 - Has she smelt your perfume? 
+Inserted 2 Port ID - 1233 - Ela cherou o seu perfume?
+Inserted 1 Engl ID - 1234 - It doesn't smell good.
+Inserted 2 Port ID - 1235 - Isso não cheira bem.
+Inserted 1 Engl ID - 1236 - I have smelt his breath, unhappily.
+Inserted 2 Port ID - 1237 - Eu cheirei o hálito dele infelizmente.
+Inserted 1 Engl ID - 1238 - Does my hair smell good? 
+Inserted 2 Port ID - 1239 - O meu cabelo cheira bem? 
+Inserted 1 Engl ID - 1240 - The girl smelt a rose yesterday.
+Inserted 2 Port ID - 1241 - A garota cherou uma rosa ontem.
+Inserted 1 Engl ID - 1242 - My daughter has smiled to me.
+Inserted 2 Port ID - 1243 - Minha filha sorriu para mim.
+Inserted 1 Engl ID - 1244 - That guy is charismatic and he smiles to everybody.
+Inserted 2 Port ID - 1245 - Aquele cara é carismático e sorri para todo mundo.
+Inserted 1 Engl ID - 1246 - Why didn't you smile yesterday? 
+Inserted 2 Port ID - 1247 - Por que você não sorriu ontem?
+Inserted 1 Engl ID - 1248 - I smile almost every time.
+Inserted 2 Port ID - 1249 - Eu sorrio quase toda hora.
+Inserted 1 Engl ID - 1250 - Why are you laughing? 
+Inserted 2 Port ID - 1251 - Por que você está rindo? 
+Inserted 1 Engl ID - 1252 - I am laughing at you.
+Inserted 2 Port ID - 1253 - Eu estou rindo de você.
+Inserted 1 Engl ID - 1254 - I can't stop laughing.
+Inserted 2 Port ID - 1255 - Eu não consigo parar de rir.
+Inserted 1 Engl ID - 1256 - She always laughs.
+Inserted 2 Port ID - 1257 - Ela sempre ri.
+Inserted 1 Engl ID - 1258 - I laugh in the face of danger.
+Inserted 2 Port ID - 1259 - Eu rio na cara do perigo.
+Inserted 1 Engl ID - 1260 - Whe did I cry? 
+Inserted 2 Port ID - 1261 - Quando eu chorei? 
+Inserted 1 Engl ID - 1262 - He cries.
+Inserted 2 Port ID - 1263 - Ele chora.
+Inserted 1 Engl ID - 1264 - Have you ever cried? 
+Inserted 2 Port ID - 1265 - Você jamais chorou?
+Inserted 1 Engl ID - 1266 - He is breathing.
+Inserted 2 Port ID - 1267 - Ele está respirando.
+Inserted 1 Engl ID - 1268 - I will breathe even without breath.
+Inserted 2 Port ID - 1269 - Eu respirarei mesmo sem fôlego.
+Inserted 1 Engl ID - 1270 - Every fish breathes underwater.
+Inserted 2 Port ID - 1271 - Todo peixe respira dentro da água.
+Inserted 1 Engl ID - 1272 - How many hours do you sleep per day? 
+Inserted 2 Port ID - 1273 - Quantas horas você dorme por dia?
+Inserted 1 Engl ID - 1274 - I sleep seven hours.
+Inserted 2 Port ID - 1275 - Eu durmo 7 horas.
+Inserted 1 Engl ID - 1276 - Yesterday I went to sleep at midnight.
+Inserted 2 Port ID - 1277 - Ontem eu fui dormir meia noite.
+Inserted 1 Engl ID - 1278 - What time did you wake? 
+Inserted 2 Port ID - 1279 - Que horas você acordou? 
+Inserted 1 Engl ID - 1280 - I woke very early at six in the morning.
+Inserted 2 Port ID - 1281 - Eu acordei bem cedo às seis da manhã.
+Inserted 1 Engl ID - 1282 - I usually wake late on Sundays.
+Inserted 2 Port ID - 1283 - Eu geralmente acordo tarde aos domingos.
+Inserted 1 Engl ID - 1284 - Where did she live last year?
+Inserted 2 Port ID - 1285 - Onde ela morou ano passado?
+Inserted 1 Engl ID - 1286 - The following year I lived in São Paulo. 
+Inserted 2 Port ID - 1287 - O ano seguinte eu morei em Sâo Paulo.
+Inserted 1 Engl ID - 1288 - Would you live in Alaska?
+Inserted 2 Port ID - 1289 - Você viveria no Alasca? 
+Inserted 1 Engl ID - 1290 - I would die for my dear family.
+Inserted 2 Port ID - 1291 - Eu morreria por minha querida família.
+Inserted 1 Engl ID - 1292 - Jesus died in my place.
+Inserted 2 Port ID - 1293 - Jesus morreu em meu lugar.
+Inserted 1 Engl ID - 1294 - Jesus died to save a crowd of repentant of sinners
+Inserted 2 Port ID - 1295 - Jesus morreu para salvar uma multidão de pecadores arrependidos.
+Inserted 1 Engl ID - 1296 - Would you do? 
+Inserted 2 Port ID - 1297 - Você realizaria?
+Inserted 1 Engl ID - 1298 - Will you do? 
+Inserted 2 Port ID - 1299 - Você fará?
+Inserted 1 Engl ID - 1300 - I did yesterday.
+Inserted 2 Port ID - 1301 - Eu fiz ontem.
+Inserted 1 Engl ID - 1302 - Has he done?
+Inserted 2 Port ID - 1303 - Ele fez?
+Inserted 1 Engl ID - 1304 - I wouldn't do.
+Inserted 2 Port ID - 1305 - Eu não faria.
+Inserted 1 Engl ID - 1306 - He does.
+Inserted 2 Port ID - 1307 - Ele faz.
+Inserted 1 Engl ID - 1308 - You do.
+Inserted 2 Port ID - 1309 - Você faz.
+Inserted 1 Engl ID - 1310 - You don't do.
+Inserted 2 Port ID - 1311 - Você não faz.
+Inserted 1 Engl ID - 1312 - He will do.
+Inserted 2 Port ID - 1313 - Ele fará.
+Inserted 1 Engl ID - 1314 - Will he do?
+Inserted 2 Port ID - 1315 - Ele fará?
+Inserted 1 Engl ID - 1316 - Do you do?
+Inserted 2 Port ID - 1317 - Você faz?
+Inserted 1 Engl ID - 1318 - Would you do? 
+Inserted 2 Port ID - 1319 - Você faria?
+Inserted 1 Engl ID - 1320 - Did you do yesterday? 
+Inserted 2 Port ID - 1321 - Você realizou ontem?
+Inserted 1 Engl ID - 1322 - How do you do it? 
+Inserted 2 Port ID - 1323 - Como você faz isso?
+Inserted 1 Engl ID - 1324 - I have done a great job.
+Inserted 2 Port ID - 1325 - Eu realizei um grande trabalho.
+Inserted 1 Engl ID - 1326 - I usually do my homework after my dinner. 
+Inserted 2 Port ID - 1327 - Eu geralmente faço a minha lição depois do jantar.
+Inserted 1 Engl ID - 1328 - They did their best last weekend.
+Inserted 2 Port ID - 1329 - Eles fizeram o seu melhor no último fim de semana.
+Inserted 1 Engl ID - 1330 - Can you do me a favor? 
+Inserted 2 Port ID - 1331 - Você pode me fazer um favor?
+Inserted 1 Engl ID - 1332 - He does everything for his mother.
+Inserted 2 Port ID - 1333 - Ele faz tudo pela mãe dele.
+Inserted 1 Engl ID - 1334 - I have had.
+Inserted 2 Port ID - 1335 - Eu tive.
+Inserted 1 Engl ID - 1336 - Does she have? 
+Inserted 2 Port ID - 1337 - Ela tem?
+Inserted 1 Engl ID - 1338 - He has.
+Inserted 2 Port ID - 1339 - Ele tem.
+Inserted 1 Engl ID - 1340 - She won't have.
+Inserted 2 Port ID - 1341 - Ela não terá.
+Inserted 1 Engl ID - 1342 - I would have.
+Inserted 2 Port ID - 1343 - Eu teria.
+Inserted 1 Engl ID - 1344 - Did she have yesterday? 
+Inserted 2 Port ID - 1345 - Ela tinha ontem?
+Inserted 1 Engl ID - 1346 - He hasn't had.
+Inserted 2 Port ID - 1347 - Ele não tinha.
+Inserted 1 Engl ID - 1348 - Have you had? 
+Inserted 2 Port ID - 1349 - Você teve?
+Inserted 1 Engl ID - 1350 - Will you have time to study tomorrow? 
+Inserted 2 Port ID - 1351 - Você terá tempo para estudar amanhã? 
+Inserted 1 Engl ID - 1352 - Did you have classes yesterday? 
+Inserted 2 Port ID - 1353 - Você teve aulas ontem? 
+Inserted 1 Engl ID - 1354 - Will you have kids? 
+Inserted 2 Port ID - 1355 - Você terá filhos? 
+Inserted 1 Engl ID - 1356 - She hasn't had good moments, I have had.
+Inserted 2 Port ID - 1357 - Ela não teve bons momentos, eu tive.
+Inserted 1 Engl ID - 1358 - Let's have fun.
+Inserted 2 Port ID - 1359 - Deixe-nos ter diversão.
+Inserted 1 Engl ID - 1360 - I had three little puppies in my childhood. 
+Inserted 2 Port ID - 1361 - Eu tive 3 cachorrinhos na infância.
+Inserted 1 Engl ID - 1362 - I have a good neighborhood.
+Inserted 2 Port ID - 1363 - Eu tenho uma boa vizinhança.
+Inserted 1 Engl ID - 1364 - You will have problems, but don't hate it.
+Inserted 2 Port ID - 1365 - Você terá problemas, mas não odei isso.
+Inserted 1 Engl ID - 1366 - Do we have  chance? 
+Inserted 2 Port ID - 1367 - Nós temos uma chance?
+Inserted 1 Engl ID - 1368 - This guy hasn't had so much luck.
+Inserted 2 Port ID - 1369 - Esse cara não teve muita sorte.
+Inserted 1 Engl ID - 1370 - I will have cake and coke.
+Inserted 2 Port ID - 1371 - Eu terei bolo e coca.
+Inserted 1 Engl ID - 1372 - I have need for speed.
+Inserted 2 Port ID - 1373 - Eu tenho necessidade de velocidade.
+Inserted 1 Engl ID - 1374 - He has a breave heart.
+Inserted 2 Port ID - 1375 - Ele tem um coração valente.
+Inserted 1 Engl ID - 1376 - Do you have courage to fight? 
+Inserted 2 Port ID - 1377 - Você tem coragem para lutar? 
+Inserted 1 Engl ID - 1378 - I have had five cars.
+Inserted 2 Port ID - 1379 - Eu tinha cinco carros.
+Inserted 1 Engl ID - 1380 - You have to have a job. 
+Inserted 2 Port ID - 1381 - Você tem que ter um emprego.
+Inserted 1 Engl ID - 1382 - My living room has a nice atmosphere.
+Inserted 2 Port ID - 1383 - Minha sala tem um ambiente legal.
+Inserted 1 Engl ID - 1384 - But the outside has a bad environment.
+Inserted 2 Port ID - 1385 - Mas do lado de fora tem um ambiente ruim.
+Inserted 1 Engl ID - 1386 - I have had strength, have you had? 
+Inserted 2 Port ID - 1387 - Eu tinha força, você teve? 
+Inserted 1 Engl ID - 1388 - Would you have told me? 
+Inserted 2 Port ID - 1389 - Você teria me contado?
+Inserted 1 Engl ID - 1390 - She hasn't had luck.
+Inserted 2 Port ID - 1391 - Ela não teve sorte.
+Inserted 1 Engl ID - 1392 - I get a bus to my job.
+Inserted 2 Port ID - 1393 - Eu pego ônibus para o trabalho.
+Inserted 1 Engl ID - 1394 - I have taken a bus to the stadium.
+Inserted 2 Port ID - 1395 - Eu peguei um ônibus para o estádio.
+Inserted 1 Engl ID - 1396 - He has got a car to drive in São Paulo.
+Inserted 2 Port ID - 1397 - Ele alugou um carro para dirigir em São Paulo.
+Inserted 1 Engl ID - 1398 - She took a car to drive in the town yesterday.
+Inserted 2 Port ID - 1399 - Ela alugou um carro para dirigir na cidadizinha ontem.
+Inserted 1 Engl ID - 1400 - He will get North Pole in Winter.
+Inserted 2 Port ID - 1401 - Ele irá para o Pólo Norte no Inverno.
+Inserted 1 Engl ID - 1402 - We have taken a photo.
+Inserted 2 Port ID - 1403 - Nós tiramos uma foto.
+Inserted 1 Engl ID - 1404 - She has got portuguese.
+Inserted 2 Port ID - 1405 - Ela aprendeu português.
+Inserted 1 Engl ID - 1406 - You will take english.
+Inserted 2 Port ID - 1407 - Você aprenderá inglês.
+Inserted 1 Engl ID - 1408 - Have you got it?
+Inserted 2 Port ID - 1409 - Vocês entenderam?
+Inserted 1 Engl ID - 1410 - Have you taken it? 
+Inserted 2 Port ID - 1411 - Vocês entenderam?
+Inserted 1 Engl ID - 1412 - I have got Chemistry.
+Inserted 2 Port ID - 1413 - Eu entendi química.
+Inserted 1 Engl ID - 1414 - I have taken the tickets.
+Inserted 2 Port ID - 1415 - Eu consegui os ingressos.
+Inserted 1 Engl ID - 1416 - Where do you get your strength? 
+Inserted 2 Port ID - 1417 - Onde você consegue a sua força?
+Inserted 1 Engl ID - 1418 - Did you take the message yesterday?
+Inserted 2 Port ID - 1419 - Você captou a mensagem ontem?
+Inserted 1 Engl ID - 1420 - How do you get these things? 
+Inserted 2 Port ID - 1421 - Com você adquiri essas coisas?
+Inserted 1 Engl ID - 1422 - Where do you take these things?
+Inserted 2 Port ID - 1423 - Onde você pega essas coisas?
+Inserted 1 Engl ID - 1424 - She hasn't said Hi to me.
+Inserted 2 Port ID - 1425 - Ela não disse oi para mim.
+Inserted 1 Engl ID - 1426 - I have said.
+Inserted 2 Port ID - 1427 - Eu disse.
+Inserted 1 Engl ID - 1428 - She doesn't say Hello.
+Inserted 2 Port ID - 1429 - Ela não diz olá.
+Inserted 1 Engl ID - 1430 - I say to you and she says to me.
+Inserted 2 Port ID - 1431 - Eu digo a você e ela diz para mim.
+Inserted 1 Engl ID - 1432 - I told yesterday.
+Inserted 2 Port ID - 1433 - Eu contei ontem.
+Inserted 1 Engl ID - 1434 - I will tell you the secret.
+Inserted 2 Port ID - 1435 - Eu contarei para você o segredo.
+Inserted 1 Engl ID - 1436 - I have told, I will go.
+Inserted 2 Port ID - 1437 - Eu contei que eu irei.
+Inserted 1 Engl ID - 1438 - Don't tell lies to me.
+Inserted 2 Port ID - 1439 - Não conte mentiras para mim.
+Inserted 1 Engl ID - 1440 - I will speak to fifteen people.
+Inserted 2 Port ID - 1441 - Eu vou falar para 15 pessoas.
+Inserted 1 Engl ID - 1442 - The guy just has spoken psychobabble.
+Inserted 2 Port ID - 1443 - O cara só falou bobeira.
+Inserted 1 Engl ID - 1444 - I was speaking about this yesterday.
+Inserted 2 Port ID - 1445 - Eu estava falando disso ontem.
+Inserted 1 Engl ID - 1446 - Did you talk to me yesterday?
+Inserted 2 Port ID - 1447 - Você conversou comigo ontem?
+Inserted 1 Engl ID - 1448 - I talked to my physician this morning.
+Inserted 2 Port ID - 1449 - Eu conversei com o meu médico hoje de manhã.
+Inserted 1 Engl ID - 1450 - I am gonna talk tomorrow for sure.
+Inserted 2 Port ID - 1451 - Eu conversarei amanhã com certeza.
+Inserted 1 Engl ID - 1452 - I want to sing alone.
+Inserted 2 Port ID - 1453 - Eu quero cantar sozinho.
+Inserted 1 Engl ID - 1454 - That singer sings super well.
+Inserted 2 Port ID - 1455 - Aquela cantora canta super bem.
+Inserted 1 Engl ID - 1456 - Jonh sings every end of year.
+Inserted 2 Port ID - 1457 - João canta todo fim de ano.
+Inserted 1 Engl ID - 1458 - I called to my parents yesterday.
+Inserted 2 Port ID - 1459 - Eu liguei para os meu pais ontem.
+Inserted 1 Engl ID - 1460 - I have called to my father, haven't you called? 
+Inserted 2 Port ID - 1461 - Eu liguei para o meu pai, você não ligou?
+Inserted 1 Engl ID - 1462 - She will call by names.
+Inserted 2 Port ID - 1463 - Ela chamará pelos nomes.
+Inserted 1 Engl ID - 1464 - Do you understand what I mean ? 
+Inserted 2 Port ID - 1465 - Você entende o que eu quero dizer?
+Inserted 1 Engl ID - 1466 - It means yes.
+Inserted 2 Port ID - 1467 - Isso quer dizer que sim.
+Inserted 1 Engl ID - 1468 - What does it mean? 
+Inserted 2 Port ID - 1469 - O que isso quer dizer?
+Inserted 1 Engl ID - 1470 - I know this pizza is yours.
+Inserted 2 Port ID - 1471 - Eu sei que essa pizza é sua.
+Inserted 1 Engl ID - 1472 - I have known.
+Inserted 2 Port ID - 1473 - Eu soube.
+Inserted 1 Engl ID - 1474 - I have known he hasn't drunk.
+Inserted 2 Port ID - 1475 - Eu soube que ele não bebeu.
+Inserted 1 Engl ID - 1476 - She has known she hasn't had.
+Inserted 2 Port ID - 1477 - Ela sabia que ela não tinha.
+Inserted 1 Engl ID - 1478 - He knew yesterday.
+Inserted 2 Port ID - 1479 - Ele soube ontem.
+Inserted 1 Engl ID - 1480 - I didn't believe in you yesterday.
+Inserted 2 Port ID - 1481 - Eu não acreditei em você ontem.
+Inserted 1 Engl ID - 1482 - Do you believe? 
+Inserted 2 Port ID - 1483 - Você acredita? 
+Inserted 1 Engl ID - 1484 - She believes in my word.
+Inserted 2 Port ID - 1485 - Ela acredita na minha palavra.
+Inserted 1 Engl ID - 1486 - I think so.
+Inserted 2 Port ID - 1487 - Eu penso que sim.
+Inserted 1 Engl ID - 1488 - i don't think so.
+Inserted 2 Port ID - 1489 - Eu penso que não.
+Inserted 1 Engl ID - 1490 - Is that all you can think? 
+Inserted 2 Port ID - 1491 - Isso é tudo que você pode pensar?
+Inserted 1 Engl ID - 1492 - Did you think about my brother yesterday? 
+Inserted 2 Port ID - 1493 - Você pensou sobre o meu irmão ontem?
+Inserted 1 Engl ID - 1494 - What do you guess about it? 
+Inserted 2 Port ID - 1495 - O que você acha disso?
+Inserted 1 Engl ID - 1496 - I guess that I can.
+Inserted 2 Port ID - 1497 - Eu acho que eu consigo.
+Inserted 1 Engl ID - 1498 - He guesses it is possible.
+Inserted 2 Port ID - 1499 - Ele acha que é possível.
+Inserted 1 Engl ID - 1500 - I can't understand it.
+Inserted 2 Port ID - 1501 - Eu não consigo entender isso.
+Inserted 1 Engl ID - 1502 - What part haven't you understood? 
+Inserted 2 Port ID - 1503 - Que parte você não entendeu? 
+Inserted 1 Engl ID - 1504 - They never understand anything.
+Inserted 2 Port ID - 1505 - Eles nunca entendem nada.
+Inserted 1 Engl ID - 1506 - Don't forget the unforgettable.
+Inserted 2 Port ID - 1507 - Não esqueça o inesquecível.
+Inserted 1 Engl ID - 1508 - Never forget that.
+Inserted 2 Port ID - 1509 - Nunca esqueça isso.
+Inserted 1 Engl ID - 1510 - I have gone there, do you remember? 
+Inserted 2 Port ID - 1511 - Eu fui lá, você lembra? 
+Inserted 1 Engl ID - 1512 - She remembers.
+Inserted 2 Port ID - 1513 - Ela lembra.
+Inserted 1 Engl ID - 1514 - Try to remember.
+Inserted 2 Port ID - 1515 - Tente lembrar.
+Inserted 1 Engl ID - 1516 - I am going to (gonna) go
+Inserted 2 Port ID - 1517 - Eu irei.
+Inserted 1 Engl ID - 1518 - Are you going to (gonna) go? 
+Inserted 2 Port ID - 1519 - Você irá? 
+Inserted 1 Engl ID - 1520 - She is going to (gonna) be.
+Inserted 2 Port ID - 1521 - Ela estará.
+Inserted 1 Engl ID - 1522 - I am going to (gonna) say the truth.
+Inserted 2 Port ID - 1523 - Eu direi a verdade.
+Inserted 1 Engl ID - 1524 - I am not going to (gonna) tell nobody. 
+Inserted 2 Port ID - 1525 - Eu não contarei para ninguém.
+Inserted 1 Engl ID - 1526 - I am going to (gonna) be busy tomorrow.
+Inserted 2 Port ID - 1527 - Eu estarei ocupado amanhã.
+Inserted 1 Engl ID - 1528 - I am going to be (gonna) in Campinas.
+Inserted 2 Port ID - 1529 - Eu estarei em Campinas.
+Inserted 1 Engl ID - 1530 - He is not going to go (gonna) with me.
+Inserted 2 Port ID - 1531 - Ele não irá comigo.
+Inserted 1 Engl ID - 1532 - Are you going to (gonna) work tomorrow? 
+Inserted 2 Port ID - 1533 - Você trabalhará amanhã?
+Inserted 1 Engl ID - 1534 - She is going to (gonna) study.
+Inserted 2 Port ID - 1535 - Ela estudará.
+Inserted 1 Engl ID - 1536 - I am going to (gonna) tell you.
+Inserted 2 Port ID - 1537 - Eu contarei para você.
+Inserted 1 Engl ID - 1538 - Is she going to (gonna) forgive? 
+Inserted 2 Port ID - 1539 - Ela perdoará? 
+Inserted 1 Engl ID - 1540 - I am going to (gonna) remember.
+Inserted 2 Port ID - 1541 - Eu lembrarei.
+Inserted 1 Engl ID - 1542 - I am going to (gonna) attend accountancy.
+Inserted 2 Port ID - 1543 - Eu cursarei contabilidade.
+Inserted 1 Engl ID - 1544 - Is he going to go to his job? 
+Inserted 2 Port ID - 1545 - Ele irá para o trabalho dele? 
+Inserted 1 Engl ID - 1546 - Are you going to(gonna) go with me? 
+Inserted 2 Port ID - 1547 - Você irá comigo?
+Inserted 1 Engl ID - 1548 - She is going to (gonna) go together, don't you think? 
+Inserted 2 Port ID - 1549 - Ela quererar ir junto, você não acha?
+Inserted 1 Engl ID - 1550 - He isn't going to (gonna) answer the phone.
+Inserted 2 Port ID - 1551 - Ele não atenderá o telefone.
+Inserted 1 Engl ID - 1552 - I am going to (gonna) buy.
+Inserted 2 Port ID - 1553 - Eu comprarei.
+Inserted 1 Engl ID - 1554 - We aren't going to (gonna) forget.
+Inserted 2 Port ID - 1555 - Nós não esqueceremos.
+Inserted 1 Engl ID - 1556 - I am not going to (gonna) be here tomorrow.
+Inserted 2 Port ID - 1557 - Eu não estarei aqui amanhã.
+Inserted 1 Engl ID - 1558 - It's not going to (gonna) rain tomorrow.
+Inserted 2 Port ID - 1559 - Não choverá amanhã.
+Inserted 1 Engl ID - 1560 - I wouldn't thank for this.
+Inserted 2 Port ID - 1561 - Eu não agradeceria por isso.
+Inserted 1 Engl ID - 1562 - Thank me for that.
+Inserted 2 Port ID - 1563 - Agradeça-me por isso.
+Inserted 1 Engl ID - 1564 - Have you thanked him? 
+Inserted 2 Port ID - 1565 - Você agradeceu ele?
+Inserted 1 Engl ID - 1566 - She hasn't thanked, but I have thanked.
+Inserted 2 Port ID - 1567 - Ela não agradeceu, mas eu agradeci.
+Inserted 1 Engl ID - 1568 - He didn't thank last Saturday.
+Inserted 2 Port ID - 1569 - Ele não agradeceu sábado passado.
+Inserted 1 Engl ID - 1570 - He thanked last night.
+Inserted 2 Port ID - 1571 - Ele agradeceu noite passada.
+Inserted 1 Engl ID - 1572 - I will thank all day.
+Inserted 2 Port ID - 1573 - Eu agradecerei o dia todo.
+Inserted 1 Engl ID - 1574 - He thanks every day.
+Inserted 2 Port ID - 1575 - Ele agradece todo dia.
+Inserted 1 Engl ID - 1576 - Thank God.
+Inserted 2 Port ID - 1577 - Graças a Deus.
+Inserted 1 Engl ID - 1578 - I give thanks to God for my repentances.
+Inserted 2 Port ID - 1579 - Eu dou graças a Deus pelos meus arrepemdimentos.
+Inserted 1 Engl ID - 1580 - They have thanked for fraternity.
+Inserted 2 Port ID - 1581 - Eles agradeceram pela fraternidade.
+Inserted 1 Engl ID - 1582 - I will appreciate you.
+Inserted 2 Port ID - 1583 - Eu agradecerei você 1000 %.
+Inserted 1 Engl ID - 1584 - I appreciated him ten minutes ago.
+Inserted 2 Port ID - 1585 - Eu agradeci ele a 10 minutos atrás.
+Inserted 1 Engl ID - 1586 - She has appreciated and she has gone away.
+Inserted 2 Port ID - 1587 - Ela agradeceu e foi embora.
+Inserted 1 Engl ID - 1588 - Have you appreciated her? 
+Inserted 2 Port ID - 1589 - Você agradeceu ela?
+Inserted 1 Engl ID - 1590 - We won't appreciate.
+Inserted 2 Port ID - 1591 - Nós não agradeceremos.
+Inserted 1 Engl ID - 1592 - Would she appreciate you? 
+Inserted 2 Port ID - 1593 - Ela agradeceria você?
+Inserted 1 Engl ID - 1594 - You haven't appreciated me.
+Inserted 2 Port ID - 1595 - Você não me agradeceu.
+Inserted 1 Engl ID - 1596 - Would you please? 
+Inserted 2 Port ID - 1597 - Você agradaria?
+Inserted 1 Engl ID - 1598 - Do you please?
+Inserted 2 Port ID - 1599 - Você agrada?
+Inserted 1 Engl ID - 1600 - I please.
+Inserted 2 Port ID - 1601 - Eu agrado.
+Inserted 1 Engl ID - 1602 - She pleases.
+Inserted 2 Port ID - 1603 - Ela agrada.
+Inserted 1 Engl ID - 1604 - Have you pleased?
+Inserted 2 Port ID - 1605 - Você agradou?
+Inserted 1 Engl ID - 1606 - Has she pleased?
+Inserted 2 Port ID - 1607 - Ela agradou?
+Inserted 1 Engl ID - 1608 - She has pleased.
+Inserted 2 Port ID - 1609 - Ela agradou.
+Inserted 1 Engl ID - 1610 - This movie doesn't please.
+Inserted 2 Port ID - 1611 - Esse filme não agrada.
+Inserted 1 Engl ID - 1612 - Please me if you forgive me.
+Inserted 2 Port ID - 1613 - Me agrada se você me perdoar.
+Inserted 1 Engl ID - 1614 - I would please my wife with gifts.
+Inserted 2 Port ID - 1615 - Eu agradaria a minha esposa com presentes.
+Inserted 1 Engl ID - 1616 - Have you pleased the boss?
+Inserted 2 Port ID - 1617 - Você agradou o chefe?
+Inserted 1 Engl ID - 1618 - Excuse me.
+Inserted 2 Port ID - 1619 - Desculpe-me.
+Inserted 1 Engl ID - 1620 - Ignorance of the law doesn't excuse anybody.
+Inserted 2 Port ID - 1621 - A ignorância da lei não desculpa ninguém.
+Inserted 1 Engl ID - 1622 - My daughter won't apologize him.
+Inserted 2 Port ID - 1623 - Minha filha não desculpará ele.
+Inserted 1 Engl ID - 1624 - My friend apologized me yesterday.
+Inserted 2 Port ID - 1625 - Meu amigo me desculpou ontem.
+Inserted 1 Engl ID - 1626 - He doesn't apologize.
+Inserted 2 Port ID - 1627 - Ele não descupa.
+Inserted 1 Engl ID - 1628 - I apologize you.
+Inserted 2 Port ID - 1629 - Eu desculpo você.
+Inserted 1 Engl ID - 1630 - She has apologized me.
+Inserted 2 Port ID - 1631 - Ela me desculpou.
+Inserted 1 Engl ID - 1632 - Has he apologized you?
+Inserted 2 Port ID - 1633 - Ele desculpou você?
+Inserted 1 Engl ID - 1634 - I have apologized because she has been sorry.
+Inserted 2 Port ID - 1635 - Eu desculpei por que ela estava sentida.
+Inserted 1 Engl ID - 1636 - I have been sorry and I have apologized him.
+Inserted 2 Port ID - 1637 - Eu estava com pena e desculpei ele.
+Inserted 1 Engl ID - 1638 - My apologizies. I am sorry for that.
+Inserted 2 Port ID - 1639 - Desculpa. Eu estou sentido por aquilo.
+Inserted 1 Engl ID - 1640 - I want to (wanna) apologize my friend.
+Inserted 2 Port ID - 1641 - Eu quero desculpar meu amigo.
+Inserted 1 Engl ID - 1642 - I apologize your fault.
+Inserted 2 Port ID - 1643 - Eu desculpo sua culpa.
+Inserted 1 Engl ID - 1644 - I forgive you for that.
+Inserted 2 Port ID - 1645 - Eu perdoo você por isso.
+Inserted 1 Engl ID - 1646 - She forgives seventy times seven.
+Inserted 2 Port ID - 1647 - Ela perdoa 70 vezes 7.
+Inserted 1 Engl ID - 1648 - You have forgiven.
+Inserted 2 Port ID - 1649 - Você perdoou.
+Inserted 1 Engl ID - 1650 - It sounds interesting.
+Inserted 2 Port ID - 1651 - Isso soa interessante.
+Inserted 1 Engl ID - 1652 - It hasn't sounded well.
+Inserted 2 Port ID - 1653 - Isso não soou bem.
+Inserted 1 Engl ID - 1654 - It doesn't sound bad.
+Inserted 2 Port ID - 1655 - Isso não soa mal.
+Inserted 1 Engl ID - 1656 - I look like you.
+Inserted 2 Port ID - 1657 - Eu pareço você.
+Inserted 1 Engl ID - 1658 - I seem you.
+Inserted 2 Port ID - 1659 - Eu pareço você.
+Inserted 1 Engl ID - 1660 - She looks like her mother.
+Inserted 2 Port ID - 1661 - Ela parece a mãe dela.
+Inserted 1 Engl ID - 1662 - She seems her mother.
+Inserted 2 Port ID - 1663 - Ela parece a mãe dela.
+Inserted 1 Engl ID - 1664 - You looked like your father when you were a baby.
+Inserted 2 Port ID - 1665 - Você parecia o seu pai quando você era bebê.
+Inserted 1 Engl ID - 1666 - He seems fearful.
+Inserted 2 Port ID - 1667 - Ele parece medroso.
+Inserted 1 Engl ID - 1668 - Do you look like more your father or your mother? 
+Inserted 2 Port ID - 1669 - Você parece mais o seu pai ou a sua mãe?
+Inserted 1 Engl ID - 1670 - They seem boring.
+Inserted 2 Port ID - 1671 - Eles parecem chatos.
+Inserted 1 Engl ID - 1672 - Does he look like me or look like you? 
+Inserted 2 Port ID - 1673 - Ele parece comigo ou com você?
+Inserted 1 Engl ID - 1674 - Does he seem to be calm or hot-headed?
+Inserted 2 Port ID - 1675 - Ele parece ser calmo ou temperamental? 
+Inserted 1 Engl ID - 1676 - She has been with my father.
+Inserted 2 Port ID - 1677 - Ela estava com o meu pai.
+Inserted 1 Engl ID - 1678 - Has she been with my father?
+Inserted 2 Port ID - 1679 - Ela estava com o meu pai?
+Inserted 1 Engl ID - 1680 - I have been here.
+Inserted 2 Port ID - 1681 - Eu estava aqui.
+Inserted 1 Engl ID - 1682 - Were you here yesterday? 
+Inserted 2 Port ID - 1683 - Você estava aqui ontem?
+Inserted 1 Engl ID - 1684 - He has been.
+Inserted 2 Port ID - 1685 - Ele estava.
+Inserted 1 Engl ID - 1686 - Has she been wrong?
+Inserted 2 Port ID - 1687 - Ela estava errada?
+Inserted 1 Engl ID - 1688 - What is wrong?
+Inserted 2 Port ID - 1689 - O que está errado?
+Inserted 1 Engl ID - 1690 - She isn't wrong. I am.
+Inserted 2 Port ID - 1691 - Ela não está errada. Eu estou.
+Inserted 1 Engl ID - 1692 - I would be there.
+Inserted 2 Port ID - 1693 - Eu estaria lá.
+Inserted 1 Engl ID - 1694 - I have been in Rio de Janeiro.
+Inserted 2 Port ID - 1695 - Eu estive no Rio de Janeiro.
+Inserted 1 Engl ID - 1696 - Are you there?
+Inserted 2 Port ID - 1697 - Você está aí?
+Inserted 1 Engl ID - 1698 - The most have been understandable.
+Inserted 2 Port ID - 1699 - A maioria era entendível.
+Inserted 1 Engl ID - 1700 - That isn't for them.
+Inserted 2 Port ID - 1701 - Isso não é para eles.
+Inserted 1 Engl ID - 1702 - My hearth is literally tired
+Inserted 2 Port ID - 1703 - Meu coração está literalmente cansado.
+Inserted 1 Engl ID - 1704 - He is hurting her heart.
+Inserted 2 Port ID - 1705 - Ele está machucando o coração dela.
+Inserted 1 Engl ID - 1706 - I am not boring.
+Inserted 2 Port ID - 1707 - Eu não sou chato.
+Inserted 1 Engl ID - 1708 - The old me was shy.
+Inserted 2 Port ID - 1709 - Antigamente eu era tímido.
+Inserted 1 Engl ID - 1710 - The old you were proud.
+Inserted 2 Port ID - 1711 - Antigamente você era orgulhoso.
+Inserted 1 Engl ID - 1712 - I am so proud of you.
+Inserted 2 Port ID - 1713 - Eu estou muito orgulhoso de você.
+Inserted 1 Engl ID - 1714 - You should be more polite.
+Inserted 2 Port ID - 1715 - Você deveria ser mais educado.
+Inserted 1 Engl ID - 1716 - He tries being.
+Inserted 2 Port ID - 1717 - Ela tenta ser.
+Inserted 1 Engl ID - 1718 - They were children.
+Inserted 2 Port ID - 1719 - Eles eram crianças.
+Inserted 1 Engl ID - 1720 - I was a messy child.
+Inserted 2 Port ID - 1721 - Eu fui uma criança bagunceira.
+Inserted 1 Engl ID - 1722 - I am pretty good singing.
+Inserted 2 Port ID - 1723 - Eu sou muito bom em cantar.
+Inserted 1 Engl ID - 1724 - The internet has been good.
+Inserted 2 Port ID - 1725 - A internet estava boa.
+Inserted 1 Engl ID - 1726 - Is it raining?
+Inserted 2 Port ID - 1727 - Está chovendo?
+Inserted 1 Engl ID - 1728 - She will be a good wife.
+Inserted 2 Port ID - 1729 - Ela será uma boa esposa.
+Inserted 1 Engl ID - 1730 - We were little children.
+Inserted 2 Port ID - 1731 - Nós eramos pequenas crianças.
+Inserted 1 Engl ID - 1732 - He has been right.
+Inserted 2 Port ID - 1733 - Ele estava certo.
+Inserted 1 Engl ID - 1734 - Would you be in the office? 
+Inserted 2 Port ID - 1735 - Você estaria no escritório?
+Inserted 1 Engl ID - 1736 - I have been in my bedroom.
+Inserted 2 Port ID - 1737 - Eu estive no meu quarto.
+Inserted 1 Engl ID - 1738 - The type of car will be that.
+Inserted 2 Port ID - 1739 - O tipo de carro será aquele.
+Inserted 1 Engl ID - 1740 - Is not she fine?
+Inserted 2 Port ID - 1741 - Ela não está bem?
+Inserted 1 Engl ID - 1742 - I have been thanking her.
+Inserted 2 Port ID - 1743 - Eu estava agradecendo ela.
+Inserted 1 Engl ID - 1744 - Why would I be knowing something?
+Inserted 2 Port ID - 1745 - Por que eu estaria sabendo de algo?
+Inserted 1 Engl ID - 1746 - Is she your step-sister?
+Inserted 2 Port ID - 1747 - Ela é sua meia irmã?
+Inserted 1 Engl ID - 1748 - I am talking to my mother.
+Inserted 2 Port ID - 1749 - Eu estou conversando com minha mãe.
+Inserted 1 Engl ID - 1750 - My mother is cooking.
+Inserted 2 Port ID - 1751 - Minha mãe está cozinhando.
+Inserted 1 Engl ID - 1752 - My brother-in-law is german.
+Inserted 2 Port ID - 1753 - Meu cunhado é alemão.
+Inserted 1 Engl ID - 1754 - I have been working while you have worked.
+Inserted 2 Port ID - 1755 - Eu estava trabalhando enquanto você trabalhava.
+Inserted 1 Engl ID - 1756 - The brazilians have been a different folk.
+Inserted 2 Port ID - 1757 - Os brasileiros eram um povo diferente.
+Inserted 1 Engl ID - 1758 - What do you want to be?
+Inserted 2 Port ID - 1759 - O que você quer ser?
+Inserted 1 Engl ID - 1760 - What were you doing there yesterday?
+Inserted 2 Port ID - 1761 - O que você estava fazendo lá ontem?
+Inserted 1 Engl ID - 1762 - I was a fool.
+Inserted 2 Port ID - 1763 - Eu fui um tolo.
+Inserted 1 Engl ID - 1764 - Have I been?
+Inserted 2 Port ID - 1765 - Eu era?
+Inserted 1 Engl ID - 1766 - You are a selfish.
+Inserted 2 Port ID - 1767 - Você é um egoísta.
+Inserted 1 Engl ID - 1768 - Is she sick ?
+Inserted 2 Port ID - 1769 - Ela está doente?
+Inserted 1 Engl ID - 1770 - The room is pleasant.
+Inserted 2 Port ID - 1771 - O espaço é agradável.
+Inserted 1 Engl ID - 1772 - Would they be? 
+Inserted 2 Port ID - 1773 - Eles seriam?
+Inserted 1 Engl ID - 1774 - The book is over the desk.
+Inserted 2 Port ID - 1775 - O livro está sobre a mesa.
+Inserted 1 Engl ID - 1776 - My travel has been unforgettable.
+Inserted 2 Port ID - 1777 - Minha viagem foi inesquecível.
+Inserted 1 Engl ID - 1778 - I was fired.
+Inserted 2 Port ID - 1779 - Eu fui demitido.
+Inserted 1 Engl ID - 1780 - Everybody has been in the building.
+Inserted 2 Port ID - 1781 - Todo mundo estava no prédio.
+Inserted 1 Engl ID - 1782 - The sick has been cheerful.
+Inserted 2 Port ID - 1783 - O doente estava cheio de alegria.
+Inserted 1 Engl ID - 1784 - I am so stupid.
+Inserted 2 Port ID - 1785 - Eu sou muito burro.
+Inserted 1 Engl ID - 1786 - I wasn't stupid in school.
+Inserted 2 Port ID - 1787 - Eu não era burro na escola.
+Inserted 1 Engl ID - 1788 - I was stupid.
+Inserted 2 Port ID - 1789 - Eu era burro.
+Inserted 1 Engl ID - 1790 - He has been watching.
+Inserted 2 Port ID - 1791 - Ele estava assitindo.
+Inserted 1 Engl ID - 1792 - She hasn't been old. 
+Inserted 2 Port ID - 1793 - Ela não era velha.
+Inserted 1 Engl ID - 1794 - She wasn't old in Two Thousand.
+Inserted 2 Port ID - 1795 - Ela não era velha no ano 2000.
+Inserted 1 Engl ID - 1796 - He is the bad apple.
+Inserted 2 Port ID - 1797 - Ele é a ovelha negra.
+Inserted 1 Engl ID - 1798 - The winner is the same of the last year.
+Inserted 2 Port ID - 1799 - O vencedor é o mesmo do ano passado.
+Inserted 1 Engl ID - 1800 - It is a pleasure to meet you.
+Inserted 2 Port ID - 1801 - É um prazer conhecer você.
+Inserted 1 Engl ID - 1802 - Her book is with her.
+Inserted 2 Port ID - 1803 - O livro dela está com ela.
+Inserted 1 Engl ID - 1804 - It isn't bullshit.
+Inserted 2 Port ID - 1805 - Isso não é mentira cabeluda.
+Inserted 1 Engl ID - 1806 - Who has been with you?
+Inserted 2 Port ID - 1807 - Quem estava com você?
+Inserted 1 Engl ID - 1808 - Whose this key is? 
+Inserted 2 Port ID - 1809 - De quem é está chave?
+Inserted 1 Engl ID - 1810 - Has she been a cheerleader? 
+Inserted 2 Port ID - 1811 - Ela era uma lider de torcida?
+Inserted 1 Engl ID - 1812 - Are you knowing something?
+Inserted 2 Port ID - 1813 - Você está sabendo de alguma coisa?
+Inserted 1 Engl ID - 1814 - Will your friend be in the movies tomorrow? 
+Inserted 2 Port ID - 1815 - Seu amigo estará no cinema amanhã?
+Inserted 1 Engl ID - 1816 - Will you be mother? 
+Inserted 2 Port ID - 1817 - Você será mãe?
+Inserted 1 Engl ID - 1818 - My grandma was my neighbor in nineties.
+Inserted 2 Port ID - 1819 - Minha vovó era minha vizinha nos anos noventa.
+Inserted 1 Engl ID - 1820 - Money isn't everything.
+Inserted 2 Port ID - 1821 - Dinheiro não é tudo.
+Inserted 1 Engl ID - 1822 - That is all folks!
+Inserted 2 Port ID - 1823 - Isso é tudo pessoal.
+Inserted 1 Engl ID - 1824 - Nothing is impossible to him. 
+Inserted 2 Port ID - 1825 - Nada é impossível para ele.
+Inserted 1 Engl ID - 1826 - You haven't been like him.
+Inserted 2 Port ID - 1827 - Você não era como ele.
+Inserted 1 Engl ID - 1828 - She is like this since that time. 
+Inserted 2 Port ID - 1829 - Ela está assim desde aquela vez.
+Inserted 1 Engl ID - 1830 - I have been on the bottom of the pool.
+Inserted 2 Port ID - 1831 - Eu estava no fundo da piscina.
+Inserted 1 Engl ID - 1832 - The type isn't this exactly. 
+Inserted 2 Port ID - 1833 - O tipo não é esse exatamente.
+Inserted 1 Engl ID - 1834 - But it has been.
+Inserted 2 Port ID - 1835 - Mas era.
+Inserted 1 Engl ID - 1836 - This can be serious. 
+Inserted 2 Port ID - 1837 - Isso pode ser grave.
+Inserted 1 Engl ID - 1838 - I was great yesterday.
+Inserted 2 Port ID - 1839 - Eu estive ótimo ontem.
+Inserted 1 Engl ID - 1840 - Are you confortable in your job? 
+Inserted 2 Port ID - 1841 - Você está confortável em seu trabalho? 
+Inserted 1 Engl ID - 1842 - The dog is arrested by its dog-collar.
+Inserted 2 Port ID - 1843 - O cachorro está preso pela coleira dele.
+Inserted 1 Engl ID - 1844 - I am disappointed with myself.
+Inserted 2 Port ID - 1845 - Eu estou desapontado comigo mesmo.
+Inserted 1 Engl ID - 1846 - I was being  stupid.
+Inserted 2 Port ID - 1847 - Eu estava sendo burro.
+Inserted 1 Engl ID - 1848 - Would you work? F12
+Inserted 1 Engl ID - 1849 - Did she know yesterday?
+Inserted 2 Port ID - 1850 - Ela soube ontem?
+Inserted 1 Engl ID - 1851 - Have you gone there?
+Inserted 2 Port ID - 1852 - Você foi lá?
+Inserted 1 Engl ID - 1853 - Where have you gone?
+Inserted 2 Port ID - 1854 - Onde você foi?
+Inserted 1 Engl ID - 1855 - What do you fix?
+Inserted 2 Port ID - 1856 - O que você conserta?
+Inserted 1 Engl ID - 1857 - Will you sing?F12
+Inserted 1 Engl ID - 1858 - Do you eat mexican food?F12
+Inserted 1 Engl ID - 1859 - How was he yesterday?F12
+Inserted 1 Engl ID - 1860 - When will she help me?
+Inserted 2 Port ID - 1861 - Quando ela me ajudará?
+Inserted 1 Engl ID - 1862 - Would I know?
+Inserted 2 Port ID - 1863 - Eu saberia?
+Inserted 1 Engl ID - 1864 - What would I know?F12
+Inserted 1 Engl ID - 1865 - Does the media lie? 
+Inserted 2 Port ID - 1866 - A mídia mente?
+Inserted 1 Engl ID - 1867 - Does she date?F12
+Inserted 1 Engl ID - 1868 - How beautiful is she?
+Inserted 2 Port ID - 1869 - Quão bonita ela é?
+Inserted 1 Engl ID - 1870 - Has he been polite?
+Inserted 2 Port ID - 1871 - Ele foi educado?
+Inserted 1 Engl ID - 1872 - Has he been polite to you?
+Inserted 2 Port ID - 1873 - Ele foi educado com você?
+Inserted 1 Engl ID - 1874 - Has my brother been polite to you?
+Inserted 2 Port ID - 1875 - Meu irmão foi educado com você?
+Inserted 1 Engl ID - 1876 - Did mey brother talk to you yesterday?
+Inserted 2 Port ID - 1877 - Meu irmão conversou com você ontem?
+Inserted 1 Engl ID - 1878 - Would you say me?
+Inserted 2 Port ID - 1879 - Você me diria?
+Inserted 1 Engl ID - 1880 - What would she say to me?
+Inserted 2 Port ID - 1881 - O que ela me diria?
+Inserted 1 Engl ID - 1882 - Have you been?
+Inserted 2 Port ID - 1883 - Você estava?
+Inserted 1 Engl ID - 1884 - Have you been cooking?F12
+Inserted 1 Engl ID - 1885 - Has she wanted?
+Inserted 2 Port ID - 1886 - Ela queria?
+Inserted 1 Engl ID - 1887 - What have you learnt?
+Inserted 2 Port ID - 1888 - O que você aprendeu?
+Inserted 1 Engl ID - 1889 - Will you be?
+Inserted 2 Port ID - 1890 - Você estará?
+Inserted 1 Engl ID - 1891 - Where are you?
+Inserted 2 Port ID - 1892 - Onde você está?
+Inserted 1 Engl ID - 1893 - Have you bought gift?
+Inserted 2 Port ID - 1894 - Você comprou presente?
+Inserted 1 Engl ID - 1895 - Where have you bought?
+Inserted 2 Port ID - 1896 - Onde você comprou?
+Inserted 1 Engl ID - 1897 - Did it rain last night?
+Inserted 2 Port ID - 1898 - Choveu noite passada?
+Inserted 1 Engl ID - 1899 - Is it raining?
+Inserted 2 Port ID - 1900 - Está chovendo?
+Inserted 1 Engl ID - 1901 - Where do you hide?
+Inserted 2 Port ID - 1902 - Onde você esconde?
+Inserted 1 Engl ID - 1903 - Why do you love me?
+Inserted 2 Port ID - 1904 - Por que você me ama?
+Inserted 1 Engl ID - 1905 - Will you pay?
+Inserted 2 Port ID - 1906 - Você pagará?
+Inserted 1 Engl ID - 1907 - Has he forgotten?
+Inserted 2 Port ID - 1908 - Ele esqueceu?
+Inserted 1 Engl ID - 1909 - What have we forgotten?
+Inserted 2 Port ID - 1910 - O que nós esquecemos?
+Inserted 1 Engl ID - 1911 - Does he pray?
+Inserted 2 Port ID - 1912 - Ele ora?
+Inserted 1 Engl ID - 1913 - Where do you study?
+Inserted 2 Port ID - 1914 - Onde você estuda?
+Inserted 1 Engl ID - 1915 - Where are you studying?
+Inserted 2 Port ID - 1916 - Onde você está estudando?
+Inserted 1 Engl ID - 1917 - Would you work in the cemetery?
+Inserted 2 Port ID - 1918 - Você trabalharia no cemitério?
+Inserted 1 Engl ID - 1919 - What book did you read last week?
+Inserted 2 Port ID - 1920 - Que livro você leu semana passada?
+Inserted 1 Engl ID - 1921 - Who are you?
+Inserted 2 Port ID - 1922 - Quem é você?
+Inserted 1 Engl ID - 1923 - Is she writer?
+Inserted 2 Port ID - 1924 - Ela é escritora?
+Inserted 1 Engl ID - 1925 - Do you write? F12
+Inserted 1 Engl ID - 1926 - Do you drink? F12
+Inserted 1 Engl ID - 1927 - Do I hate? F12
+Inserted 1 Engl ID - 1928 - Do I agree? F12
+Inserted 1 Engl ID - 1929 - Do I remember? F12
+Inserted 1 Engl ID - 1930 - Do you let? F12
+Inserted 1 Engl ID - 1931 - Do you listen?F12
+Inserted 1 Engl ID - 1932 - Does it fly? F12
+Inserted 1 Engl ID - 1933 - What does she write? F12
+Inserted 1 Engl ID - 1934 - What do you need? F12
+Inserted 1 Engl ID - 1935 - Are you? F12
+Inserted 1 Engl ID - 1936 - Do you work? F12
+Inserted 1 Engl ID - 1937 - Does he spend? F12
+Inserted 1 Engl ID - 1938 - Do you surf? F12
+Inserted 1 Engl ID - 1939 - Do you know?F12
+Inserted 1 Engl ID - 1940 - Do you know cooking? or Do you know to cook?F12
+Inserted 1 Engl ID - 1941 - Do you want drink? F12
+Inserted 1 Engl ID - 1942 - Did he scream yesterday?F12
+Inserted 1 Engl ID - 1943 - Did you tell the story yesterday?F12
+Inserted 1 Engl ID - 1944 - Did you know to speak English last year? F12
+Inserted 1 Engl ID - 1945 - What did you say yesterday?F12
+Inserted 1 Engl ID - 1946 - Did you walk last weekend? F12
+Inserted 1 Engl ID - 1947 - Did you love yesterday? F12
+Inserted 1 Engl ID - 1948 - When did you travel? F12
+Inserted 1 Engl ID - 1949 - Did I forget? F12
+Inserted 1 Engl ID - 1950 - When did I lie? F12
+Inserted 1 Engl ID - 1951 - Were you happy yesterday? F12
+Inserted 1 Engl ID - 1952 - Was he sad yesterday? F12
+Inserted 1 Engl ID - 1953 - Did it happen?F12
+Inserted 1 Engl ID - 1954 - Did you eat yesterday? F12
+Inserted 1 Engl ID - 1955 - Did you check the documents? F12
+Inserted 1 Engl ID - 1956 - Was I sleeping during the movie? F12
+Inserted 1 Engl ID - 1957 - Will you go? F12
+Inserted 1 Engl ID - 1958 - Will you come back? F12
+Inserted 1 Engl ID - 1959 - Will he watch?F12
+Inserted 1 Engl ID - 1960 - Will you remember? F12
+Inserted 1 Engl ID - 1961 - Will you study economy? 
+Inserted 2 Port ID - 1962 - Or will you study contability? 
+Inserted 1 Engl ID - 1963 - Will you travel next week? F12
+Inserted 1 Engl ID - 1964 - Will you like? F12
+Inserted 1 Engl ID - 1965 - Will we play soccer?F12
+Inserted 1 Engl ID - 1966 - Will she play with dolls? F12
+Inserted 1 Engl ID - 1967 - Will you be working? F12
+Inserted 1 Engl ID - 1968 - When will you ask? F12
+Inserted 1 Engl ID - 1969 - Will the judge file?F12
+Inserted 1 Engl ID - 1970 - Will you sell? F12
+Inserted 1 Engl ID - 1971 - Will the beautiful girl try? F12
+Inserted 1 Engl ID - 1972 - Will I feel pain? F12
+Inserted 1 Engl ID - 1973 - Would you like?F12
+Inserted 1 Engl ID - 1974 - Would you pay to watch that movie? F12
+Inserted 1 Engl ID - 1975 - Would you date with me? F12
+Inserted 1 Engl ID - 1976 - Would you die for me? F12
+Inserted 1 Engl ID - 1977 - Would I be? F12
+Inserted 1 Engl ID - 1978 - Would you mess?F12
+Inserted 1 Engl ID - 1979 - Where would you go? F12
+Inserted 1 Engl ID - 1980 - Would I follow? F12
+Inserted 1 Engl ID - 1981 - Would she hurt my heart? F12
+Inserted 1 Engl ID - 1982 - Would she live? F12
+Inserted 1 Engl ID - 1983 - Would you forgive me? F12
+Inserted 1 Engl ID - 1984 - Would you uninstall? F12
+Inserted 1 Engl ID - 1985 - Would you become? F12
+Inserted 1 Engl ID - 1986 - Would I cry for this? F12
+Inserted 1 Engl ID - 1987 - Would you say it again? F12
+Inserted 1 Engl ID - 1988 - Has she loved?
+Inserted 2 Port ID - 1989 - Ela amou?
+Inserted 1 Engl ID - 1990 - Have you forgiven?
+Inserted 2 Port ID - 1991 - Você perdou? 
+Inserted 1 Engl ID - 1992 - Have you driven?F12
+Inserted 1 Engl ID - 1993 - Has he spoken?F12
+Inserted 1 Engl ID - 1994 - Has he believed in you?
+Inserted 2 Port ID - 1995 - Ele acreditou em você?
+Inserted 1 Engl ID - 1996 - Has she gone to the bank?
+Inserted 2 Port ID - 1997 - Ela foi ao banco?
+Inserted 1 Engl ID - 1998 - Have you agreed?
+Inserted 2 Port ID - 1999 - Você concordou?
+Inserted 1 Engl ID - 2000 - Why have you agreed?
+Inserted 2 Port ID - 2001 - Por que você concordou?
+Inserted 1 Engl ID - 2002 - Has she sung?
+Inserted 2 Port ID - 2003 - Ela cantou?
+Inserted 1 Engl ID - 2004 - How has she sung?
+Inserted 2 Port ID - 2005 - Como ela cantou?
+Inserted 1 Engl ID - 2006 - Has Mr. John Piper written?F12
+Inserted 1 Engl ID - 2007 - Have you known?F12
+Inserted 1 Engl ID - 2008 - What have you felt?F12
+Inserted 1 Engl ID - 2009 - Have you loved?F12
+Inserted 1 Engl ID - 2010 - Have you fixed?F12
+Inserted 1 Engl ID - 2011 - Has she been fine?F12
+Inserted 1 Engl ID - 2012 - Have I woken boring?F12
+Inserted 1 Engl ID - 1870 - Has he been polite?F12
+Inserted 1 Engl ID - 2014 - Has my dear friend liked?
+Inserted 2 Port ID - 2015 - Meu querido amigo gostou?
+Inserted 1 Engl ID - 2016 - Has my love grown?F12
+Inserted 1 Engl ID - 2017 - Have you said?
+Inserted 2 Port ID - 2018 - Você disse?
+Inserted 1 Engl ID - 2019 - Have we lived?F12
+Inserted 1 Engl ID - 2020 - Have I eaten?F12
+Inserted 1 Engl ID - 2021 - Have you tried?F12
+Inserted 1 Engl ID - 2022 - He worksF12
+Inserted 1 Engl ID - 2023 - He is in home.
+Inserted 2 Port ID - 2024 - Ele está em casa
+Inserted 1 Engl ID - 2025 - I love you.
+Inserted 2 Port ID - 2026 - Eu amo você.
+Inserted 1 Engl ID - 2027 - I know you.
+Inserted 2 Port ID - 2028 - Eu conheço você.
+Inserted 1 Engl ID - 2029 - You eat every time.
+Inserted 2 Port ID - 2030 - Você come toda hora.
+Inserted 1 Engl ID - 2031 - I speak english.
+Inserted 2 Port ID - 2032 - Eu falo inglês.
+Inserted 1 Engl ID - 2033 - I'm learning.
+Inserted 2 Port ID - 2034 - Eu estou aprendendo.
+Inserted 1 Engl ID - 2035 - I aid you.
+Inserted 2 Port ID - 2036 - Eu ajudo você.
+Inserted 1 Engl ID - 2037 - I thank you.
+Inserted 2 Port ID - 2038 - Eu agradeço você.
+Inserted 1 Engl ID - 2039 - I apreeciate you.F12
+Inserted 1 Engl ID - 2040 - Enjoy me page.F12
+Inserted 1 Engl ID - 2041 - She judges me.F12
+Inserted 1 Engl ID - 2042 - Eat
+Inserted 2 Port ID - 2043 - Comer.
+Inserted 1 Engl ID - 2044 - Eat your food.
+Inserted 2 Port ID - 2045 - Coma a sua comida.
+Inserted 1 Engl ID - 2046 - I laugh.
+Inserted 2 Port ID - 2047 - Eu rio.
+Inserted 1 Engl ID - 2048 - I know what is happening.
+Inserted 2 Port ID - 2049 - Eu sei o que está acontencendo.
+Inserted 1 Engl ID - 2050 - They celebrate with me.
+Inserted 2 Port ID - 2051 - Eles celebram comigo.
+Inserted 1 Engl ID - 2052 - Jesus is the King of the kings and Lord of the lords.
+Inserted 2 Port ID - 2053 - Jesus é o reis dos reis e senhor dos senhores.
+Inserted 1 Engl ID - 2054 - I mean
+Inserted 2 Port ID - 2055 - Eu quero dizer.
+Inserted 1 Engl ID - 2056 - She means.F12
+Inserted 1 Engl ID - 2057 - He begin.
+Inserted 2 Port ID - 2058 - Ele inicia.
+Inserted 1 Engl ID - 2059 - I start the game again.
+Inserted 2 Port ID - 2060 - Eu começo o jogo novamente.
+Inserted 1 Engl ID - 2061 - He wins.F12
+Inserted 1 Engl ID - 2062 - The winner is Rocky Balboa. 
+Inserted 2 Port ID - 2063 - O vencedor é Rocky Balboa
+Inserted 1 Engl ID - 2064 - He is a loser.
+Inserted 2 Port ID - 2065 - Ele é um perdedor.
+Inserted 1 Engl ID - 2066 - My father is writer.
+Inserted 2 Port ID - 2067 - Meu pai é escritor.
+Inserted 1 Engl ID - 2068 - My father is writing a lot of articles.
+Inserted 2 Port ID - 2069 - Meu pai está escrevendo um monte de artigos.
+Inserted 1 Engl ID - 2070 - Please forget that.
+Inserted 2 Port ID - 2071 - Por favor, esqueça aquilo.
+Inserted 1 Engl ID - 2072 - I'm sorry.
+Inserted 2 Port ID - 2073 - Eu estou sentido.
+Inserted 1 Engl ID - 2074 - I sleep.
+Inserted 2 Port ID - 2075 - Eu durmo.
+Inserted 1 Engl ID - 2076 - I sleep in any place.
+Inserted 2 Port ID - 2077 - Eu durmo em qualquer lugar.
+Inserted 1 Engl ID - 2078 - You are a sleeper.
+Inserted 2 Port ID - 2079 - Você é um dorminhoco.
+Inserted 1 Engl ID - 2080 - It's raining.
+Inserted 2 Port ID - 2081 - Está chovendo.
+Inserted 1 Engl ID - 2082 - It's possible.
+Inserted 2 Port ID - 2083 - É possível.
+Inserted 1 Engl ID - 2084 - I lead.
+Inserted 2 Port ID - 2085 - Eu lidero.
+Inserted 1 Engl ID - 2086 - He leads.F12
+Inserted 1 Engl ID - 2087 - He is leading.
+Inserted 2 Port ID - 2088 - Ele está liderando.
+Inserted 1 Engl ID - 2089 - I ate yesterday.
+Inserted 2 Port ID - 2090 - Eu comi ontem.
+Inserted 1 Engl ID - 2091 - He fixed yesterday.
+Inserted 2 Port ID - 2092 - Ele consertou ontem.
+Inserted 1 Engl ID - 2093 - It happened
+Inserted 2 Port ID - 2094 - Isso aconteceu.
+Inserted 1 Engl ID - 2095 - She was a shy child.
+Inserted 2 Port ID - 2096 - Ela foi uma criança tímida.
+Inserted 1 Engl ID - 2097 - He killed the bug today.
+Inserted 2 Port ID - 2098 - Eu matei o inseto hoje.
+Inserted 1 Engl ID - 2099 - Yesterday I went.
+Inserted 2 Port ID - 2100 - Ontem eu fui.
+Inserted 1 Engl ID - 2101 - Yesterday I went where she was.
+Inserted 2 Port ID - 2102 - Ontem eu fui onde ela estava.
+Inserted 1 Engl ID - 2103 - You were scholar when you were young.
+Inserted 2 Port ID - 2104 - Você era estudioso quando jovem.
+Inserted 1 Engl ID - 2105 - I asked to you yesterday.F12
+Inserted 1 Engl ID - 2106 - I forgot to thank you.
+Inserted 2 Port ID - 2107 - Eu esqueci de agradecer você.
+Inserted 1 Engl ID - 2108 - I needed to study more yesterday.
+Inserted 2 Port ID - 2109 - Eu precisei de estudar mais ontem.
+Inserted 1 Engl ID - 2110 - I dreamed last night.F12
+Inserted 1 Engl ID - 2111 - He called to me.
+Inserted 2 Port ID - 2112 - Ele ligou para mim.
+Inserted 1 Engl ID - 2113 - I will go.
+Inserted 2 Port ID - 2114 - Eu irei.
+Inserted 1 Engl ID - 2115 - He will be.
+Inserted 2 Port ID - 2116 - Ele será 
+Inserted 1 Engl ID - 2117 - She will be.
+Inserted 2 Port ID - 2118 - Ela estará.
+Inserted 1 Engl ID - 2119 - She will dance.F12
+Inserted 1 Engl ID - 2120 - I will find a way.F12
+Inserted 1 Engl ID - 2121 - She will trust.F12
+Inserted 1 Engl ID - 2122 - I will explainF12
+Inserted 1 Engl ID - 2123 - I will wait some minutes.
+Inserted 2 Port ID - 2124 - Eu esperarei por alguns minutos.
+Inserted 1 Engl ID - 2125 - I will hope.
+Inserted 2 Port ID - 2126 - "Eu esperarei esperançosamente
+Inserted 1 Engl ID - 2127 - I will expect for my baby.
+Inserted 2 Port ID - 2128 - Eu esperarei por meu bebê.
+Inserted 1 Engl ID - 2129 - I will tell you.F12
+Inserted 1 Engl ID - 2130 - You will pay for it.
+Inserted 2 Port ID - 2131 - Você pagará por isso.
+Inserted 1 Engl ID - 2132 - I will fly to Europe.
+Inserted 2 Port ID - 2133 - Eu voarei a Europa.
+Inserted 1 Engl ID - 2134 - I would run.
+Inserted 2 Port ID - 2135 - Eu correria
+Inserted 1 Engl ID - 2136 - I would read.F12
+Inserted 1 Engl ID - 2137 - She would buy an island.F12
+Inserted 1 Engl ID - 2138 - You would go out.F12
+Inserted 1 Engl ID - 2139 - I would fall.F12
+Inserted 1 Engl ID - 2140 - He would eat an entire ox.
+Inserted 2 Port ID - 2141 - Ele poderia comer um boi inteiro.
+Inserted 1 Engl ID - 2142 - She would be an adorable girlfriend.F12
+Inserted 1 Engl ID - 2143 - He would be with matters.
+Inserted 2 Port ID - 2144 - Ele estaria com problemas.
+Inserted 1 Engl ID - 2145 - You would be with problems.
+Inserted 2 Port ID - 2146 - Você estaria com probleminha.
+Inserted 1 Engl ID - 2147 - I would be with an issue.
+Inserted 2 Port ID - 2148 - Eu estaria com um problemão.
+Inserted 1 Engl ID - 2149 - I would help you.
+Inserted 2 Port ID - 2150 - Eu socorreria você.
+Inserted 1 Engl ID - 2151 - I would call to my mother.F12
+Inserted 1 Engl ID - 2152 - A virtuous miss would captivate a good man.
+Inserted 2 Port ID - 2153 - Uma moça virtuosa cativaria um bom homem.
+Inserted 1 Engl ID - 2154 - I have driven.
+Inserted 2 Port ID - 2155 - Eu dirigi.
+Inserted 1 Engl ID - 2156 - She has driven.F12
+Inserted 1 Engl ID - 2157 - He has kept.F12
+Inserted 1 Engl ID - 2158 - We have slept here.F12
+Inserted 1 Engl ID - 2159 - You have explained.
+Inserted 2 Port ID - 2160 - Você explicou.
+Inserted 1 Engl ID - 2161 - You have explained quite well.F12
+Inserted 1 Engl ID - 2162 - You have explained too well.F12
+Inserted 1 Engl ID - 2163 - You have explained very well.F12
+Inserted 1 Engl ID - 1472 - I have known.F12
+Inserted 1 Engl ID - 2165 - He has remenbered.F12
+Inserted 1 Engl ID - 2166 - I have read about it.F12
+Inserted 1 Engl ID - 2167 - I have fought.F12
+Inserted 1 Engl ID - 2168 - I have thought.
+Inserted 2 Port ID - 2169 - Eu pensei.
+Inserted 1 Engl ID - 2170 - He has thought.
+Inserted 2 Port ID - 2171 - Ele pensou.
+Inserted 1 Engl ID - 2172 - She has been.
+Inserted 2 Port ID - 2173 - Ela era.
+Inserted 1 Engl ID - 2174 - She has been.
+Inserted 2 Port ID - 2175 - Ela estava.
+Inserted 1 Engl ID - 2176 - I have been working.
+Inserted 2 Port ID - 2177 - Eu estava trabalhando.
+Inserted 1 Engl ID - 2178 - I eat pizza with catchup
+Inserted 2 Port ID - 2179 - Eu como pizza com catchup
+Inserted 1 Engl ID - 2180 - She speaks spanish.
+Inserted 2 Port ID - 2181 - Ela fala espanhol.
+Inserted 1 Engl ID - 2182 - They are learning.F12
+Inserted 1 Engl ID - 2183 - They have helped me.
+Inserted 2 Port ID - 2184 - Ele me socorreram.
+Inserted 1 Engl ID - 2185 - Please buy one for me 
+Inserted 2 Port ID - 2186 - Por favor compra um para mim.
+Inserted 1 Engl ID - 2187 - I will go where she is.
+Inserted 2 Port ID - 2188 - Eu irei onde ela está.
+Inserted 1 Engl ID - 2189 - They jugde me.
+Inserted 2 Port ID - 2190 - Eles me julgam.
+Inserted 1 Engl ID - 2191 - Run!
+Inserted 2 Port ID - 2192 - Corra! 
+Inserted 1 Engl ID - 2193 - He heard my secret yesterday.
+Inserted 2 Port ID - 2194 - Ele ouviu meu segredo ontem.
+Inserted 1 Engl ID - 2195 - She works.
+Inserted 2 Port ID - 2196 - Ela trabalha.
+Inserted 1 Engl ID - 2197 - We work.F12
+Inserted 1 Engl ID - 2198 - She means exactly this. 
+Inserted 2 Port ID - 2199 - Ela quer dizer exatamente isso.
+Inserted 1 Engl ID - 2200 - You begin the game.
+Inserted 2 Port ID - 2201 - Você inicia o jogo.
+Inserted 1 Engl ID - 2202 - I would win.
+Inserted 2 Port ID - 2203 - Eu venceria.
+Inserted 1 Engl ID - 2204 - He loses all fights.
+Inserted 2 Port ID - 2205 - Ele perde todas as lutas.
+Inserted 1 Engl ID - 2206 - She is at home.
+Inserted 2 Port ID - 2207 - Ela está em casa.
+Inserted 1 Engl ID - 2208 - He loves you.
+Inserted 2 Port ID - 2209 - Ele ama você.
+Inserted 1 Engl ID - 2210 - She knows you.
+Inserted 2 Port ID - 2211 - Ela conhece você. 
+Inserted 1 Engl ID - 2212 - I thank you.
+Inserted 2 Port ID - 2213 - Eu agradeço você. 
+Inserted 1 Engl ID - 2214 - She appreciates you.
+Inserted 2 Port ID - 2215 - Ela agredece você mil por cento.
+Inserted 1 Engl ID - 2216 - You are losing.
+Inserted 2 Port ID - 2217 - Você está perdendo.
+Inserted 1 Engl ID - 2218 - I was right yesterday.
+Inserted 2 Port ID - 2219 - Eu estava certo ontem.
+Inserted 1 Engl ID - 2220 - You have known.
+Inserted 2 Port ID - 2221 - Você soube
+Inserted 1 Engl ID - 2222 - I woke at 7 in the morning.
+Inserted 2 Port ID - 2223 - Eu acordei as 7 da manhã.
+Inserted 1 Engl ID - 2224 - She slept until midday.
+Inserted 2 Port ID - 2225 - Ela dormiu até meio dia.
+Inserted 1 Engl ID - 2226 - I would keep it.
+Inserted 2 Port ID - 2227 - Eu manteria isso.
+Inserted 1 Engl ID - 2228 - I have thought.
+Inserted 2 Port ID - 2229 - Eu pensei.
+Inserted 1 Engl ID - 2230 - I have thought wrong about you.
+Inserted 2 Port ID - 2231 - Eu pensei errado sobre você.
+Inserted 1 Engl ID - 2232 - Tell me more about it.
+Inserted 2 Port ID - 2233 - Conte me mais sobre isso.
+Inserted 1 Engl ID - 2234 - She loves drinking.
+Inserted 2 Port ID - 2235 - Ela ama beber.
+Inserted 1 Engl ID - 2236 - She has wanted more.
+Inserted 2 Port ID - 2237 - Ela quis mais.
+Inserted 1 Engl ID - 2238 - I would like to watch.
+Inserted 2 Port ID - 2239 - Eu gostaria de assistir.
+Inserted 1 Engl ID - 2240 - You will grow.
+Inserted 2 Port ID - 2241 - Você crescerá.
+Inserted 1 Engl ID - 2242 - I will surf there.
+Inserted 2 Port ID - 2243 - Eu surfarei lá.
+Inserted 1 Engl ID - 2244 - I have been buying and selling.
+Inserted 2 Port ID - 2245 - Eu estive comprando e vendendo.
+Inserted 1 Engl ID - 2246 - I will be.
+Inserted 2 Port ID - 2247 - Eu estarei.
+Inserted 1 Engl ID - 2248 - I would be a great husband.
+Inserted 2 Port ID - 2249 - Eu seria um ótimo esposo.
+Inserted 1 Engl ID - 2250 - You were awful yesterday.
+Inserted 2 Port ID - 2251 - Você estava horroroso ontem.
+Inserted 1 Engl ID - 2252 - Say it again.
+Inserted 2 Port ID - 2253 - Diga isso de novo.
+Inserted 1 Engl ID - 2254 - I go where she goes.
+Inserted 2 Port ID - 2255 - Eu vou onde ela vai.
+Inserted 1 Engl ID - 2256 - We are inseparables.
+Inserted 2 Port ID - 2257 - Nós somos inseparáveis.
+Inserted 1 Engl ID - 2258 - I will explain to you.
+Inserted 2 Port ID - 2259 - Eu explicarei para você.
+Inserted 1 Engl ID - 2260 - I drove yesterday.
+Inserted 2 Port ID - 2261 - Eu dirigi ontem.
+Inserted 1 Engl ID - 2262 - You pray every night.
+Inserted 2 Port ID - 2263 - Você ora toda noite.
+Inserted 1 Engl ID - 2264 - We go to the Church every Sunday.
+Inserted 2 Port ID - 2265 - Nós vamos a igreja todo domingo.
+Inserted 1 Engl ID - 2266 - I will trust in you.
+Inserted 2 Port ID - 2267 - Eu confiarei em você.
+Inserted 1 Engl ID - 2268 - I wath Paul Washer on Youtube.
+Inserted 2 Port ID - 2269 - Eu assisto Paul no Youtube.
+Inserted 1 Engl ID - 2270 - I do not smoke.F12
+Inserted 1 Engl ID - 2271 - The law does not let.
+Inserted 2 Port ID - 2272 - A lei não permite.
+Inserted 1 Engl ID - 2273 - The law does not let stealing.F12
+Inserted 1 Engl ID - 2274 - I do not guess.
+Inserted 2 Port ID - 2275 - Eu não advinho.
+Inserted 1 Engl ID - 2276 - I am not.
+Inserted 2 Port ID - 2277 - Eu não estou.
+Inserted 1 Engl ID - 2278 - I am not so bad.
+Inserted 2 Port ID - 2279 - Eu não estou tão mal.
+Inserted 1 Engl ID - 2280 - She is not present.
+Inserted 2 Port ID - 2281 - Ela não está presente.
+Inserted 1 Engl ID - 2282 - You do not stop speaking.
+Inserted 2 Port ID - 2283 - Você não para de falar
+Inserted 1 Engl ID - 2284 - I do not blame you.
+Inserted 2 Port ID - 2285 - Eu não culpo você.
+Inserted 1 Engl ID - 2286 - She does not want to stay here.
+Inserted 2 Port ID - 2287 - Ela não quer ficar aqui.
+Inserted 1 Engl ID - 2288 - I do not drink.
+Inserted 2 Port ID - 2289 - Eu não bebo.
+Inserted 1 Engl ID - 2290 - I do not drink because I am not strong enough.
+Inserted 2 Port ID - 2291 - Eu não bebo por que não sou forte o suficiente.
+Inserted 1 Engl ID - 2292 - She does not look.
+Inserted 2 Port ID - 2293 - Ela não olha.
+Inserted 1 Engl ID - 2294 - I do not look like you.
+Inserted 2 Port ID - 2295 - Eu não pareço você.(aparência)
+Inserted 1 Engl ID - 2296 - I do not seem you.
+Inserted 2 Port ID - 2297 - Eu não pareço você.(temperamento)
+Inserted 1 Engl ID - 2298 - My advocate does not fail.
+Inserted 2 Port ID - 2299 - Meu advogado não falha.
+Inserted 1 Engl ID - 2300 - Open the door.
+Inserted 2 Port ID - 2301 - Abra a porta.
+Inserted 1 Engl ID - 2302 - Do not open the door.
+Inserted 2 Port ID - 2303 - Não abra a porta.
+Inserted 1 Engl ID - 2304 - Do not scream.F12
+Inserted 1 Engl ID - 2305 - Don't move.F12
+Inserted 1 Engl ID - 2306 - I did not finish yesterday.
+Inserted 2 Port ID - 2307 - Eu não finalizei ontem
+Inserted 1 Engl ID - 2308 - Actually I did not finish yesterday.
+Inserted 2 Port ID - 2309 - Na realidade eu não finalizei ontem.
+Inserted 1 Engl ID - 2310 - She did not marry yet.
+Inserted 2 Port ID - 2311 - Ela não casou ainda.
+Inserted 1 Engl ID - 2312 - I did not dirty yesterday.
+Inserted 2 Port ID - 2313 - Eu não sujei ontem.
+Inserted 1 Engl ID - 2314 - He did not delete that virus today.
+Inserted 2 Port ID - 2315 - Ele não deletou aquele virus hoje.
+Inserted 1 Engl ID - 2316 - It did not belong to you before.
+Inserted 2 Port ID - 2317 - Isso não pertencia a você antes.
+Inserted 1 Engl ID - 2318 - She did not break in that time.
+Inserted 2 Port ID - 2319 - Ela não brecou naquela hora.
+Inserted 1 Engl ID - 2320 - I was not crossing the street.
+Inserted 2 Port ID - 2321 - Eu não estava atravessando a rua.
+Inserted 1 Engl ID - 2322 - She did not break when I was crossing the street.
+Inserted 2 Port ID - 2323 - Ela não brecou quando eu estava atravessando a rua.
+Inserted 1 Engl ID - 2324 - You did not regret yet
+Inserted 2 Port ID - 2325 - Você não se arrependeu ainda.
+Inserted 1 Engl ID - 2326 - I did not choose it.
+Inserted 2 Port ID - 2327 - Eu não escolhi isso.
+Inserted 1 Engl ID - 2328 - He did not give.F12
+Inserted 1 Engl ID - 2329 - I was not well yesterday.
+Inserted 2 Port ID - 2330 - Eu não estava bem ontem.
+Inserted 1 Engl ID - 2331 - You were not a weel behaved child.
+Inserted 2 Port ID - 2332 - Você não foi uma criança bem comportada.
+Inserted 1 Engl ID - 2333 - I did not forbid you to go yesterday.
+Inserted 2 Port ID - 2334 - Eu não proibi você de ir ontem.
+Inserted 1 Engl ID - 2335 - She did not kiss me last Saturday.
+Inserted 2 Port ID - 2336 - Ela não me beijou sabado passado.
+Inserted 1 Engl ID - 2337 - My son was not working yesterday.
+Inserted 2 Port ID - 2338 - Meu filho não estava trabalhando ontem.
+Inserted 1 Engl ID - 2339 - You did not close the door yesterday.
+Inserted 2 Port ID - 2340 - Você não encostou a porta ontem.
+Inserted 1 Engl ID - 2341 - You did not shut the door yesterday.
+Inserted 2 Port ID - 2342 - Você não fechou a porta ontem.
+Inserted 1 Engl ID - 2343 - You did not lock the door yesterday.
+Inserted 2 Port ID - 2344 - Você não trancou a porta ontem.
+Inserted 1 Engl ID - 2345 - I will not go.
+Inserted 2 Port ID - 2346 - Eu não irei.
+Inserted 1 Engl ID - 2347 - I will not fish.F12
+Inserted 1 Engl ID - 2348 - She will not stay.F12
+Inserted 1 Engl ID - 2349 - I will not delay.
+Inserted 2 Port ID - 2350 - Eu não demorarei.
+Inserted 1 Engl ID - 2351 - I will not pull you up.
+Inserted 2 Port ID - 2352 - Eu não puxarei você para cima.
+Inserted 1 Engl ID - 2353 - She will not push you down.
+Inserted 2 Port ID - 2354 - Ela não empurrará você abaixo.
+Inserted 1 Engl ID - 2355 - He will not realize.
+Inserted 2 Port ID - 2356 - Ele não perceberá.
+Inserted 1 Engl ID - 2357 - She will not see.
+Inserted 2 Port ID - 2358 - Ela não verá.
+Inserted 1 Engl ID - 2359 - I will not respect.
+Inserted 2 Port ID - 2360 - Eu não respeitarei.
+Inserted 1 Engl ID - 2361 - I will not respect  immoral laws.
+Inserted 2 Port ID - 2362 - Eu não respeitarei leis imorais.
+Inserted 1 Engl ID - 2363 - You will not solve.
+Inserted 2 Port ID - 2364 - Você não resolverá.
+Inserted 1 Engl ID - 2365 - You will not solve it alone.
+Inserted 2 Port ID - 2366 - Você não resolverá isso sozinho.
+Inserted 1 Engl ID - 2367 - I will not repeat it again.
+Inserted 2 Port ID - 2368 - Eu não repetirei isso novamente.
+Inserted 1 Engl ID - 2369 - I will not obligate you.
+Inserted 2 Port ID - 2370 - Eu não obrigarei você.
+Inserted 1 Engl ID - 2371 - I will not obligate you to love me.F12
+Inserted 1 Engl ID - 2372 - You will not offend.
+Inserted 2 Port ID - 2373 - Você não ofederá.
+Inserted 1 Engl ID - 2374 - He will not be
+Inserted 2 Port ID - 2375 - Ele não estará
+Inserted 1 Engl ID - 2376 - He will not be stupid to you.
+Inserted 2 Port ID - 2377 - Ele não será estúpido com você.
+Inserted 1 Engl ID - 2378 - My boss will not hire you.
+Inserted 2 Port ID - 2379 - Meu chefe não contratará você.
+Inserted 1 Engl ID - 2380 - Our boss will not fire you.
+Inserted 2 Port ID - 2381 - Nosso chefe não demitirá você.
+Inserted 1 Engl ID - 2382 - I would not think.
+Inserted 2 Port ID - 2383 - Eu não pensaria.
+Inserted 1 Engl ID - 2384 - You would not save.F12
+Inserted 1 Engl ID - 2385 - He would not seek.
+Inserted 2 Port ID - 2386 - Ele não procuraria.
+Inserted 1 Engl ID - 2387 - He would not seach in the internet.
+Inserted 2 Port ID - 2388 - Ele não procuraria na internet.
+Inserted 1 Engl ID - 2389 - I google 
+Inserted 2 Port ID - 2390 - Eu procuro na internet
+Inserted 1 Engl ID - 2391 - She googles
+Inserted 2 Port ID - 2392 - Ela procura na internet.
+Inserted 1 Engl ID - 2393 - I would not be here today.
+Inserted 2 Port ID - 2394 - Eu não estaria aqui hoje.
+Inserted 1 Engl ID - 2395 - I  would not be what I am. 
+Inserted 2 Port ID - 2396 - Eu não seria o que sou.
+Inserted 1 Engl ID - 2397 - She would not know.
+Inserted 2 Port ID - 2398 - Ela não saberia.
+Inserted 1 Engl ID - 2399 - I would not begin like this.
+Inserted 2 Port ID - 2400 - Eu não iniciaria assim.
+Inserted 1 Engl ID - 2401 - I would not start like that.
+Inserted 2 Port ID - 2402 - Eu não começaria assim.
+Inserted 1 Engl ID - 2403 - I would not like to meeting you there.
+Inserted 2 Port ID - 2404 - Eu não gostaria de te encontrar lá.
+Inserted 1 Engl ID - 2405 - He would not meet.F12
+Inserted 1 Engl ID - 2406 - I would not die for it.
+Inserted 2 Port ID - 2407 - Eu não morreria por isso.
+Inserted 1 Engl ID - 2408 - I would not kill for it too.
+Inserted 2 Port ID - 2409 - Eu não mataria por isso também.
+Inserted 1 Engl ID - 2410 - You mother would not approve your attitude.
+Inserted 2 Port ID - 2411 - Sua mãe não aprovaria sua atitude.
+Inserted 1 Engl ID - 2412 - It would not cost so expensive.
+Inserted 2 Port ID - 2413 - Isso não custaria tão caro.
+Inserted 1 Engl ID - 2414 - It would not improve the situation.
+Inserted 2 Port ID - 2415 - Isso não melhoraria a situação.
+Inserted 1 Engl ID - 2416 - She has not worked.F12
+Inserted 1 Engl ID - 2417 - You have not come.F12
+Inserted 1 Engl ID - 2418 - The driver has not stopped.
+Inserted 2 Port ID - 2419 - O motorista não parou.
+Inserted 1 Engl ID - 2420 - People have not liked the news.
+Inserted 2 Port ID - 2421 - A pessoas não gostaram das notícias.
+Inserted 1 Engl ID - 2422 - I have not painted that wall.F12
+Inserted 1 Engl ID - 2423 - I has not picked your things.
+Inserted 2 Port ID - 2424 - Eu não peguei suas coisas.
+Inserted 1 Engl ID - 2425 - I has not caught your things.
+Inserted 2 Port ID - 2426 - Eu não catei suas coisas.
+Inserted 1 Engl ID - 2427 - I has not lent.
+Inserted 2 Port ID - 2428 - Eu não emprestei.
+Inserted 1 Engl ID - 2429 - He has not borrowed.
+Inserted 2 Port ID - 2430 - Ele não pegou emprestado.
+Inserted 1 Engl ID - 2431 - You have not spent everything.
+Inserted 2 Port ID - 2432 - Você não gastou tudo.
+Inserted 1 Engl ID - 2433 - The phone has not rung.
+Inserted 2 Port ID - 2434 - O telefone não tocou.
+Inserted 1 Engl ID - 2435 - She has not drunk.
+Inserted 2 Port ID - 2436 - Ela não bebeu.
+Inserted 1 Engl ID - 2437 - The singer has not sung.
+Inserted 2 Port ID - 2438 - O cantor não cantou.
+Inserted 1 Engl ID - 2439 - The swimmer has not swum.F12
+Inserted 1 Engl ID - 2440 - I have not hidden.
+Inserted 2 Port ID - 2441 - Eu não escondi.
+Inserted 1 Engl ID - 2442 - I have not been.
+Inserted 2 Port ID - 2443 - Eu não era.
+Inserted 1 Engl ID - 2444 - I have not been.
+Inserted 2 Port ID - 2445 - Eu não estava.
+Inserted 1 Engl ID - 2446 - It has not been.
+Inserted 2 Port ID - 2447 - Isso não estava.
+Inserted 1 Engl ID - 2448 - It has not been working.
+Inserted 2 Port ID - 2449 - Isso não estava funcionando.
+Inserted 1 Engl ID - 2450 - You haeve not frozen
+Inserted 2 Port ID - 2451 - Você não congelou.
+Inserted 1 Engl ID - 2452 - The freezer has not been freezing.
+Inserted 2 Port ID - 2453 - O congelador não estava congelando.
+Inserted 1 Engl ID - 2454 - I don't want
+Inserted 2 Port ID - 2455 - Eu não quero
+Inserted 1 Engl ID - 2456 - He doesn't want
+Inserted 2 Port ID - 2457 - Ele não quer 
+Inserted 1 Engl ID - 2458 - He won't go
+Inserted 2 Port ID - 2459 - Ele não irá 
+Inserted 1 Engl ID - 2460 - She wouldn't be like this.
+Inserted 2 Port ID - 2461 - Ela não estaria assim
+Inserted 1 Engl ID - 2462 - You haven't been
+Inserted 2 Port ID - 2463 - Você não estava
+Inserted 1 Engl ID - 2464 - You haven't been saying the truth.
+Inserted 2 Port ID - 2465 - Você não estava dizendo a verdade.
+Inserted 1 Engl ID - 2466 - You didn't see yesterday.
+Inserted 2 Port ID - 2467 - Você não viu ontem
+Inserted 1 Engl ID - 2468 - She isn't waiting.
+Inserted 2 Port ID - 2469 - Ela não está esperando.
+Inserted 1 Engl ID - 2470 - My son won't learn.
+Inserted 2 Port ID - 2471 - Meu filho não aprenderá
+Inserted 1 Engl ID - 2472 - Actually, he doesn't need to learn theses things.
+Inserted 2 Port ID - 2473 - Na realidade ele não precisa aprender essas coisas.
+Inserted 1 Engl ID - 2474 - I don't know what I want.
+Inserted 2 Port ID - 2475 - Eu não sei o que eu quero.
+Inserted 1 Engl ID - 2476 - He won't agree.
+Inserted 2 Port ID - 2477 - Ele não concordará
+Inserted 1 Engl ID - 2478 - She hasn't cried.
+Inserted 2 Port ID - 2479 - Ela não chorou.
+Inserted 1 Engl ID - 2480 - It didn't fit inside the car yesterday.
+Inserted 2 Port ID - 2481 - Isso não coube dentro do carro ontem.
+Inserted 1 Engl ID - 2482 - They don't understand economy.
+Inserted 2 Port ID - 2483 - Eles não entendem econômia.
+Inserted 1 Engl ID - 2484 - My daughter hasn't been.
+Inserted 2 Port ID - 2485 - Minha filha não estava.
+Inserted 1 Engl ID - 2486 - She didn't call me yesterday
+Inserted 2 Port ID - 2487 - Ela não me chamou ontem.
+Inserted 1 Engl ID - 2488 - I wouldn't give.
+Inserted 2 Port ID - 2489 - Eu não daria.
+Inserted 1 Engl ID - 2490 - She wouldn't forgive.
+Inserted 2 Port ID - 2491 - Ela não perdoaria.
+Inserted 1 Engl ID - 2492 - She hasn't forgiven.
+Inserted 2 Port ID - 2493 - Ela não perduou.
+Inserted 1 Engl ID - 2494 - You haven't chosen it.
+Inserted 2 Port ID - 2495 - Você não escolheu isso.
+Inserted 1 Engl ID - 2496 - She doesn't look like her father.
+Inserted 2 Port ID - 2497 - Ela não parece o pai dela.
+Inserted 1 Engl ID - 2498 - He doesn't seem his mother.
+Inserted 2 Port ID - 2499 - Ele não parece a mãe dele.
+Inserted 1 Engl ID - 2500 - He didn't smoke last year.
+Inserted 2 Port ID - 2501 - Ele não fumava ano passado.
+Inserted 1 Engl ID - 2502 - You weren't smoking yesterday.
+Inserted 2 Port ID - 2503 - Você não estava fumando ontem.
+Inserted 1 Engl ID - 2504 - I wouldn't want to say that.
+Inserted 2 Port ID - 2505 - Eu não quereria dizer isso.
+Inserted 1 Engl ID - 2506 - I haven't offended her.
+Inserted 2 Port ID - 2507 - Eu não ofendi ela.
+Inserted 1 Engl ID - 2508 - I am not seeking him.
+Inserted 2 Port ID - 2509 - Eu não estou procurando ele.
+Inserted 1 Engl ID - 2510 - He wouldn't know saying.
+Inserted 2 Port ID - 2511 - Ele não saberia dizer.
+Inserted 1 Engl ID - 2512 - She wasn't focusing yesterday.
+Inserted 2 Port ID - 2513 - Ela não estava prestando a atenção ontem.
+Inserted 1 Engl ID - 2514 - She won't hear.
+Inserted 2 Port ID - 2515 - Ela não ouvirá.
+Inserted 1 Engl ID - 2516 - You haven't tried.
+Inserted 2 Port ID - 2517 - Você não tentou.
+Inserted 1 Engl ID - 2518 - I wouldn't spend with this.
+Inserted 2 Port ID - 2519 - Eu não gastaria com isso.
+Inserted 1 Engl ID - 2520 - They haven't spent.
+Inserted 2 Port ID - 2521 - Eles não gastaram.
+Inserted 1 Engl ID - 2522 - It hasn't ended.
+Inserted 2 Port ID - 2523 - Isso não terminou.
+Inserted 1 Engl ID - 2524 - It hasn't been my fault.
+Inserted 2 Port ID - 2525 - Não foi minha culpa.
+Inserted 1 Engl ID - 2526 - The player doesn't play since April.
+Inserted 2 Port ID - 2527 - O jogador não joga desde abril.
+Inserted 1 Engl ID - 2528 - She didn't marry yet.
+Inserted 2 Port ID - 2529 - Ela não casou ainda.
+Inserted 1 Engl ID - 2530 - I wasn't so good last month.
+Inserted 2 Port ID - 2531 - Eu não era tão bom mês passado.
+Inserted 1 Engl ID - 2532 - Sometimes I don't listen very well.
+Inserted 2 Port ID - 2533 - As vezes eu não escuto muito bem.
+Inserted 1 Engl ID - 2534 - The driver didn't come today.
+Inserted 2 Port ID - 2535 - O motorista não veio hoje.
+Inserted 1 Engl ID - 2536 - You aren't a true fighter.
+Inserted 2 Port ID - 2537 - Você não é um verdadeiro lutador.
+Inserted 1 Engl ID - 2538 - He hasn't gone to the bank.
+Inserted 2 Port ID - 2539 - Ele não foi ao banco.
+Inserted 1 Engl ID - 2540 - It hasn't been spoken.
+Inserted 2 Port ID - 2541 - Isso não foi falado.
+Inserted 1 Engl ID - 2542 - She isn't loved.
+Inserted 2 Port ID - 2543 - Ela não é amada.
+Inserted 1 Engl ID - 2544 - He isn't drunk.
+Inserted 2 Port ID - 2545 - Ele não está bebado.
+Inserted 1 Engl ID - 2546 - You didn't fix the freezer yet.
+Inserted 2 Port ID - 2547 - Você não consertou o congelador ainda.
+Inserted 1 Engl ID - 2548 - He hasn't been working.
+Inserted 2 Port ID - 2549 - Ele não estava funcionando.
+Inserted 1 Engl ID - 2550 - Don't go without me.
+Inserted 2 Port ID - 2551 - Não vá sem mim.
+Inserted 1 Engl ID - 2552 - Don't be like this.
+Inserted 2 Port ID - 2553 - Não seja assim.
+Inserted 1 Engl ID - 2554 - I am gonna go.
+Inserted 2 Port ID - 2555 - Eu irei
+Inserted 1 Engl ID - 2556 - Are you gonna go? 
+Inserted 2 Port ID - 2557 - Você irá?
+Inserted 1 Engl ID - 2558 - She is gonna be? 
+Inserted 2 Port ID - 2559 - Ela estará.
+Inserted 1 Engl ID - 2560 - I am gonna say the truth.
+Inserted 2 Port ID - 2561 - Eu direi a verdade.
+Inserted 1 Engl ID - 2562 - I am not gonna tell to nobody.
+Inserted 2 Port ID - 2563 - Eu não contarei para ninguém.
+Inserted 1 Engl ID - 2564 - I am gonna be busy tomorrow.
+Inserted 2 Port ID - 2565 - Eu estarei ocupado amanhã.
+Inserted 1 Engl ID - 2566 - I am gonna be in Campinas.
+Inserted 2 Port ID - 2567 - Eu estarei em Campinas.
+Inserted 1 Engl ID - 2568 - He is not gonna go with me.
+Inserted 2 Port ID - 2569 - Ele não irá comigo.
+Inserted 1 Engl ID - 2570 - Are you gonna work tomorrow?
+Inserted 2 Port ID - 2571 - Você trabalhará amanhã?
+Inserted 1 Engl ID - 2572 - She is gonna study.
+Inserted 2 Port ID - 2573 - Ela estudará.
+Inserted 1 Engl ID - 2574 - I am gonna tell you.
+Inserted 2 Port ID - 2575 - Eu contarei para você.
+Inserted 1 Engl ID - 2576 - Is she gonna forgive?
+Inserted 2 Port ID - 2577 - Ela perdoará?
+Inserted 1 Engl ID - 2578 - I am gonna remember.
+Inserted 2 Port ID - 2579 - Eu lembrarei.
+Inserted 1 Engl ID - 2580 - I am gonna attend accountancy.
+Inserted 2 Port ID - 2581 - Eu cursarei contabilidade.
+Inserted 1 Engl ID - 2582 - Is he gonna to go to his job?
+Inserted 2 Port ID - 2583 - Ele irá para o trabalho dele?
+Inserted 1 Engl ID - 2584 - Are you gonna go with me?
+Inserted 2 Port ID - 2585 - Você irá comigo?
+Inserted 1 Engl ID - 2586 - She is gonna go together, don't you think?
+Inserted 2 Port ID - 2587 - Ela quererar ir comigo, você não acha?
+Inserted 1 Engl ID - 2588 - He is not gonna answer the phone.
+Inserted 2 Port ID - 2589 - Ele não atenderá o telefone.
+Inserted 1 Engl ID - 2590 - I am gonna buy.
+Inserted 2 Port ID - 2591 - Eu comprarei.
+Inserted 1 Engl ID - 2592 - We are not gonna forget.
+Inserted 2 Port ID - 2593 - Nós não esqueceremos.
+Inserted 1 Engl ID - 2594 - I am not gonna be here tomorrow.
+Inserted 2 Port ID - 2595 - Eu não estarei aqui amanhã.
+Inserted 1 Engl ID - 2596 - It is not gonna rain tomorrow.
+Inserted 2 Port ID - 2597 - Não choverá amanhã.
+Inserted 1 Engl ID - 2598 - He can come here.
+Inserted 2 Port ID - 2599 - Ele pode vir aqui.
+Inserted 1 Engl ID - 2600 - I can't run.
+Inserted 2 Port ID - 2601 - Eu não posso correr.
+Inserted 1 Engl ID - 2602 - Can you aid me soon?
+Inserted 2 Port ID - 2603 - Você pode me ajudar daqui a pouco?
+Inserted 1 Engl ID - 2604 - Can you help us?
+Inserted 2 Port ID - 2605 - Você pode nós socorrer?
+Inserted 1 Engl ID - 2606 - Can you cook today?
+Inserted 2 Port ID - 2607 - Você pode cozinhar hoje?
+Inserted 1 Engl ID - 2608 - What can happen to me?
+Inserted 2 Port ID - 2609 - O que pode acontecer comigo?
+Inserted 1 Engl ID - 2610 - Who can win the game?
+Inserted 2 Port ID - 2611 - Quem pode vencer o jogo?
+Inserted 1 Engl ID - 2612 - I can tomorrow.
+Inserted 2 Port ID - 2613 - Eu conseguirei amanhã.
+Inserted 1 Engl ID - 2614 - She can.
+Inserted 2 Port ID - 2615 - Ela consegue.
+Inserted 1 Engl ID - 2616 - I can drive.
+Inserted 2 Port ID - 2617 - Eu posso dirigir.
+Inserted 1 Engl ID - 2618 - He cannot drive.
+Inserted 2 Port ID - 2619 - Ele não pode dirigir.
+Inserted 1 Engl ID - 2620 - I could see fear in your eyes.
+Inserted 2 Port ID - 2621 - Eu podia ver medo em seus olhos.
+Inserted 1 Engl ID - 2622 - Could you give me the sugar?
+Inserted 2 Port ID - 2623 - Você poderia me dar o açucar?
+Inserted 1 Engl ID - 2624 - He could be more polite.
+Inserted 2 Port ID - 2625 - Ele poderia ser mais educado.
+Inserted 1 Engl ID - 2626 - Could she come here tomorrow?
+Inserted 2 Port ID - 2627 - Ela poderia vir aqui amanhã?
+Inserted 1 Engl ID - 2628 - I couldn't do anything.
+Inserted 2 Port ID - 2629 - Eu não poderia fazer nada.
+Inserted 1 Engl ID - 2630 - When could you buy newspapers to me?
+Inserted 2 Port ID - 2631 - Quando você poderia comprar jornais pra mim?
+Inserted 1 Engl ID - 2632 - What time could you go?
+Inserted 2 Port ID - 2633 - Que horas você poderia ir?
+Inserted 1 Engl ID - 2634 - They couldn't fail this time.
+Inserted 2 Port ID - 2635 - Eles não poderia falhar dessa vez.
+Inserted 1 Engl ID - 2636 - Can you bring a glass of water for him please?
+Inserted 2 Port ID - 2637 - Você poderia trazer um copo d'agua para ele, por favor?
+Inserted 1 Engl ID - 2638 - We couldn't travel last year.
+Inserted 2 Port ID - 2639 - Nós não podemos viajar ano passado.
+Inserted 1 Engl ID - 2640 - I shall go there.
+Inserted 2 Port ID - 2641 - Eu devo ir lá.
+Inserted 1 Engl ID - 2642 - I shall travel to South Korea.
+Inserted 2 Port ID - 2643 - Eu devo viajar para a Korea do Sul.
+Inserted 1 Engl ID - 2644 - She shall be arrested.
+Inserted 2 Port ID - 2645 - Ela deve ser presa.
+Inserted 1 Engl ID - 2646 - She shall work in this Saturday.
+Inserted 2 Port ID - 2647 - Ela deve trabalhar esse sábado.
+Inserted 1 Engl ID - 2648 - Shall we go?
+Inserted 2 Port ID - 2649 - Nós devemos ir?
+Inserted 1 Engl ID - 2650 - You shall go away.
+Inserted 2 Port ID - 2651 - Você deve ir embora.
+Inserted 1 Engl ID - 2652 - I shan't know.
+Inserted 2 Port ID - 2653 - Eu não devo saber.
+Inserted 1 Engl ID - 2654 - He shall bear this problem.
+Inserted 2 Port ID - 2655 - Ele deve suportar esse problema.
+Inserted 1 Engl ID - 2656 - You shall improve your grades.
+Inserted 2 Port ID - 2657 - Vocês devem melhorar suas notas.
+Inserted 1 Engl ID - 2658 - They shall begin to study soon.
+Inserted 2 Port ID - 2659 - Eles devem começar a estudar logo.
+Inserted 1 Engl ID - 2660 - I should go.
+Inserted 2 Port ID - 2661 - Eu deveria ir.
+Inserted 1 Engl ID - 2662 - She should be there.
+Inserted 2 Port ID - 2663 - Ela deveria estar lá.
+Inserted 1 Engl ID - 2664 - You should thank me
+Inserted 2 Port ID - 2665 - Você deveria me agradecer.
+Inserted 1 Engl ID - 2666 - She should learn another language.
+Inserted 2 Port ID - 2667 - Ela deveria aprender outra lingua.
+Inserted 1 Engl ID - 2668 - I should write a book.
+Inserted 2 Port ID - 2669 - Eu deveria escrever um livro.
+Inserted 1 Engl ID - 2670 - It shouldn't stink like this.
+Inserted 2 Port ID - 2671 - Isso não deveria feder assim.
+Inserted 1 Engl ID - 2672 - Shouldn't he pay the bills yesterday?
+Inserted 2 Port ID - 2673 - Ele não deveria pagar as contas ontem?
+Inserted 1 Engl ID - 2674 - I should sleep early.
+Inserted 2 Port ID - 2675 - Eu deveria dormir cedo.
+Inserted 1 Engl ID - 2676 - I did yesterday.
+Inserted 2 Port ID - 2677 - Eu fiz ontem.
+Inserted 1 Engl ID - 2678 - Has he done?
+Inserted 2 Port ID - 2679 - Ele fez?
+Inserted 1 Engl ID - 2680 - I would not do
+Inserted 2 Port ID - 2681 - Eu não faria.
+Inserted 1 Engl ID - 2682 - He does
+Inserted 2 Port ID - 2683 - Ele faz.
+Inserted 1 Engl ID - 2684 - You do.
+Inserted 2 Port ID - 2685 - Você faz.
+Inserted 1 Engl ID - 2686 - You do not do.
+Inserted 2 Port ID - 2687 - Você não faz.
+Inserted 1 Engl ID - 2688 - He will do
+Inserted 2 Port ID - 2689 - Ele fará.
+Inserted 1 Engl ID - 2690 - Will he do?
+Inserted 2 Port ID - 2691 - Ele fará?
+Inserted 1 Engl ID - 2692 - Do you do?
+Inserted 2 Port ID - 2693 - Você faz?
+Inserted 1 Engl ID - 2694 - Would you do?
+Inserted 2 Port ID - 2695 - Você faria?
+Inserted 1 Engl ID - 2696 - Would you do?
+Inserted 2 Port ID - 2697 - Você realizaria?
+Inserted 1 Engl ID - 2698 - Did you do yesterday?
+Inserted 2 Port ID - 2699 - Você realizou ontem?
+Inserted 1 Engl ID - 2700 - How do you do it?
+Inserted 2 Port ID - 2701 - Como você faz isso?
+Inserted 1 Engl ID - 2702 - I have done a great work.
+Inserted 2 Port ID - 2703 - Eu realizei um grande trabalho.
+Inserted 1 Engl ID - 2704 - I usually do my homework after my dinner.
+Inserted 2 Port ID - 2705 - Eu geralmente faço minha lição depois do jantar.
+Inserted 1 Engl ID - 2706 - They did their best last weekend.
+Inserted 2 Port ID - 2707 - Eles fizeram o seu melhor no último final de semana.
+Inserted 1 Engl ID - 2708 - Can you do me a favor?
+Inserted 2 Port ID - 2709 - Você pode me fazer um favor?
+Inserted 1 Engl ID - 2710 - He does everything for his mother.
+Inserted 2 Port ID - 2711 - Ele faz tudo pela mãe dele.
+Inserted 1 Engl ID - 2712 - I have had.
+Inserted 2 Port ID - 2713 - Eu tive.
+Inserted 1 Engl ID - 2714 - Does she have?
+Inserted 2 Port ID - 2715 - Ela tem?
+Inserted 1 Engl ID - 2716 - He has.
+Inserted 2 Port ID - 2717 - Ele tem.
+Inserted 1 Engl ID - 2718 - She won't have.
+Inserted 2 Port ID - 2719 - Ela não terá.
+Inserted 1 Engl ID - 2720 - I would have.
+Inserted 2 Port ID - 2721 - Eu teria.
+Inserted 1 Engl ID - 2722 - Did she have yesterday?
+Inserted 2 Port ID - 2723 - Ela tinha ontem?
+Inserted 1 Engl ID - 2724 - He hasn't had.
+Inserted 2 Port ID - 2725 - Ele não tinha.
+Inserted 1 Engl ID - 2726 - Have you had?
+Inserted 2 Port ID - 2727 - Você teve?
+Inserted 1 Engl ID - 2728 - Will you have time to study tomorrow?
+Inserted 2 Port ID - 2729 - Você terá tempo para estudar amanhã?
+Inserted 1 Engl ID - 2730 - Did you have classes yesterday?
+Inserted 2 Port ID - 2731 - Você teve aulas ontem?
+Inserted 1 Engl ID - 2732 - Will you have kids?
+Inserted 2 Port ID - 2733 - Você terá filhos?
+Inserted 1 Engl ID - 2734 - She hasn't had good moments, I have had
+Inserted 2 Port ID - 2735 - Ela não teve bons momentos, eu tive.
+Inserted 1 Engl ID - 2736 - Let's have fun.
+Inserted 2 Port ID - 2737 - Deixe-nós ter diversão.
+Inserted 1 Engl ID - 2738 - I had three puppies in my childhood.
+Inserted 2 Port ID - 2739 - Eu tive 3 cachorrinhos na infância.
+Inserted 1 Engl ID - 2740 - I have a good neighborhood.
+Inserted 2 Port ID - 2741 - Eu tenho uma boa vizinhança.
+Inserted 1 Engl ID - 2742 - You will have problems but don't hate it.
+Inserted 2 Port ID - 2743 - Você terá problemas, mas não odei isso.
+Inserted 1 Engl ID - 2744 - Do we have a chance?
+Inserted 2 Port ID - 2745 - Nós temos uma chance?
+Inserted 1 Engl ID - 2746 - This guy hasn't had so much luck.
+Inserted 2 Port ID - 2747 - Esse cara não teve muita sorte.
+Inserted 1 Engl ID - 2748 - I will have cake and coke.
+Inserted 2 Port ID - 2749 - Eu terei bolo e coca.
+Inserted 1 Engl ID - 2750 - I have need for speed.
+Inserted 2 Port ID - 2751 - Eu tenho necessidade de velocidade.
+Inserted 1 Engl ID - 2752 - He has a brave heart.
+Inserted 2 Port ID - 2753 - Ele tem um coração valente.
+Inserted 1 Engl ID - 2754 - Do you have courage to fight?
+Inserted 2 Port ID - 2755 - Você tem coragem para lutar?
+Inserted 1 Engl ID - 2756 - I have had five cars.
+Inserted 2 Port ID - 2757 - Eu tinha 5 carros.
+Inserted 1 Engl ID - 2758 - You have to have a job.
+Inserted 2 Port ID - 2759 - Você tem que ter um emprego.
+Inserted 1 Engl ID - 2760 - My living room has a nice atmosphere.
+Inserted 2 Port ID - 2761 - Minha sala tem um ambiente legal.
+Inserted 1 Engl ID - 2762 - But the outside has a bad environment.
+Inserted 2 Port ID - 2763 - Mas o lado de fora tem um ambiente ruim.
+Inserted 1 Engl ID - 2764 - I have had strength have you had?
+Inserted 2 Port ID - 2765 - Eu tinha força, você teve?
+Inserted 1 Engl ID - 2766 - Would you have told me?
+Inserted 2 Port ID - 2767 - Você teria me contado?
+Inserted 1 Engl ID - 2768 - She hasn't had luck.
+Inserted 2 Port ID - 2769 - Ela não teve sorte.
+Inserted 1 Engl ID - 2770 - I get a bus to my job.
+Inserted 2 Port ID - 2771 - Eu pego ônibus para o trabalho.
+Inserted 1 Engl ID - 2772 - I have taken a bus to the stadium.
+Inserted 2 Port ID - 2773 - Eu peguei um onibus para o estádio.
+Inserted 1 Engl ID - 2774 - He has got a car to drive in São Paulo.
+Inserted 2 Port ID - 2775 - Ele alugou um carro para dirigir em São Paulo
+Inserted 1 Engl ID - 2776 - She took a car to drive in the town yesterday.
+Inserted 2 Port ID - 2777 - Ela alugou um carro para dirigir na cidadezinha ontem.
+Inserted 1 Engl ID - 2778 - He will get North Pole in Winter.
+Inserted 2 Port ID - 2779 - Ele irá para o polo norte no inverno.
+Inserted 1 Engl ID - 2780 - We have taken a photo.
+Inserted 2 Port ID - 2781 - Nós tiramos uma foto.
+Inserted 1 Engl ID - 2782 - She has got portuguese.
+Inserted 2 Port ID - 2783 - Ela aprendeu português.
+Inserted 1 Engl ID - 2784 - You will take english.
+Inserted 2 Port ID - 2785 - Você aprenderá inglês.
+Inserted 1 Engl ID - 2786 - Have you got it?
+Inserted 2 Port ID - 2787 - Você entenderam?
+Inserted 1 Engl ID - 2788 - Have you taken it?
+Inserted 2 Port ID - 2789 - Vocês entenderam?
+Inserted 1 Engl ID - 2790 - I have got chemistry.
+Inserted 2 Port ID - 2791 - Eu entendi química.
+Inserted 1 Engl ID - 2792 - I have taken the tickets.
+Inserted 2 Port ID - 2793 - Eu consegui os ingressos .
+Inserted 1 Engl ID - 2794 - Where do you get your strangth?
+Inserted 2 Port ID - 2795 - Onde você consegue a sua força?
+Inserted 1 Engl ID - 2796 - Did you take the message yesterday?
+Inserted 2 Port ID - 2797 - Você captou a mensagem ontem?
+Inserted 1 Engl ID - 2798 - How do you get these things?
+Inserted 2 Port ID - 2799 - Como você adquire essas coisas?
+Inserted 1 Engl ID - 2800 - Where do you take these things?
+Inserted 2 Port ID - 2801 - Onde você pega essas coisas?
+2019/05/27 02:58:58

@@ -1,0 +1,109 @@
+akflbcd;0
+akflbcd;0
+could;7
+could not;7
+couldn't;7
+should;6
+should not;6
+shouldn't;6
+Would;5
+Would not;5
+Wouldn't;5
+I'd;5
+They'd;5
+You'd;5
+We'd;5
+He'd;5
+She'd;5
+It'd";5
+won't;4
+will;4
+will not;4
+going to;4
+I'm going to;4
+gonna;4
+shall;4
+shan't;4
+shall not;4
+Have you;3
+Has he been;3
+I have been;3
+Have I been;3
+We have been;3
+He has been;3
+They have been;3
+She has been;3
+You have been;3
+It has been;3
+I have been;3
+have I been;3
+we have been;3
+he has been;3
+they have been;3
+she has been;3
+you have been;3
+it has been;3
+I haven't been;3
+I have not been;3
+we haven't been;3
+he hasn't been;3
+they haven't been;3
+she hasn't been;3
+you haven't been;3
+it hasn't been;3
+we have not been;3
+he has not been;3
+they have not been;3
+she has not been;3
+you have not been;3
+have been;3
+it has not been;3
+did;2
+didn't;2
+were;2
+weren't;2
+Was;2
+was;2
+wasn't;2
+died;2
+do;1
+does;1
+don't;1
+doesn't;1
+I am;1
+What do;1
+Do you;1
+What are;1
+Do I;1
+What is;1
+aren't;1
+you are;1
+we are;1
+they are;1
+are you;1
+are we;1
+are they;1
+I'm;1
+I am;1
+Am I;1
+Is he;1
+Is she;1
+Is it;1
+you're;1
+You're;1
+we're;1
+We're;1
+they're;1
+They're;1
+Where do;1
+Where does;1
+How do;1
+I do;1
+you do;1
+do you;1
+They do;1
+do they;1
+we do;1
+do we;1
+You need;1
+Edmund;1
